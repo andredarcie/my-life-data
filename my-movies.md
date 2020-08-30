@@ -1,8 +1,8 @@
 # My Movies
 
-**legend**
-👍 - recommended
-🔄 - rewatched
+**legend**  
+👍 - recommended  
+🔄 - rewatched  
 
 ## Watched
 ### 2013
