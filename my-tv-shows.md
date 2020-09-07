@@ -17,11 +17,11 @@ Filhos da Anarquia (2008),
 A Maldição da Residência Hill (2018),
 Manhunt: Unabomber (2017),
 Chernobyl (2019),
-American Horror Story (2011), - 1 Season
+American Horror Story (2011) - 1 Season,
 Tiger King (2020), - 1 Season
 When They See Us (2019),
 Dark (2017),
-Rick and Morty (2013), - 1, 2, 3, 4 seasons
+Rick and Morty (2013) - 1, 2, 3, 4 seasons,
 Capitu (2008)
 
 ### Watching
