@@ -33,3 +33,15 @@ Watchmen - Alan Moore
 Odisseia - Homero (Grandes Clássicos da Literatura em Quadrinhos)
 Coleção Shakespeare em Quadrinhos - Otelo - Jazz e Akira Sanoki
 Violent Cases - Neil Gaiman e Dave Mckean
+
+### Read
+#### 2019
+Sapiens - Yuval Noah Harari
+Desista! - Franz Kafka, Peter Kuper
+Othello - William Shakespeare
+
+#### 2020
+Leonardo Da Vinci - Walter Isacson
+
+### Reading 
+Buda
