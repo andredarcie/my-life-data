@@ -4,25 +4,25 @@
 👍 - recommended
 
 ## Playing
-Red Dead Redemption 2
+Red Dead Redemption 2,
 HITMAN 1/2
 
 ## To play
-Crusader Kings III
-Disco Elysium
-The Legend of Zelda - Breath of the Wild
-Resident Evil 2
-Mass Effect 2/3
-Assassin's Creed II
-Silent Hill 2
-The Last of Us Part II
-Half-Life: Alyx
-DOOM Eternal
-Undertale 
-God of War
-Divinity: Original Sin II
-What Remains of Edith Finch
-Uncharted 4: A Thief's End
+Crusader Kings III,
+Disco Elysium,
+The Legend of Zelda - Breath of the Wild,
+Resident Evil 2,
+Mass Effect 2/3,
+Assassin's Creed II,
+Silent Hill 2,
+The Last of Us Part II,
+Half-Life: Alyx,
+DOOM Eternal,
+Undertale,
+God of War,
+Divinity: Original Sin II,
+What Remains of Edith Finch,
+Uncharted 4: A Thief's End,
 Cyberpunk 2077
 
 ## Beated 
