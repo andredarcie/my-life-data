@@ -22,20 +22,20 @@ Dreams - 90
 ### 90
 Super Mario Odyssey - 97,  
 The Legend of Zelda - Breath of the Wild - 96,   
-Mass Effect 2/3 - 96 ,  
-Divinity: Original Sin II - 94,  
-Undertale - 94,  
-Hades - 93,  
-Super Smash Bros. Ultimate - 92
-Disco Elysium - 92,  
-Resident Evil 2 - 92,  
-Forza Horizon 4 - 92,   
-Mario Kart 8 Deluxe - 92
-Crusader Kings III - 91,   
-Assassin's Creed II - 91,   
-Hollow Knight - 90  
-Ori and the Will of the Wisps - 90
-Ori and the Blind Forest - 90
+Mass Effect 2/3 - 96 ,    
+Divinity: Original Sin II - 94,    
+Undertale - 94,    
+Hades - 93,    
+Super Smash Bros. Ultimate - 92   
+Disco Elysium - 92,    
+Resident Evil 2 - 92,    
+Forza Horizon 4 - 92,     
+Mario Kart 8 Deluxe - 92   
+Crusader Kings III - 91,    
+Assassin's Creed II - 91,    
+Hollow Knight - 90    
+Ori and the Will of the Wisps - 90   
+Ori and the Blind Forest - 90     
 
 ### Abaixo de 80
 
