@@ -39,6 +39,7 @@ Ori and the Blind Forest - 90
 
 ### Abaixo de 80
 
+Horizon Zero Dawn - 98,   
 Silent Hill 2 - 89,  
 Dead Cells - 89,  
 Dead Space - 89,  
@@ -47,6 +48,8 @@ Night in the Woods - 88,
 A Short Hike - 88,  
 NieR: Automata - 88  
 What Remains of Edith Finch - 88,   
+Wolfenstein II: The New Colossus - 87,  
+Subnautica - 87,   
 The Witness - 87,  
 GRIS - 84,   
 Florence - 82,   
