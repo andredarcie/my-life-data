@@ -43,6 +43,7 @@ Silent Hill 2 - 89,
 Dead Cells - 89,  
 Dead Space - 89,  
 DOOM Eternal - 89,  
+Night in the Woods - 88,  
 A Short Hike - 88,  
 NieR: Automata - 88  
 What Remains of Edith Finch - 88,   
@@ -53,6 +54,7 @@ Firewatch - 81,
 The Unfinished Swan - 79,  
 Eastshade - 78,   
 ABZU - 78    
+Everybody’s Gone to the Rapture - 78
 
 ## Beated 
 #### Mega Drive (Genesis 3)
