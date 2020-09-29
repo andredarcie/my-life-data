@@ -8,35 +8,51 @@ Red Dead Redemption 2,
 HITMAN 1/2
 
 ## To play
-Super Mario Odyssey,  
-Crusader Kings III,  
-Disco Elysium,  
-The Legend of Zelda - Breath of the Wild,  
-Resident Evil 2,  
-Mass Effect 2/3,  
-Assassin's Creed II,  
-Silent Hill 2,  
-The Last of Us Part II,  
-Half-Life: Alyx,  
-DOOM Eternal,  
-Undertale,  
-Florence,  
-The Witness,  
-God of War,  
-Divinity: Original Sin II,  
-What Remains of Edith Finch,  
-Uncharted 4: A Thief's End,  
-Cyberpunk 2077,  
-Dead Cells,  
-GRIS,  
-The Unfinished Swan,  
-Hollow Knight,  
-Eastshade,  
-Firewatch,  
-ABZU,  
-A Short Hike,  
-Forza Horizon 4,  
-NieR: Automata  
+
+### Não lançado
+Cyberpunk 2077  
+
+### Exclusivo de console/VR
+God of War - 95,    
+The Last of Us Part II - 93,   
+Half-Life: Alyx - 93,    
+Uncharted 4: A Thief's End - 93,   
+Dreams - 90
+
+### 90
+Super Mario Odyssey - 97,  
+The Legend of Zelda - Breath of the Wild - 96,   
+Mass Effect 2/3 - 96 ,  
+Divinity: Original Sin II - 94,  
+Undertale - 94,  
+Hades - 93,  
+Super Smash Bros. Ultimate - 92
+Disco Elysium - 92,  
+Resident Evil 2 - 92,  
+Forza Horizon 4 - 92,   
+Mario Kart 8 Deluxe - 92
+Crusader Kings III - 91,   
+Assassin's Creed II - 91,   
+Hollow Knight - 90  
+Ori and the Will of the Wisps - 90
+Ori and the Blind Forest - 90
+
+### Abaixo de 80
+
+Silent Hill 2 - 89,  
+Dead Cells - 89,  
+Dead Space - 89,  
+DOOM Eternal - 89,  
+A Short Hike - 88,  
+NieR: Automata - 88  
+What Remains of Edith Finch - 88,   
+The Witness - 87,  
+GRIS - 84,   
+Florence - 82,   
+Firewatch - 81,  
+The Unfinished Swan - 79,  
+Eastshade - 78,   
+ABZU - 78    
 
 ## Beated 
 #### Mega Drive (Genesis 3)
