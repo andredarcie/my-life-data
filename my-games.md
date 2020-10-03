@@ -194,5 +194,5 @@ The Witcher 3: Wild Hunt – Hearts of Stone - 28/05/2017
 The Witcher 3: Wild Hunt – Blood and Wine - 16/11/2019 
 
 #### 2020
-The Legend of Zelda - 07/07/2020,
+The Legend of Zelda - 07/07/2020,  
 Celeste - 23/09/2020
