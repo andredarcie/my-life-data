@@ -186,9 +186,9 @@ The Witcher 3: Wild Hunt - 11/07/16
 INSIDE - 12/12/16
 
 #### 2017
-Metal Gear Solid V: The Phantom Pain - 01/02/17
-Resident Evil 7: Biohazard - 18/03/17
-The Witcher 3: Wild Hunt – Hearts of Stone - 28/05/2017
+Metal Gear Solid V: The Phantom Pain - 01/02/17  
+Resident Evil 7: Biohazard - 18/03/17  
+The Witcher 3: Wild Hunt – Hearts of Stone - 28/05/2017  
 
 #### 2019
 The Witcher 3: Wild Hunt – Blood and Wine - 16/11/2019 
