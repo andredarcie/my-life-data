@@ -197,3 +197,14 @@ The Witcher 3: Wild Hunt – Blood and Wine - 16/11/2019
 The Legend of Zelda - 07/07/2020,   
 Celeste - 23/09/2020 
  
+## My top 10
+1. Journey
+2. Metal Gear Solid 2: Sons of Liberty
+3. The Elder Scrolls V: Skyrim
+4. Minecraft
+5. Grand Theft Auto V 
+6. Half-Life 2 
+7. The Witcher 3: Wild Hunt
+8. Amnesia: The Dark Descent
+9. The Walking Dead: A Telltale Games Series
+10. Gone Home
