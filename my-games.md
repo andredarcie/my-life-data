@@ -196,8 +196,9 @@ The Witcher 3: Wild Hunt – Hearts of Stone - 28/05/2017
 The Witcher 3: Wild Hunt – Blood and Wine - 16/11/2019   
 
 #### 2020
-The Legend of Zelda - 07/07/2020,   
-Celeste - 23/09/2020 
+The Legend of Zelda - 07/07/2020   
+Celeste - 23/09/2020   
+Super Mario Odyssey - 09/10/2020
  
 ## My top 10
 1. Journey
@@ -216,4 +217,4 @@ Dishonored, Inside, Grand Theft Auto: San Andreas, StarCraft 2, Resident Evil 4,
 BioShock, Half-Life, Metal Gear Solid 3: Snake Eater, The Last of Us, Doom, Portal 2, Silent Hill,
 Tekken 3, Hitman Blood Money, Call of Duty 2, Braid, Warcraft III: Reign of Chaos, Farcry 3, BioShock,
 Hotline: Miami, The Stanley Parable, The Vanishing of Ethan Carter, To The Moon, Life is Strange,
-The Legend of Zelda, Celeste
+The Legend of Zelda, Celeste, Super Mario Odyssey
