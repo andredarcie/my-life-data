@@ -11,6 +11,7 @@ HITMAN 1/2
 
 ### Não lançado
 Cyberpunk 2077  
+Final Fantasy VII - Full edition
 
 ### Exclusivo de console/VR
 God of War - 95,    
@@ -36,6 +37,7 @@ Assassin's Creed II - 91,
 Hollow Knight - 90    
 Ori and the Will of the Wisps - 90   
 Ori and the Blind Forest - 90     
+Persona 5
 
 ### Abaixo de 80
 
@@ -208,3 +210,10 @@ Celeste - 23/09/2020
 8. Amnesia: The Dark Descent
 9. The Walking Dead: A Telltale Games Series
 10. Gone Home
+
+## Honorable Mention
+Dishonored, Inside, Grand Theft Auto: San Andreas, StarCraft 2, Resident Evil 4, Metal Gear Solid,
+BioShock, Half-Life, Metal Gear Solid 3: Snake Eater, The Last of Us, Doom, Portal 2, Silent Hill,
+Tekken 3, Hitman Blood Money, Call of Duty 2, Braid, Warcraft III: Reign of Chaos, Farcry 3, BioShock,
+Hotline: Miami, The Stanley Parable, The Vanishing of Ethan Carter, To The Moon, Life is Strange,
+The Legend of Zelda, Celeste
