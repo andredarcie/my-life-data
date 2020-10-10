@@ -35,6 +35,12 @@ Coleção Shakespeare em Quadrinhos - Otelo - Jazz e Akira Sanoki
 Violent Cases - Neil Gaiman e Dave Mckean  
 
 ### Read
+#### 2009
+The Sign of Four (Sherlock Holmes) (1890)
+The Naked Face - Sidney Sheldon (1984)
+Master of the Game - Sidney Sheldon (1982)
+A Study in Scarlet (Sherlock Holmes) (1887)
+
 #### 2019
 Sapiens - Yuval Noah Harari  
 Desista! - Franz Kafka, Peter Kuper  
