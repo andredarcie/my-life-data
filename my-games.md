@@ -217,4 +217,4 @@ Dishonored, Inside, Grand Theft Auto: San Andreas, StarCraft 2, Resident Evil 4,
 Half-Life, Metal Gear Solid 3: Snake Eater, The Last of Us, Doom, Portal 2, Silent Hill,
 Tekken 3, Hitman Blood Money, Call of Duty 2, Braid, Warcraft III: Reign of Chaos, Farcry 3, BioShock,
 Hotline: Miami, The Stanley Parable, The Vanishing of Ethan Carter, To The Moon, Life is Strange,
-The Legend of Zelda, Celeste, Super Mario Odyssey
+The Legend of Zelda, Celeste, Super Mario Odyssey, Red Dead Redemption 2
