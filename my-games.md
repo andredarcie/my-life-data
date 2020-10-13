@@ -4,8 +4,8 @@
 👍 - recommended
 
 ## Playing
-Red Dead Redemption 2,  
-HITMAN 1/2  
+The Legend of Zelda - Breath of the Wild
+Mass Effect 2/3
 
 ## To play
 
@@ -21,10 +21,9 @@ Uncharted 4: A Thief's End - 93,
 Dreams - 90
 
 ### 90
-The Legend of Zelda - Breath of the Wild - 96,   
-Mass Effect 2/3 - 96,    
 Divinity: Original Sin II - 94,    
 Undertale - 94,    
+Persona 5 - 93,  
 Hades - 93,    
 Super Smash Bros. Ultimate - 93,   
 Disco Elysium - 92,    
@@ -36,10 +35,10 @@ Assassin's Creed II - 91,
 Hollow Knight - 90    
 Ori and the Will of the Wisps - 90   
 Ori and the Blind Forest - 90     
-Persona 5
+
 
 ### Abaixo de 80
-
+Horizon: Zero Dawn - 98,   
 Horizon Zero Dawn - 98,  
 Borderlands 2 - 89,  
 Silent Hill 2 - 89,  
@@ -51,6 +50,7 @@ A Short Hike - 88,
 NieR: Automata - 88  
 What Remains of Edith Finch - 88,   
 Diablo III - 88,  
+Subnautica - 87,   
 Wolfenstein II: The New Colossus - 87,  
 Subnautica - 87,   
 The Witness - 87,  
