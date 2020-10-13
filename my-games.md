@@ -49,6 +49,7 @@ Night in the Woods - 88,
 A Short Hike - 88,  
 NieR: Automata - 88  
 What Remains of Edith Finch - 88,   
+Diablo III - 88,  
 Wolfenstein II: The New Colossus - 87,  
 Subnautica - 87,   
 The Witness - 87,  
@@ -59,6 +60,7 @@ The Unfinished Swan - 79,
 Eastshade - 78,   
 ABZU - 78    
 Everybody’s Gone to the Rapture - 78
+
 
 ## Beated 
 #### Mega Drive (Genesis 3)
