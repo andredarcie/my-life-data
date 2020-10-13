@@ -26,7 +26,7 @@ Mass Effect 2/3 - 96,
 Divinity: Original Sin II - 94,    
 Undertale - 94,    
 Hades - 93,    
-Super Smash Bros. Ultimate - 92   
+Super Smash Bros. Ultimate - 93,   
 Disco Elysium - 92,    
 Resident Evil 2 - 92,    
 Forza Horizon 4 - 92,     
@@ -40,7 +40,8 @@ Persona 5
 
 ### Abaixo de 80
 
-Horizon Zero Dawn - 98,   
+Horizon Zero Dawn - 98,  
+Borderlands 2 - 89,  
 Silent Hill 2 - 89,  
 Dead Cells - 89,  
 Dead Space - 89,  
