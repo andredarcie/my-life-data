@@ -37,8 +37,7 @@ Ori and the Will of the Wisps - 90
 Ori and the Blind Forest - 90     
 
 
-### Abaixo de 80
-Horizon: Zero Dawn - 98,   
+### Abaixo de 80 
 Horizon Zero Dawn - 98,  
 Borderlands 2 - 89,  
 Silent Hill 2 - 89,  
@@ -54,6 +53,7 @@ Subnautica - 87,
 Wolfenstein II: The New Colossus - 87,  
 Subnautica - 87,   
 The Witness - 87,  
+Outer Wilds - 85,  
 GRIS - 84,   
 Florence - 82,   
 Firewatch - 81,  
