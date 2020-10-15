@@ -5,63 +5,18 @@
 
 ## Playing
 The Legend of Zelda - Breath of the Wild,  
-Mass Effect 2/3
+Mass Effect 2  
 
 ## To play
-
-### Não lançado
-Cyberpunk 2077  
-Final Fantasy VII - Full edition
-
-### Exclusivo de console/VR
-God of War - 95,    
-The Last of Us Part II - 93,   
-Half-Life: Alyx - 93,    
-Uncharted 4: A Thief's End - 93,   
-Dreams - 90
-
-### 90
-Divinity: Original Sin II - 94,    
-Undertale - 94,    
-Persona 5 - 93,  
-Hades - 93,    
-Super Smash Bros. Ultimate - 93,   
-Disco Elysium - 92,    
-Resident Evil 2 - 92,    
-Forza Horizon 4 - 92,     
-Mario Kart 8 Deluxe - 92   
-Crusader Kings III - 91,    
-Assassin's Creed II - 91,    
-Hollow Knight - 90    
-Ori and the Will of the Wisps - 90   
-Ori and the Blind Forest - 90     
-
-
-### Abaixo de 80 
-Horizon Zero Dawn - 98,  
-Borderlands 2 - 89,  
-Silent Hill 2 - 89,  
-Dead Cells - 89,  
-Dead Space - 89,  
-DOOM Eternal - 89,  
-Night in the Woods - 88,  
-A Short Hike - 88,  
-NieR: Automata - 88  
-What Remains of Edith Finch - 88,   
-Diablo III - 88,  
-Subnautica - 87,   
-Wolfenstein II: The New Colossus - 87,  
-Subnautica - 87,   
-The Witness - 87,  
-Outer Wilds - 85,  
-GRIS - 84,   
-Florence - 82,   
-Firewatch - 81,  
-The Unfinished Swan - 79,  
-Eastshade - 78,   
-ABZU - 78    
-Everybody’s Gone to the Rapture - 78
-
+Cyberpunk 2077,   
+Undertale,  
+Disco Elysium,   
+Resident Evil 2,   
+What Remains of Edith Finch,   
+The Witness,  
+Outer Wilds,  
+GRIS,    
+Florence     
 
 ## Beated 
 #### Mega Drive (Genesis 3)
@@ -202,22 +157,3 @@ The Legend of Zelda - 07/07/2020
 Celeste - 23/09/2020   
 Super Mario Odyssey - 09/10/2020   
 Red Dead Redemption 2 - 12/10/2020
-
-## My top 10
-1. Journey
-2. Metal Gear Solid 2: Sons of Liberty
-3. The Elder Scrolls V: Skyrim
-4. Minecraft
-5. Grand Theft Auto V 
-6. Half-Life 2 
-7. The Witcher 3: Wild Hunt
-8. Amnesia: The Dark Descent
-9. The Walking Dead: A Telltale Games Series
-10. Gone Home
-
-## Honorable Mention
-Dishonored, Inside, Grand Theft Auto: San Andreas, StarCraft 2, Resident Evil 4, Metal Gear Solid,
-Half-Life, Metal Gear Solid 3: Snake Eater, The Last of Us, Doom, Portal 2, Silent Hill,
-Tekken 3, Hitman Blood Money, Call of Duty 2, Braid, Warcraft III: Reign of Chaos, Farcry 3, BioShock,
-Hotline: Miami, The Stanley Parable, The Vanishing of Ethan Carter, To The Moon, Life is Strange,
-The Legend of Zelda, Celeste, Super Mario Odyssey, Red Dead Redemption 2
