@@ -157,3 +157,4 @@ The Legend of Zelda - 07/07/2020
 Celeste - 23/09/2020   
 Super Mario Odyssey - 09/10/2020   
 Red Dead Redemption 2 - 12/10/2020
+The Witness - 16/10/2020
