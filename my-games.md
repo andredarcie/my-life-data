@@ -158,5 +158,6 @@ Celeste - 23/09/2020
 Super Mario Odyssey - 09/10/2020   
 Red Dead Redemption 2 - 12/10/2020  
 The Witness - 16/10/2020  
-The Unfinished Swan - 17/10/2020  
-Death Stranding - 24/10/2020
+The Unfinished Swan - 17/10/2020   
+Death Stranding - 24/10/2020  
+The Legend of Zelda: Breath of the Wild - 25/10/2020  
