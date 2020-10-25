@@ -4,7 +4,6 @@
 👍 - recommended
 
 ## Playing
-The Legend of Zelda - Breath of the Wild,  
 Mass Effect 2  
 
 ## To play
@@ -13,10 +12,14 @@ Undertale,
 Disco Elysium,   
 Resident Evil 2,   
 What Remains of Edith Finch,   
-The Witness,  
 Outer Wilds,  
 GRIS,    
 Florence     
+
+## Exclusive
+God of War (2018)
+The Last of Us Part II
+Uncharted 4: A Thief's End
 
 ## Beated 
 #### Mega Drive (Genesis 3)
