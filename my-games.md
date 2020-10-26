@@ -16,9 +16,9 @@ Outer Wilds,
 GRIS    
 
 ## Exclusive
-God of War (2018)
-The Last of Us Part II
-Uncharted 4: A Thief's End
+God of War (2018),  
+The Last of Us Part II,  
+Uncharted 4: A Thief's End  
 
 ## Beated 
 #### Mega Drive (Genesis 3)
