@@ -13,8 +13,7 @@ Disco Elysium,
 Resident Evil 2,   
 What Remains of Edith Finch,   
 Outer Wilds,  
-GRIS,    
-Florence     
+GRIS    
 
 ## Exclusive
 God of War (2018)
