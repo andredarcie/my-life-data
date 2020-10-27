@@ -13,7 +13,16 @@ Disco Elysium,
 Resident Evil 2,   
 What Remains of Edith Finch,   
 Outer Wilds,  
-GRIS    
+GRIS,  
+Heavy Rain,  
+Firewatch,  
+Horizon Zero Dawn,  
+NieR: Automata,  
+Hellblade: Senua's Sacrifice,  
+Control,  
+A Plague Tale: Innocence,  
+SOMA,  
+TACOMA  
 
 ## Exclusive
 God of War (2018),  
