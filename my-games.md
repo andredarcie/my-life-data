@@ -163,4 +163,5 @@ The Witness - 16/10/2020
 The Unfinished Swan - 17/10/2020   
 Death Stranding - 24/10/2020  
 The Legend of Zelda: Breath of the Wild - 25/10/2020   
-Florence - 26/10/2020  
+Florence - 26/10/2020   
+What Remains of Edith Finch - 26/10/2020
