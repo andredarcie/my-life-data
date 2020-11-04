@@ -3,15 +3,12 @@
 **legend**  
 👍 - recommended
 
-## Playing
-Mass Effect 2  
-
 ## To play
 Cyberpunk 2077,   
+Mass Effect 2,  
 Undertale,  
 Disco Elysium,   
 Resident Evil 2,   
-What Remains of Edith Finch,   
 Outer Wilds,  
 GRIS,  
 Heavy Rain,  
@@ -28,6 +25,7 @@ TACOMA
 God of War (2018),  
 The Last of Us Part II,  
 Uncharted 4: A Thief's End  
+Half-Life: Alyx,  
 
 ## Beated 
 #### Mega Drive (Genesis 3)
