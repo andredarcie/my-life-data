@@ -3,7 +3,7 @@
 
 ## Menu
 
-[🎬 Movies](my-movies.md)  
+[🎬 Movies](movies.csv)  
 [📼 Documentaries](my-documentaries.md)  
 [📺 TV Shows](my-tv-shows.md)  
 [📖 Books](#📖-Books)  
