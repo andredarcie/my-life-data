@@ -14,10 +14,7 @@ GRIS,
 Heavy Rain,  
 Firewatch,  
 Horizon Zero Dawn,  
-NieR: Automata,  
 Hellblade: Senua's Sacrifice,  
-Control,  
-A Plague Tale: Innocence,  
 SOMA,  
 TACOMA  
 
