@@ -3,14 +3,10 @@
 **legend**  
 👍 - recommended
 
-## Playing
-Disco Elysium
-
 ## To play
 Cyberpunk 2077,   
 Mass Effect 2,  
 Undertale,  
-Disco Elysium,   
 Resident Evil 2,   
 Outer Wilds,  
 GRIS,  
@@ -172,3 +168,4 @@ Death Stranding - 24/10/2020
 The Legend of Zelda: Breath of the Wild - 25/10/2020   
 Florence - 26/10/2020   
 What Remains of Edith Finch - 26/10/2020
+Disco Elysium - 12/12/2020
