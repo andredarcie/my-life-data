@@ -2,45 +2,45 @@
 
 ### Watched
 
-Dragon Ball Z (1989),
-Irmãos de Guerra (2001),
-Breaking Bad (2008),
-Game of Thrones (2011),
-Cosmos: Uma Odisséia do Espaço-Tempo (2014),
-Cosmos (1980),
-Death Note: Notas da Morte (2006),
-Freaks & Geeks (1999),
-Dexter (2006),
-Roma (2005),
-Wild Wild Country (2018),
-Filhos da Anarquia (2008),
-A Maldição da Residência Hill (2018),
-Manhunt: Unabomber (2017),
-Chernobyl (2019),
-American Horror Story (2011) - 1 Season,
-Tiger King (2020), - 1 Season
-When They See Us (2019),
-Dark (2017),
-Rick and Morty (2013) - 1, 2, 3, 4 seasons,
-Capitu (2008)
+Dragon Ball Z (1989),  
+Irmãos de Guerra (2001),  
+Breaking Bad (2008),  
+Game of Thrones (2011),  
+Cosmos: Uma Odisséia do Espaço-Tempo (2014),  
+Cosmos (1980),  
+Death Note: Notas da Morte (2006),  
+Freaks & Geeks (1999),  
+Dexter (2006),  
+Roma (2005),  
+Wild Wild Country (2018),  
+Filhos da Anarquia (2008),  
+A Maldição da Residência Hill (2018),  
+Manhunt: Unabomber (2017),  
+Chernobyl (2019),  
+American Horror Story (2011) - 1 Season,  
+Tiger King (2020), - 1 Season  
+When They See Us (2019),  
+Dark (2017),  
+Rick and Morty (2013) - 1, 2, 3, 4 seasons,  
+Capitu (2008),  
+Dark (2017),    
 
 ### Watching
 
-The Witcher (2019),
-Dark (2017),
-Peaky Blinders: Sangue, Apostas e Navalhas (2013),
-Westworld (2016),
-Rick and Morty (2013),
-Família Soprano (1999),
-Sherlock (2010),
-Fraternidade Alquimista (2009),
-One Punch Man (2015),
-Amor, Morte & Robôs (2019),
-Silicon Valley (2014)
+The Mandalorian (2019),  
+The Witcher (2019),  
+Peaky Blinders: Sangue, Apostas e Navalhas (2013),  
+Westworld (2016),  
+Rick and Morty (2013),  
+Família Soprano (1999),  
+Sherlock (2010),  
+Fraternidade Alquimista (2009),  
+One Punch Man (2015),  
+Amor, Morte & Robôs (2019),  
+Silicon Valley (2014)  
 
 ### I want to watch
 
-The Mandalorian (2019),
 Twin Peaks (1990)
 
 ### I stopped watching
