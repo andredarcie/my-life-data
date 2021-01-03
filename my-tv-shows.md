@@ -24,10 +24,10 @@ Dark (2017),
 Rick and Morty (2013) - 1, 2, 3, 4 seasons,  
 Capitu (2008),  
 Dark (2017),    
+The Mandalorian (2019) - 1 Season,  
 
 ### Watching
-
-The Mandalorian (2019),  
+ 
 The Witcher (2019),  
 Peaky Blinders: Sangue, Apostas e Navalhas (2013),  
 Westworld (2016),  
