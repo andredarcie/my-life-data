@@ -25,6 +25,7 @@ Rick and Morty (2013) - 1, 2, 3, 4 seasons,
 Capitu (2008),  
 Dark (2017),    
 The Mandalorian (2019) - 1 Season,  
+The Mandalorian (2019) - 2 Season  
 
 ### Watching
  
