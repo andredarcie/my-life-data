@@ -172,3 +172,6 @@ The Legend of Zelda: Breath of the Wild - 25/10/2020
 Florence - 26/10/2020   
 What Remains of Edith Finch - 26/10/2020  
 Disco Elysium - 12/12/2020
+
+#### 2021
+Hades - 20/01/2021
