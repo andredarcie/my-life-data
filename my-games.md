@@ -176,3 +176,4 @@ Disco Elysium - 12/12/2020
 #### 2021
 Hades - 20/01/2021
 Resident Evil 2 (2019) - 28/01/2021
+Resident Evil 3 (2020) - 07/02/2021
