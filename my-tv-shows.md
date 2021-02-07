@@ -26,6 +26,7 @@ Capitu (2008),
 Dark (2017),    
 The Mandalorian (2019) - 1 Season,  
 The Mandalorian (2019) - 2 Season  
+The Office - 1 Season  
 
 ### Watching
  
