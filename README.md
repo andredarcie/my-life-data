@@ -9,3 +9,4 @@
 [📖 Books](#📖-Books)  
 [💬 Comics](#💬-Comics)  
 [🎮 Video Games](my-games.md)  
+[💬 Talks](talks.csv)
