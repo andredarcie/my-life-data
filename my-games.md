@@ -7,7 +7,6 @@
 Cyberpunk 2077,   
 Mass Effect 2,  
 Undertale,  
-Resident Evil 2,   
 Deus Ex: Human Revolution,  
 Outer Wilds,  
 GRIS,  
@@ -23,8 +22,8 @@ God of War (2018),
 The Last of Us Part II,  
 Uncharted 4: A Thief's End  
 Half-Life: Alyx,  
-Final Fantasy 7
-Silent Hill 2 Remake ???
+Final Fantasy 7 Remake,   
+Silent Hill 2 Remake ???  
 
 ## Beated 
 #### Mega Drive (Genesis 3)
