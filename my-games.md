@@ -16,6 +16,7 @@ Horizon Zero Dawn,
 Hellblade: Senua's Sacrifice,  
 SOMA,  
 TACOMA  
+Disco Elysium: The Final Cut  
 
 ## Exclusive
 God of War (2018),  
