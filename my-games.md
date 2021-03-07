@@ -17,6 +17,7 @@ Hellblade: Senua's Sacrifice,
 SOMA,  
 TACOMA  
 Disco Elysium: The Final Cut  
+Halo  
 
 ## Exclusive
 God of War (2018),  
