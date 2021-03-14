@@ -180,4 +180,5 @@ Resident Evil 2 (2019) - 28/01/2021
 Resident Evil 3 (2020) - 07/02/2021  
 Halo: Combat Evolved (2001) - 07/03/2021   
 Horizon Zero Dawn (2017) - 10/03/2021  
-Halo 2 (2004) - 13/03/2021   
+Halo 2 (2004) - 13/03/2021    
+Halo 3 (2007) - 14/03/2021    
