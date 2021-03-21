@@ -182,3 +182,4 @@ Halo: Combat Evolved (2001) - 07/03/2021
 Horizon Zero Dawn (2017) - 10/03/2021  
 Halo 2 (2004) - 13/03/2021    
 Halo 3 (2007) - 14/03/2021    
+Halo: Reach (2010) - 21/03/2021    
