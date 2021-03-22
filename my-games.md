@@ -5,19 +5,14 @@
 
 ## To play
 Cyberpunk 2077,   
-Mass Effect 2,  
+Mass Effect Legendary Edition,  
 Undertale,  
-Deus Ex: Human Revolution,  
-Outer Wilds,  
+Deus Ex: Human Revolution,   
 GRIS,  
-Heavy Rain,  
-Firewatch,  
-Horizon Zero Dawn,  
+Heavy Rain,   
 Hellblade: Senua's Sacrifice,  
 SOMA,  
-TACOMA  
 Disco Elysium: The Final Cut  
-Halo  
 
 ## Exclusive
 God of War (2018),  
