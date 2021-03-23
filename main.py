@@ -1,20 +1,35 @@
-while True:
-    print('''\033[92m My Tracker \033[0m
-    A tiny command-line utility for entertainment tracker
-    Options:
-    [1] - Add
-    [2] - Show
-    [3] - Exit''')
+def choose_your_entertainment():
+    print('''
+    [1] - Books
+    [2] - Documentaries
+    [3] - Tv Shows
+    [4] - Movies
+    [5] - Talks
+    [6] - Video Games
+    ''')
 
-    option = input('-> ')
-    if option == '1':
-        print('What do you want to add?')
-        input()
-    elif option == '2':
-        print('What do you want to show?')
-        input()
-    elif option == '3':
-        break
-    else:
-        print('Invalid option please try again...')
-        input()
+    return input('-> ')
+
+def start():
+    while True:
+        print('''\033[92m My Tracker \033[0m
+        A tiny command-line utility for entertainment tracker
+        Options:
+        [1] - Add
+        [2] - Show
+        [3] - Exit''')
+
+        option = input('-> ')
+        if option == '1':
+            print('What do you want to add?')
+            choose_your_entertainment()
+        elif option == '2':
+            print('What do you want to show?')
+            input()
+        elif option == '3':
+            break
+        else:
+            print('Invalid option please try again...')
+            input()
+            
+start()
