@@ -12,7 +12,8 @@ GRIS,
 Heavy Rain,   
 Hellblade: Senua's Sacrifice,  
 SOMA,  
-Disco Elysium: The Final Cut  
+Disco Elysium: The Final Cut,  
+Journey    
 
 ## Exclusive
 God of War (2018),  
