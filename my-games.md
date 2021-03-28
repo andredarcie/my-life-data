@@ -13,7 +13,11 @@ Heavy Rain,
 Hellblade: Senua's Sacrifice,  
 SOMA,  
 Disco Elysium: The Final Cut,  
-Journey    
+Journey,   
+Call of Duty: Modern Warfare Remastered,   
+Assassin's Creed Valhalla,   
+Super Mario 3D World + Bowser’s Fury,   
+
 
 ## Exclusive
 God of War (2018),  
