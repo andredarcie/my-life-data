@@ -6,7 +6,7 @@
 ## To play
 Cyberpunk 2077,   
 Mass Effect Legendary Edition,  
-Disco Elysium: The Final Cut, 
+Disco Elysium: The Final Cut,    
 Undertale,  
 Deus Ex: Human Revolution,   
 GRIS,  
