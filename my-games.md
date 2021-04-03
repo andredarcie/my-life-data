@@ -4,20 +4,18 @@
 👍 - recommended
 
 ## To play
-Cyberpunk 2077,   
-Mass Effect Legendary Edition,  
-Disco Elysium: The Final Cut,    
-Undertale,  
-Deus Ex: Human Revolution,   
-GRIS,  
-Heavy Rain,   
-Hellblade: Senua's Sacrifice,  
-SOMA,  
-Journey,   
-Call of Duty: Modern Warfare Remastered,   
-Assassin's Creed Valhalla,   
-Super Mario 3D World + Bowser’s Fury,   
-
+Disco Elysium: The Final Cut - 96,    
+Journey - 92,  
+Deus Ex: Human Revolution - 90, 
+Super Mario 3D World + Bowser’s Fury - 89, 
+Heavy Rain - 87,   
+Cyberpunk 2077 - 85,   
+GRIS - 84,  
+SOMA - 84,  
+Assassin's Creed Valhalla - 84,  
+Hellblade: Senua's Sacrifice - 83,  
+Call of Duty: Modern Warfare Remastered - 83, 
+Mass Effect Legendary Edition - Waiting, 
 
 ## Exclusive
 God of War (2018),  
