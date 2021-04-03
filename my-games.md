@@ -6,17 +6,17 @@
 ## To play
 Disco Elysium: The Final Cut - 96,    
 Journey - 92,  
-Deus Ex: Human Revolution - 90, 
-Super Mario 3D World + Bowser’s Fury - 89, 
-Heavy Rain - 87,   
-Cyberpunk 2077 - 85,   
-GRIS - 84,  
-SOMA - 84,  
-Assassin's Creed Valhalla - 84,  
-Hellblade: Senua's Sacrifice - 83,  
-Call of Duty: Modern Warfare Remastered - 83, 
-Mass Effect Legendary Edition - Waiting, 
-
+Deus Ex: Human Revolution - 90,     
+Super Mario 3D World + Bowser’s Fury - 89,     
+Heavy Rain - 87,     
+Cyberpunk 2077 - 85,      
+GRIS - 84,     
+SOMA - 84,     
+Assassin's Creed Valhalla - 84,     
+Hellblade: Senua's Sacrifice - 83,    
+Call of Duty: Modern Warfare Remastered - 83,   
+Mass Effect Legendary Edition - Waiting,    
+ 
 ## Exclusive
 God of War (2018),  
 The Last of Us Part II,  
