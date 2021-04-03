@@ -1,3 +1,8 @@
+import csv
+from imdb import IMDb
+
+ia = IMDb()
+
 def choose_your_entertainment():
     print('''
     [1] - Books
@@ -32,4 +37,12 @@ def start():
             print('Invalid option please try again...')
             input()
             
-start()
+
+def get_movie_director_by_title(title):
+    movies = ia.search_movie(title)
+    movie = ia.get_movie(movies[0].movieID)
+
+    try: 
+        return movie['directors'][0]
+    except:
+        return 'not found'
