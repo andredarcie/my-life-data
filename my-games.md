@@ -1,8 +1,5 @@
 # My Games
 
-**legend**  
-👍 - recommended
-
 ## To play
 Disco Elysium: The Final Cut - 96,    
 Journey - 92,  
