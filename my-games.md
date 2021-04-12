@@ -22,6 +22,9 @@ Uncharted 4: A Thief's End
 Half-Life: Alyx,    
 Final Fantasy 7 Remake,    
 Shadow of the Colossus,   
+Chrono Trigger,   
+EarthBound,   
+Persona 5 Royal,   
 Silent Hill 2 Remake ???    
 
 ## Beated 
