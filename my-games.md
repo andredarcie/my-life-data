@@ -19,9 +19,10 @@ Mass Effect Legendary Edition - Waiting,
 God of War (2018),  
 The Last of Us Part II,  
 Uncharted 4: A Thief's End  
-Half-Life: Alyx,  
-Final Fantasy 7 Remake,   
-Silent Hill 2 Remake ???  
+Half-Life: Alyx,    
+Final Fantasy 7 Remake,    
+Shadow of the Colossus,   
+Silent Hill 2 Remake ???    
 
 ## Beated 
 #### Mega Drive (Genesis 3)
