@@ -5,10 +5,10 @@
 🔄 - rewatched  
 
 ## To watch
-Unforeseen Consequences: A Half-Life Documentary (2018) 
-The Witness Documentary (2017)
-The Making of Outer Wilds - Documentary (2020)
-Our Planet (2019)  
+Unforeseen Consequences: A Half-Life Documentary (2018)     
+The Witness Documentary (2017)       
+The Making of Outer Wilds - Documentary (2020)      
+Our Planet (2019)       
 
 ## Watched
 Jiro Dreams of Sushi (2011)  
