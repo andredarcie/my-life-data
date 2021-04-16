@@ -3,8 +3,9 @@
 ## To play
 Disco Elysium: The Final Cut - 96,    
 Journey - 92,  
-Deus Ex: Human Revolution - 90,     
-Super Mario 3D World + Bowser’s Fury - 89,    
+Deus Ex: Human Revolution - 90,      
+It Takes Two - 89,    
+Super Mario 3D World + Bowser’s Fury - 89,     
 Heavy Rain - 87,      
 Halo 4 - 87,     
 Cyberpunk 2077 - 85,       
