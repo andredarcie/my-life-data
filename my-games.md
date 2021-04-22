@@ -13,8 +13,9 @@ GRIS - 84,
 SOMA - 84,     
 Assassin's Creed Valhalla - 84,     
 Hellblade: Senua's Sacrifice - 83,    
-Call of Duty: Modern Warfare Remastered - 83,       
-Mass Effect Legendary Edition - Waiting,    
+Call of Duty: Modern Warfare Remastered - 83,     
+Metro: Exodus,        
+Mass Effect Legendary Edition - Waiting,           
  
 ## Exclusive
 God of War (2018),  
