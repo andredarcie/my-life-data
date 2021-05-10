@@ -1,5 +1,5 @@
 # My Tracker
-> My Tracker is a tiny command-line utility for entertainment tracker
+> My Tracker is a tiny command-line utility for entertainment tracker.
 
 ## Menu
 
