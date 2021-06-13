@@ -8,7 +8,8 @@
 Unforeseen Consequences: A Half-Life Documentary (2018)     
 The Witness Documentary (2017)       
 The Making of Outer Wilds - Documentary (2020)      
-Our Planet (2019)       
+Our Planet (2019)         
+My Octopus Teacher (2020)
 
 ## Watched
 Jiro Dreams of Sushi (2011)  
