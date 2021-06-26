@@ -1,9 +1,6 @@
 # My Games
 
-## To play
-Disco Elysium: The Final Cut - 96,    
-Journey - 92,  
-Deus Ex: Human Revolution - 90,      
+## To play      
 It Takes Two - 89,    
 Super Mario 3D World + Bowser’s Fury - 89,     
 Heavy Rain - 87,      
@@ -19,11 +16,8 @@ Slay the Spire,
 Katana ZERO,
 The Henry Stickmin Collection,
 A Hat in Time
-OMORI
-ULTRAKILL
 OneShot
 A Short Hike
-DUSK
 Grimm's Hollow
 Finding Paradise
 POSTAL 2
