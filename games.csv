@@ -1,5 +1,113 @@
-title, beat_date, year_I_played, score
-Brothers - A Tale of Two Sons, NOT BEATED, 2018, 3
+title,beat_date,year_I_played,score
+Taz Mania, 2004, 2004, 3
+Shadow Dancer, 2004, 2004, 3
+Double Dragon, 2004, 2004, 3
+Double Dragon 2, 2004, 2004, 3
+Sonic the Hedgehog, 2005, 2005, 3
+Sonic the Hedgehog 2, 2005, 2005, 3
+Crash Bandicoot 2, 2005, 2005, 3
+Crash Bandicoot 3 Warped, 2005, 2005, 3
+Captain Commando, 2005, 2005, 3
+Dragon Ball GT: Final Bout, 2006, 2006, 3
+Medal of Honor, 2006, 2006, 3
+Metal Slug 1, 2006, 2006, 3
+Metal Slug 2, 2006, 2006, 3
+Metal Slug X, 2006, 2006, 3
+Mortal Kombat 4, 2006, 2006, 3
+Resident Evil, 2006, 2006, 3
+Resident Evil 2, 2006, 2006, 3
+Resident Evil 3: Nemesis, 2007, 2007, 3
+Silent Hill, 2007, 2007, 3
+The Simpsons Wrestling, 2007, 2007, 3
+Tekken 3, 2007, 2007, 3
+Tenchu 2: Birth of the Stealth Assassins, 2007, 2007, 3
+Yu-Gi-Oh! Forbidden Memories, 2007, 2007, 3
+Resident Evil 4, 2007, 2007, 3
+Tekken 5, 2007, 2007, 3
+Hitman Blood Money, 2007, 2007, 3
+Age of Mythology, 2008, 2008, 3
+Mafia, 2008, 2008, 3
+Land of The Dead Road To Fiddler's Green, 2008, 2008, 3
+Call of Duty 1, 2009, 2009, 3
+Call of Duty 2, 2009, 2009, 3
+Portal, 2010, 2010, 3
+Plants vs. Zombies, 2010, 2010, 3
+F.E.A.R, 2010, 2010, 3
+Mafia 2, 2011, 2011, 3
+Call of Duty 4: Modern Warfare, 2011, 2011, 3
+Call of Duty 5: World at War, 2011, 2011, 3
+Call of Duty Modern Warfare 2, 2011, 2011, 3
+Call of Duty Black Ops, 2011, 2011, 3
+Call of Duty Modern Warfare 3, 2011, 2011, 3
+Batman: Arkham City, 2011, 2011, 3
+Battlefield: Bad Company 2, 2011, 2011, 3
+Street Fighter IV, 2011, 2011, 3
+Super Street Fighter IV: Arcade Edition, 2011, 2011, 3
+Street Fighter vs Tekken, 2011, 2011, 3
+Braid, 2011, 2011, 5
+Amnesia: The Dark Descent, 2011, 2011, 5
+Max Payne 3, 2011, 2011, 5
+GTA IV, 16/10/12, 2012, 3
+The Walking Dead: A Telltale Games Series, 8/12/12, 2012, 3
+Farcry 3, 11/12/12, 2012, 3
+Warcraft III: Reign of Chaos, 25/03/13, 2012, 3
+Hitman: Absolution, 26/03/13, 2012, 3
+BioShock, 28/03/13, 2012, 3
+Warcraft III: The Frozen Throne, 30/03/13, 2012, 3
+Call of Juarez: Gunslinger, 06/05/13, 2012, 3
+Dishonored, 24/06/13, 2012, 3
+L.A noire, 02/07/13, 2012, 3
+DOOM, 02/07/13, 2012, 3
+Hotline: Miami, 10/07/13, 2012, 3
+Mortal Kombat(2013), 20/07/13, 2012, 3
+The Walking Dead: 400 Days, 27/07/13, 2012, 3
+Grand Theft Auto: Vice City, 29/07/13, 2012, 3
+Grand Theft Auto: III, 31/07/13, 2012, 3
+The Stanley Parable, 04/12/13, 2012, 3
+Gears of War, 15/12/13, 2012, 3
+Gone Home, 15/12/13, 2012, 3
+Tomb Raider(2013), 27/12/13, 2012, 3
+Portal 2, 2013, 2013, 3
+Minecraft, 2013, 2013, 3
+BioShock: Infinite, 19/01/14, 2014, 3
+Half-Life, 23/01/14, 2014, 3
+Half-Life: Opposing Force, 26/01/14, 2014, 3
+Half-Life: Blue Shift, 29/01/14, 2014, 3
+The Witcher: Enhanced Edition, 15/06/14, 2014, 3
+The Witcher 2: Assassins of Kings Enhanced Edition, 16/07/14, 2014, 3
+The Elder Scrolls V: Skyrim, 19/10/14, 2014, 3
+The Walking Dead: Season Two (Telltale), 30/11/14, 2014, 3
+Metal Gear Solid, 02/12/14, 2014, 3
+The Vanishing of Ethan Carter, 04/12/14, 2014, 3
+To The Moon, 08/12/14, 2014, 3
+Metal Gear Solid 2: Sons of Liberty, 14/12/14, 2014, 3
+Metal Gear Solid 3: Snake Eater, 22/12/14, 2014, 3
+Metal Gear, 25/12/14, 2014, 3
+Metal Gear 2: Solid Snake, 05/01/15, 2015, 3
+Dear Esther, 13/01/15, 2015, 3
+Metal Gear Solid 4: Guns of the Patriots, 24/01/15, 2015, 3
+Grand Theft Auto: San Andreas, 16/02/15, 2015, 3
+Grim Fandango, 17/02/15, 2015, 3
+Fallout 3, 23/06/15, 2015, 3
+Super Mario Bros., 14/07/15, 2015, 3
+LIMBO, 01/08/15, 2015, 3
+Grand Theft Auto V, 31/10/15, 2015, 3
+Life is Strange, 11/11/15, 2015, 3
+The Last of Us, 11/12/15, 2015, 3
+Journey, 11/12/15, 2015, 3
+Trine, 25/12/15, 2015, 3
+Trine 2: Complete Story, 31/12/15, 2015, 3
+Fallout 4, 31/12/15, 2015, 3
+Half-Life 2, 08/01/16, 2016, 3
+Half-Life 2: Lost Coast, 08/01/16, 2016, 3
+Half-Life 2: Episode One, 11/01/16, 2016, 3
+Half-Life 2: Episode Two, 20/01/16, 2016, 3
+The Witcher 3: Wild Hunt, 11/07/16, 2016, 3
+INSIDE, 12/12/16, 2016, 3
+Metal Gear Solid V: The Phantom Pain, 01/02/17, 2017, 3
+Resident Evil 7: Biohazard, 18/03/17, 01/02/17, 2017, 3
+The Witcher 3: Wild Hunt – Hearts of Stone, 28/05/2017, 01/02/17, 2017, 3
+Brothers, A Tale of Two Sons, NOT BEATED, 2018, 3
 Valiant Hearts: The Great War™, NOT BEATED, 2018, 3
 The Talos Principle, NOT BEATED, 2018, 3
 Borderlands 2, NOT BEATED, 2018, 2
@@ -22,12 +130,24 @@ DOOM, NOT BEATED, 2019, 3
 Papers Please, NOT BEATED, 2019, 3
 Rocket League, NOT BEATED, 2019, 3
 Into The Breach, NOT BEATED, 2019, 3
+The Witcher 3: Wild Hunt – Blood and Wine, 16/11/2019, 2019, 3
 Darkest Dungeon, NOT BEATED, 2020, 3
 Besiege, NOT BEATED, 2020, 4
 Untitled Goose Game, NOT BEATED, 2020, 3
 Among Us, NOT BEATED, 2020, 3
 Undertale, NOT BEATED, 2020, 4
 Streets of Rogue, NOT BEATED, 2020, 3
+The Legend of Zelda, 07/07/2020, 2020, 3
+Celeste, 23/09/2020, 2020, 3
+Super Mario Odyssey, 09/10/2020, 2020, 3
+Red Dead Redemption 2, 12/10/2020, 2020, 3
+The Witness, 16/10/2020, 2020, 3
+The Unfinished Swan, 17/10/2020, 2020, 3
+Death Stranding, 24/10/2020, 2020, 3
+The Legend of Zelda: Breath of the Wild, 25/10/2020, 2020, 3
+Florence, 26/10/2020, 2020, 3
+What Remains of Edith Finch, 26/10/2020, 2020, 3
+Disco Elysium, 12/12/2020, 2020, 3
 Loop Hero, NOT BEATED, 2021, 3
 Doom Eternal, NOT BEATED, 2021, 2
 Hollow Knight, NOT BEATED, 2021, 3
@@ -38,6 +158,14 @@ Don't Starve Together, NOT BEATED, 2021, 3
 DUSK, NOT BEATED, 2021, 3
 Totally Accurate Battle Simulator, NOT BEATED, 2021, 2
 Helltaker, NOT BEATED, 2021, 3
+Hades, 20/01/2021, 2021, 3
+Resident Evil 2 (2019), 28/01/2021, 2021, 3
+Resident Evil 3 (2020), 07/02/2021, 2021, 3
+Halo: Combat Evolved (2001), 07/03/2021, 2021, 3
+Horizon Zero Dawn (2017), 10/03/2021, 2021, 3
+Halo 2 (2004), 13/03/2021, 2021, 3
+Halo 3 (2007), 14/03/2021, 2021, 3
+Halo: Reach (2010), 21/03/2021, 2021, 3
 Stardew Valley, TO PLAY, 2021, AWAITING
 Factorio, TO PLAY, 2021, AWAITING
 Slay the Spire, TO PLAY, 2021, AWAITING
