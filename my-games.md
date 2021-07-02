@@ -12,15 +12,15 @@ Hellblade: Senua's Sacrifice - 83,
 Call of Duty: Modern Warfare Remastered - 83,     
 Metro: Exodus,        
 Mass Effect Legendary Edition - Waiting,      
-Slay the Spire,
-Katana ZERO,
-The Henry Stickmin Collection,
-A Hat in Time
-OneShot
-A Short Hike
-Grimm's Hollow
-Finding Paradise
-POSTAL 2
+Slay the Spire,    
+Katana ZERO,    
+The Henry Stickmin Collection,    
+A Hat in Time   
+OneShot   
+A Short Hike   
+Grimm's Hollow   
+Finding Paradise   
+POSTAL 2    
 
 ## Exclusive
 God of War (2018),  
