@@ -15,7 +15,7 @@ Mass Effect Legendary Edition - Waiting,
 Slay the Spire,    
 Katana ZERO,    
 The Henry Stickmin Collection,    
-A Hat in Time   
+A Hat in Time,    
 OneShot   
 A Short Hike   
 Grimm's Hollow   
