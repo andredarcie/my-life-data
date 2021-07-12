@@ -21,6 +21,7 @@ A Short Hike
 Grimm's Hollow   
 Finding Paradise   
 POSTAL 2    
+Bloodborne
 
 ## Exclusive
 God of War (2018),  
