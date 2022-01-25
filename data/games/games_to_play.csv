@@ -1,49 +1,39 @@
-title,where_to_play
-Persona 5 Royal, PS5
-Forza Horizon 5, GAME_PASS
-Psychonauts 2, GAME_PASS
-It Takes Two, PS5
-Final Fantasy VII Remake Intergrade, PS5
-Mass Effect Legendary Edition, PS5
-Chicory: A Colorful Tale, PC
-Dishonored 2, GAME_PASS
-Katana ZERO, PC
-A Hat in Time, PC
-ONESHOT, PC
-Grimm's Hollow, PC
-Finding Paradise, PC
-Human: Fall Flat, GAME_PASS
-Before Your Eyes, PC
-Gorogoa, PS5
-Spiritfarer®, GAME_PASS
-missed messages., PC
-Cyberpunk 2077, PS5
-Little Nightmares, PS5
-Mario Kart 8 Deluxe, SWITCH
-Super Mario Galaxy 2, SWITCH
-Super Mario Galaxy, SWITCH
-Star Wars Jedi: Fallen Order, PS5
-Assassin’s Creed Valhalla, PS5
-Detroit: Become Human, PS5
-Batman: Arkham Knight, PS5
-Ratchet & Clank, PS5
-Until Dawn, PS5
-Gran Turismo 7, PS5
-That Dragon Cancer, PC
-Baldur's Gate 3, PC
-Starfield, GAME_PASS
-S.T.A.L.K.E.R. 2: Heart of Chernobyl, GAME_PASS
-Horizon Forbidden West, PS5
-Hogwarts Legacy, PS5
-God of War Ragnarök, PS5
-Suicide Squad: Kill the Justice League, PS5
-Zelda Breath of the Wild 2, SWITCH
-A Plague Tale: Requiem, PS5
-Uncharted: Legacy of Thieves Collection, PS5
-Super Mario 3D World + Bowser’s Fury, SWITCH
-Half-Life: Alyx, PC VR
-Dreams, PS5
-Animal Crossing: New Horizons, SWITCH
-Factorio, PC
-Halo Infinite, GAME_PASS
-Marvel's Guardians of the Galaxy, PS5
+title,opencritic_score,gmtk_recommended, where_to_play
+Persona 5 Royal, 94, False, PS5
+Half-Life: Alyx, 93, True, VR
+Divinity: Original Sin 2, 93, False, PS5
+Forza Horizon 5, 92, False, GAME_PASS
+Dreams, 90, False, PS5,
+Ori and the Will of the Wisps, 90, True, PS5
+Astro Bot Rescue Mission, 89, False, VR
+Super Mario 3D World + Bowser’s Fury, 89, True, SWITCH
+Psychonauts 2, 89, False, GAME_PASS
+It Takes Two, 89, True, PS5
+Final Fantasy VII Remake Intergrade, 88, False, PS5
+Mass Effect Legendary Edition, 87, True, PS5
+Rise Of The Tomb Raider: 20 Year Celebration, 87, False, PS5
+Factorio, 87, False, PC
+Beat Saber, 87, False, VR
+Halo Infinite, 87, False, GAME_PASS
+Dishonored 2, 87, True, GAME_PASS
+Finding Paradise, 86, False, PC
+Batman: Arkham Knight, 86, False, PS5
+Uncharted: The Lost Legacy, 85, False, PS5
+Gears 5, 85, False, GAME_PASS
+Sky: Children of the Light, 84, False, ANDROID
+Before Your Eyes, 84, True, PC
+Baba Is You, 84, True, PC
+Star Wars Jedi: Fallen Order, 83, True, PS5
+Assassin’s Creed Valhalla, 83, False, PS5
+Alba: A Wildlife Adventure, 82, False, PS5
+Ghost Giant, 82, False, VR
+UnMetal, 82, False, PS5
+Guardians of the Galaxy, 82, False, PS5
+Prey, 81, True, PS5
+Arise: A simple story, 81, False,  PS5
+That Dragon Cancer, 81, False, PC
+Life is Strange: True Colors, 81, False, PS5
+Firewatch, 80, False, PS5
+Little Nightmares, 79, False, PS5
+Detroit: Become Human, 79, False, PS5
+Until Dawn, 79, False, PS5
