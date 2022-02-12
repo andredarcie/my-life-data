@@ -1,40 +1,36 @@
-title,opencritic_score,gmtk_recommended,where_to_play
-Persona 5 Royal, 94, False, PS5
-Half-Life: Alyx, 93, True, VR
-Divinity: Original Sin 2, 93, False, PS5
-Forza Horizon 5, 92, False, GAME_PASS
-Dreams, 90, False, PS5
-Ori and the Will of the Wisps, 90, True, PS5
-Astro Bot Rescue Mission, 89, False, VR
-Super Mario 3D World + Bowser’s Fury, 89, True, SWITCH
-Psychonauts 2, 89, False, GAME_PASS
-It Takes Two, 89, True, PS5
-Final Fantasy VII Remake Intergrade, 88, False, PS5
-Mass Effect Legendary Edition, 87, True, PS5
-Rise Of The Tomb Raider: 20 Year Celebration, 87, False, PS5
-Factorio, 87, False, PC
-Beat Saber, 87, False, VR
-Halo Infinite, 87, False, GAME_PASS
-Dishonored 2, 87, True, GAME_PASS
-Finding Paradise, 86, False, PC
-Uncharted: The Lost Legacy, 85, False, PS5
-Gears 5, 85, False, GAME_PASS
-Middle-earth: Shadow of Mordor, 85, True, PS5
-Sky: Children of the Light, 84, False, ANDROID
-Before Your Eyes, 84, True, PC
-Baba Is You, 84, True, PC
-Star Wars Jedi: Fallen Order, 83, True, PS5
-Assassin’s Creed Valhalla, 83, False, PS5
-Deus Ex: Mankind Divided, 82, True, PS5
-Alba: A Wildlife Adventure, 82, False, PS5
-Ghost Giant, 82, False, VR
-UnMetal, 82, False, PS5
-Guardians of the Galaxy, 82, False, PS5
-Prey, 81, True, PS5
-Arise: A simple story, 81, False,  PS5
-That Dragon Cancer, 81, False, PC
-Life is Strange: True Colors, 81, False, PS5
-Firewatch, 80, False, PS5
-Little Nightmares, 79, False, PS5
-Detroit: Become Human, 79, False, PS5
-Until Dawn, 79, False, PS5
+title,opencritic_score,gmtk_recommended,gotytracker_top10,where_to_play
+Persona 5 Royal, 94, False, True, PS5
+Half-Life: Alyx, 93, True, True, VR
+Divinity: Original Sin 2, 93, False, True, PS5
+Forza Horizon 5, 92, False, True, GAME_PASS
+Ori and the Will of the Wisps, 90, True, False, PS5
+Astro Bot Rescue Mission, 89, False, True, VR
+Super Mario 3D World + Bowser’s Fury, 89, True, True, SWITCH
+Psychonauts 2, 89, False, True, GAME_PASS
+It Takes Two, 89, True, True, PS5
+Final Fantasy VII Remake Intergrade, 88, False, True, PS5
+Mass Effect Legendary Edition, 87, True, True, PS5
+Rise Of The Tomb Raider: 20 Year Celebration, 87, False, True, PS5
+Beat Saber, 87, False, False, VR
+Halo Infinite, 87, False, True, GAME_PASS
+Dishonored 2, 87, True, True, GAME_PASS
+Cyberpunk 2077, 86, False, True, PS5
+Finding Paradise, 86, False, False, PC
+Uncharted: The Lost Legacy, 85, False, False, PS5
+Gears 5, 85, False, False, GAME_PASS
+Middle-earth: Shadow of Mordor, 85, True, True, PS5
+Before Your Eyes, 84, True, False, PC
+Star Wars Jedi: Fallen Order, 83, True, True, PS5
+Assassin’s Creed Valhalla, 83, False, True, PS5
+Deus Ex: Mankind Divided, 82, True, False, PS5
+Alba: A Wildlife Adventure, 82, False, False, PS5
+Ghost Giant, 82, False, False, VR
+Guardians of the Galaxy, 82, False, True, PS5
+Prey, 81, True, False, PS5
+Arise: A simple story, 81, False, False, PS5
+That Dragon Cancer, 81, False, False, PC
+Life is Strange: True Colors, 81, False, False, PS5
+Firewatch, 80, False, False, PS5
+Little Nightmares, 79, False, False, PS5
+Detroit: Become Human, 79, False, False, PS5
+Until Dawn, 79, False, False, PS5
