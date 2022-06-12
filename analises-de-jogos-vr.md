@@ -1,8 +1,8 @@
-# Analise de Jogos VR
+# Analise de Jogos e Experências em VR
 
-Essas análises podem mudar com o tempo, conforme eu for jogando mais.
+Essas análises podem mudar com o tempo, conforme eu for testando mais.
 
-## Jogos com nota 5
+## Nota 5
 
 Half Life: Alyx - 5 / 5
 
@@ -10,7 +10,7 @@ Half Life: Alyx - 5 / 5
 - É o jogo VR mais completo e ambicioso, em termos de gameplay, narrativa e visual.
 - É uma demonstração do potencial do VR no futuro dos games.
 
-## Jogos com nota 4
+## Nota 4
 
 Job Simulator - 4 / 5
 
@@ -37,7 +37,7 @@ The Thrill of the Fight - 4 / 5
 algumas configurações e lutadores diferentes.
 - É o melhor para praticar exercícios, ele realmente pega pesado e faz ser algo divertido e muito satisfatório.
 
-### Jogos com nota 3
+## Nota 3
 
 Beat Saber - 3 / 5
 
