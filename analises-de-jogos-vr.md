@@ -56,3 +56,39 @@ algumas configurações e lutadores diferentes.
 
 - Apesar de ser muito criativo e fazer muito sentido em VR, a mecânica de voltar do início a cada erro cometido faz o jogo ser muito repetitivo.
 - Depois que você já conseguiu resolver o quebra cabeça, repetir tudo outra vez perde o sentido.
+
+## TODO
+
+Onward
+GOLF+
+Creed: Rise to Glory
+Drunkn Bar Fight
+Hand Physics Lab
+Resident Evil 4 VR
+First Person Tennis - The Real Tennis Simulator
+Richie's Plank Experience
+Walkabout Mini Golf
+Eleven Table Tennis
+The Last Clockwinder
+Five Nights at Freddy's: Help Wanted
+Warplanes: WW1 Fighters
+GORN
+Vacation Simulator
+Contractors
+Green Hell VR
+STRIDE
+World Of Mechs
+Star Wars: Tales from the Galaxy's Edge
+Pistol Whip
+The Climb 2
+Jurassic World Aftermath
+Real VR Fishing
+Medal of Honor™: Above and Beyond
+Fruit Ninja
+Gun Club VR
+Wander
+Nock
+Arizona Sunshine®
+I Expect You To Die 2
+Please, Don't Touch Anything
+Rec Room
