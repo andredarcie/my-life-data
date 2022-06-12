@@ -32,7 +32,7 @@ The Walking Dead: Saints & Sinners - 4 / 5
 
 The Thrill of the Fight - 4 / 5 
 
-- Melhor simulador disponível em termos de realismo da atividade proposta que é no caso é o boxe.
+- Melhor simulador disponível em termos gerais.
 - É mais um simulador do que um jogo, não tem uma narrativa, campanha nem nada do tipo, é apenas entrar e lutar, com 
 algumas configurações e lutadores diferentes.
 - É o melhor para praticar exercícios, ele realmente pega pesado e faz ser algo divertido e muito satisfatório.
