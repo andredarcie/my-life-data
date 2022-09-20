@@ -1,17 +1,31 @@
-title,opencritic_score,gmtk_recommended,gotytracker_top10,where_to_play, ready_to_play
-Half-Life: Alyx, 93, True, True, VR, ✔️
-Astro Bot Rescue Mission, 89, False, True, VR, 
-Super Mario 3D World + Bowser’s Fury, 89, True, True, SWITCH, 
-Final Fantasy VII Remake Intergrade, 88, False, True, PS5, ✔️
-Titanfall 2, 87, False, False, PS5, 
-Rise Of The Tomb Raider: 20 Year Celebration, 87, False, True, PS5, ✔️
-Cyberpunk 2077, 86, False, True, PS5, ✔️
-Uncharted: The Lost Legacy, 85, False, False, PS5,
-Before Your Eyes, 84, True, False, PC,
-Deus Ex: Mankind Divided, 82, True, False, PS5,
-Alba: A Wildlife Adventure, 82, False, False, PS5,
-Ghost Giant, 82, False, False, VR,
-Guardians of the Galaxy, 82, False, True, PS5, ✔️
-That Dragon Cancer, 81, False, False, PC,
-Life is Strange: True Colors, 81, False, False, PS5, 
-Firewatch, 80, False, False, PS5,
+title,opencritic_score,gotytracker_top10,where_to_play, ready_to_play
+Regras, > 80 && > 30 reviews,,
+Persona 5 Royal, 94, False, PS5, 
+Half-Life: Alyx, 93, True, VR, ✔️
+Undertale, 93, False, SWITCH, 
+Mario Kart 8 Deluxe, 92, False, SWITCH, 
+Grand Theft Auto V, 92, False, PS5,
+Super Smash Bros. Ultimate, 92, False, SWITCH, 
+NieR: Automata, 89, False, PS5,
+Astro Bot Rescue Mission, 89, True, VR, 
+It Takes Two, 89, True, PS5, ✔️
+Silent Hill 2, 89, False, PC, 
+DEATHLOOP, 88, False, PS5, 
+Xenoblade Chronicles 3, 88, False, Switch, 
+Uncharted: Legacy of Thieves Collection, 88, False, PS5,
+Diablo III: Eternal Collection, 87, False, SWITCH,
+Luigi's Mansion 3, 85, False, Switch, 
+HITMAN 3, 85, False, PS5, 
+Control: Ultimate Edition, 85, False, PS5, 
+Pokémon Legends: Arceus, 84, False, SWITCH
+Before Your Eyes, 84, False, PC,
+SOMA, 83, False, PS5, 
+Deus Ex: Mankind Divided, 82, False, PS5,
+Alba: A Wildlife Adventure, 82, False, PS5,
+Ghost Giant, 82, False, VR,
+Marvel's Guardians of the Galaxy, 82, True, PS5, ✔️
+LEGO Star Wars: The Skywalker Saga, 82, False, PS5, ✔️ 
+That Dragon Cancer, 81, False, PC,
+Life is Strange: True Colors, 81, False, Switch, 
+Call Of Duty: Modern Warfare, 81, False, PS5
+Shadow of the Tomb Raider, 80, False, PS5, 
