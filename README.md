@@ -18,3 +18,6 @@
 - [Beated](data/games/games_beated.csv)
 - [Abandoned](data/games/games_abandoned.csv)
 - [Devices](data/devices.csv)
+
+### 📅 Events
+- [To Watch](data/events/events_to_watch.csv)
