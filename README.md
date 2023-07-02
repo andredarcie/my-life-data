@@ -1,5 +1,4 @@
-# My Tracker
-> Repository to record the entertainment I consume and may consume in the future
+# My Life Data
 
 ## Categories
 
