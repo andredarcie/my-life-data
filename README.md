@@ -16,6 +16,7 @@
 - [To Play](data/games/games_to_play.csv)
 - [Beated](data/games/games_beated.csv)
 - [Abandoned](data/games/games_abandoned.csv)
+- [Most Played](data/most_played_games.csv)
 - [Devices](data/devices.csv)
 
 ### 📅 Events
