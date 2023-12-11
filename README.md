@@ -21,3 +21,6 @@
 
 ### 📅 Events
 - [To Watch](data/events/events_to_watch.csv)
+
+### 🚀 Tourism
+- [Places I went](data/tourism/places_i_went.csv)
