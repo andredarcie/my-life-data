@@ -5,6 +5,7 @@
 ### 🎬 Movies
 - [To Watch](data/movies/movies_to_watch.csv)
 - [Watched](data/movies/movies_watched.csv)
+- [Documentaries Watched](data/documentaries/documentaries_watched.csv)
 
 ### 📺 TV Shows
 - [Watched](data/tv-series/series_watched.csv)
