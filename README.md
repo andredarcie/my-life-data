@@ -27,4 +27,4 @@
 - [Places I went](data/tourism/places_i_went.csv)
 
 ### 💡 Study
-- [Filosofia](study/filosofia/grega/Main.md)
+[[Estudo]]

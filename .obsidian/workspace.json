@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "159ccfa12189c155",
+    "type": "split",
+    "children": [
+      {
+        "id": "53e565a1f7aac911",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3144e750075c60a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "26594430e9eb4d9e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f3d4bf10cc1a8d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/filosofia/grega/Filosofia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "913b68293aa1f12d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bb4d54b3e069d21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b239d510c8cab31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9942a1207ea6e5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbf05dfce81ae366",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0aaec6adc949d8ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "75b9517f5f8b4283",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6257aa3062ae665",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "study/filosofia/grega/Filosofia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f71e104c44ba4eba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "study/filosofia/grega/Filosofia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3f5095a1413f76e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0dc3a1e993c2cbf2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "study/filosofia/grega/Filosofia.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3f3d4bf10cc1a8d9",
+  "lastOpenFiles": [
+    "README.md",
+    "study/Estudo.md",
+    "study/filosofia/grega/Filosofia.md",
+    "Estudo/Estudo.md",
+    "TEste.md",
+    "Untitled.canvas",
+    "Estudo",
+    "Untitled"
+  ]
+}
