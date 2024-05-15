@@ -4,6 +4,7 @@
     {
         string filePath = "data/movies/movies_watched.csv";
         var directorsCount = new Dictionary<string, int>();
+        var yearsCount = new Dictionary<string, int>();
 
         try
         {
@@ -31,12 +32,32 @@
                             directorsCount[director] = 1;
                         }
                     }
+
+                    if (values.Length >= 2)
+                    {
+                        var yearWatched = values[2].Trim();
+                        if (yearsCount.ContainsKey(yearWatched))
+                        {
+                            yearsCount[yearWatched]++;
+                        }
+                        else
+                        {
+                            yearsCount[yearWatched] = 1;
+                        }
+                    }
                 }
             }
 
+            Console.WriteLine("Contagem de diretores:");
             foreach (var director in directorsCount.OrderByDescending(d => d.Value))
             {
                 Console.WriteLine($"{director.Key}: {director.Value}");
+            }
+
+            Console.WriteLine("\nAnos em que mais assisti filmes:");
+            foreach (var year in yearsCount.OrderByDescending(y => y.Value))
+            {
+                Console.WriteLine($"{year.Key}: {year.Value}");
             }
         }
         catch (Exception e)
