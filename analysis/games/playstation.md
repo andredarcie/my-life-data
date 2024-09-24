@@ -3,7 +3,7 @@
 - Naughty Dog - The Last of Us, Uncharted -> ?
 - Insomniac Games - Spider-Man, Ratchet & Clank -> Marvel's Wolverine
 - Santa Monica Studio - God of War -> ?
-- Sucker Punch Productions - Ghost of Tsushima, inFAMOUS -> ?
+- Sucker Punch Productions - Ghost of Tsushima, inFAMOUS -> Ghost of Yotei
 - Guerrilla Games - Horizon Zero Dawn, Killzone -> ?
 - Polyphony Digital - Gran Turismo -> ?
 - Bend Studio - Days Gone, Syphon Filter -> ?
