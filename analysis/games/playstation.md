@@ -14,7 +14,7 @@
 - Team Asobi - Astro’s Playroom, Astro Bot Rescue Mission -> ?
 - Firesprite - The Persistence, Horizon Call of the Mountain -> ?
 - Haven Studios (Jade Raymond) -> Fairgames (Payday-like), jogo online
-- Firewalk Studios -> Triple A online game
+- Firewalk Studios - Concord -> ?
 - Neon Koi (ex Savage Game Studios) - Jogos Mobile -> ?
 
 ## Suporte:
