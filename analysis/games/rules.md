@@ -1,5 +1,37 @@
 # Rules
 
+Minha preferência em jogos inclui:
+
+1. 🌌 Jogos com narrativa rica e ambientação envolvente:
+   - *The Last of Us Part II*, *Alan Wake 2*, *Half-Life: Alyx*
+
+2. 👁️ Jogos com visão em primeira pessoa e exploração profunda:
+   - *Amnesia: The Dark Descent*, *Metro: Exodus*, *Dishonored*
+
+3. 🏰 Jogos de mundo aberto com foco em história e liberdade de exploração:
+   - *The Elder Scrolls V: Skyrim*, *The Witcher 3: Wild Hunt*, *Ghost of Tsushima*
+
+4. 🎭 Jogos de aventura focados em escolhas e desenvolvimento de personagens:
+   - *Mass Effect*, *The Walking Dead: A Telltale Games Series*, *Cyberpunk 2077*
+
+5. 🌠 Jogos com mecânicas únicas e narrativa inovadora:
+   - *Undertale*, *What Remains of Edith Finch*, *Death Stranding*
+
+7. 🎨 Jogos de arte visual e narrativa contemplativa:
+   - *Journey*, *Gone Home*, *Firewatch*
+
+8. 🌌 Jogos de horror psicológico com foco em atmosfera:
+   - *Silent Hill 2*, *Amnesia: The Dark Descent*, *Manhunt*
+
+10. 🧩 Jogos de quebra-cabeça com elementos de narrativa:
+    - *Inside*, *Limbo*, *Portal 2*
+
+11. ⚖️ Jogos com equilíbrio quase perfeito entre mecânica e narrativa:
+    - *Half-Life 2*, *The Last of Us*, *Red Dead Redemption 2*
+
+12. 🎮 Jogos com foco na gameplay e mecânicas extremamente inovadoras e criativas:
+    - *Super Mario Odyssey*, *The Legend of Zelda: Tears of the Kingdom*, *Portal*
+
 Minha preferência em jogos não inclui:
 
 1. ✈️ Jogos de simulação (aviões, corridas, caminhões, luta, tênis e esportes em geral):
@@ -43,3 +75,6 @@ Minha preferência em jogos não inclui:
 
 14. 🏆 Jogos focados em rankings online e competição (pontuação e classificação):
     - *League of Legends*, *CS:GO*, *Apex Legends*
+
+15. 🎮 Jogos 2D com mecânicas refinadas e foco em precisão:
+    - *Hollow Knight*, *Celeste*, *Dead Cells*
