@@ -28,3 +28,5 @@
 
 ### 💡 Study
 [[Estudo]]
+
+http://localhost:8888/?token=meutoken
