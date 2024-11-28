@@ -29,4 +29,8 @@
 ### 💡 Study
 [[Estudo]]
 
+### 🍷 Wine
+- [Drunk](data/wine/drunk.csv)
+
+Jupyter Notebook
 http://localhost:8888/?token=meutoken
