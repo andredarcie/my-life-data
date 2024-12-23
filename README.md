@@ -30,7 +30,7 @@
 [[Estudo]]
 
 ### 🍷 Wine
-- [Drunk](data/wine/wine_experiences.csv)
+- [Wine Experiences](data/wine/wine_experiences.csv)
 
 Jupyter Notebook
 http://localhost:8888/?token=meutoken
