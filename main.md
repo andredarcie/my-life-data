@@ -18,8 +18,8 @@
 15:00 — 💻 Trabalho.
 16:00 — 💻 Trabalho.
 17:00 — 💻 Trabalho.
-18:00 — 🚶‍♂️🏋️‍♂️🍛 Caminhada, atividade física e jantar.
-19:00 — 🌎 Tempo livre (Resolver coisas pendentes, estudo, hobbies e etc)
+18:00 — 🚶‍♂️ Caminhada, atividade física e jantar.
+19:00 — 🏋️‍♂️ Treino na academia
 20:00 — 🌎 Tempo livre (Resolver coisas pendentes, estudo, hobbies e etc)
 21:00 — 🌎 Tempo livre (Resolver coisas pendentes, estudo, hobbies e etc)
 22:00 — 🌎 Tempo livre (Resolver coisas pendentes, estudo, hobbies e etc)
