@@ -8,6 +8,8 @@ Lista dos pontos encontrados, apenas o nome de cada um, separado por virgula, se
 
 Se nada aparecer, mostrar: 😊 Nada palha foi encontrado!
 
+Aqui abaixo justifique cada ponto encontrado com referencias e links externos, se a sutificativa não for boa, remova o item
+
 Não exiba todos esses criterios:
 Critérios de "não gosto":
-foco em gameplay, jogabilidade lenta e arrastada, loop repetitivo de tarefas, pouca variedade de ambientes e interações, pacing irregular da história, missões com pouca recompensa emocional ou narrativa, simulação, esportes, turnos, metroidvania, grind, foco em níveis, gameplay acima da narrativa, dificuldade elevada, roguelike, quebra-cabeça complexo e pausado, microtransações, tempo limitado, jogos de cartas digitais, sobrevivência extrema, missões repetitivas, foco em ranking online, competição, jogos 2D de precisão, sensação de trabalho em vez de aventura
+foco em gameplay acima de qualquer coisa gameplay-first, jogabilidade lenta e arrastada, pouca variedade de ambientes e interações, missões com pouca recompensa emocional ou narrativa, simulação, esportes, turnos, metroidvania, grind, foco em níveis, não tem seleção de dificuldade como easy medio e hard e é conhecido na comunidade como super dificil, roguelike, foco apenas em quebra-cabeça, microtransações, tempo limitado, jogos de cartas digitais, sobrevivência extrema, missões repetitivas, foco em ranking online, competição, jogos 2D de precisão
