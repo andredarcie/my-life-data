@@ -13,3 +13,4 @@ Aqui abaixo justifique cada ponto encontrado com referencias e links externos, s
 Não exiba todos esses criterios:
 Critérios de "não gosto":
 foco em gameplay acima de qualquer coisa gameplay-first, jogabilidade lenta e arrastada, pouca variedade de ambientes e interações, missões com pouca recompensa emocional ou narrativa, simulação, esportes, turnos, metroidvania, grind, foco em níveis, não tem seleção de dificuldade como easy medio e hard e é conhecido na comunidade como super dificil, roguelike, foco apenas em quebra-cabeça, microtransações, tempo limitado, jogos de cartas digitais, sobrevivência extrema, missões repetitivas, foco em ranking online, competição, jogos 2D de precisão
+
