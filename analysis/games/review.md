@@ -20,11 +20,16 @@ O jogo tem que fazer você sentir que tá lá dentro mesmo: visual de impacto, c
 
 O desafio tem que ser na medida, e quem joga precisa poder escolher a dificuldade que preferir. Nada de castigo exagerado, ficar refazendo tudo ou perder progresso à toa. Nada de ser difícil a ponto da pessoa ter que correr pra internet pra entender o que fazer — o jogo tem que se bastar, oferecer todas as respostas dentro dele mesmo, com clareza, lógica e boa comunicação. E tem que ter acessibilidade de verdade: opções pra quem tem limitações visuais, motoras, auditivas ou cognitivas, pra todo mundo conseguir jogar. O ritmo precisa manter o jogador engajado, com progressão fluida, sem cair no tédio nem travar por frustração.
 
+Coisas que considero alerta: grind, backtracking, medtrovania, souls-like, fecth quests, side quests obrigatorias, farming obrigatório, menus confusos, sistemas complexos à toa, progressão artificial, level gating e falta de checkpoint.
+
+Exemplos clássicos: Zelda Ocarina of Time
+
 0 – Travado, mal explicado, exige guia externo pra avançar (The Witness, jogos antigos no geral)
 
-3 – Funciona, mas tem picos de frustração ou pouca acessibilidade (Dark Souls, Bloodborne, Sekiro)
+3 – Funciona, mas tem picos de frustração ou pouca acessibilidade (Returnal, Hollow Knight, Dark Souls, Bloodborne, Sekiro)
 
-5 – Ritmo fluido, dificuldade bem dosada, acessível e claro do início ao fim (Journey, Uncharted 4, Spider-Man: Miles Morales)
+5 – Ritmo fluido, dificuldade bem dosada, acessível e claro do início ao fim (Journey, Uncharted 4, Spider-Man: Miles Morales,
+Celeste (com Assist Mode), Ratchet & Clank: Rift Apart)
 
 ## Narrativa
 
