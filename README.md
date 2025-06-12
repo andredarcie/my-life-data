@@ -36,6 +36,7 @@ Jupyter Notebook
 http://localhost:8888/?token=meutoken
 
 ## Games Beated Analysis
+<!-- GAMES_BEATED_START -->
 
 ```
 Total games beat: 191
@@ -81,7 +82,7 @@ PlayStation 3      4.33
 Meta Quest 2       3.75
 Nintendo Switch    3.70
 PC                 3.56
-PlayStation 5      3.44
+PlayStation 5      3.47
 PlayStation        3.16
 Mega Drive         3.00
 
@@ -103,7 +104,7 @@ year_I_played
 2017    3.00
 2019    3.00
 2020    3.82
-2021    3.62
+2021    3.67
 2022    3.30
 2023    3.52
 2024    4.20
@@ -113,8 +114,8 @@ Score distribution:
 score
 2      2
 3    114
-4     53
-5     22
+4     52
+5     23
 
 Highest scoring games (score = 5):
                                     title       plataform  year_I_played
@@ -135,9 +136,11 @@ The Walking Dead: A Telltale Games Series              PC           2012
               What Remains of Edith Finch              PC           2020
                             Disco Elysium              PC           2020
                              A Short Hike              PC           2021
+               Uncharted 4: A Thief's End   PlayStation 5           2021
                    The Last of Us Part II   PlayStation 5           2021
                           Half-Life: Alyx    Meta Quest 2           2023
                          Before Your Eyes              PC           2023
 The Legend of Zelda: Tears of the Kingdom Nintendo Switch           2023
                               Alan Wake 2              PC           2024
 ```
+<!-- GAMES_BEATED_END -->
