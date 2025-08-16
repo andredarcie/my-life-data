@@ -12,7 +12,7 @@
 ### Arte Destaque
 - 🎮 Melhores Jogos:
 - 🎬 Melhores Filmes:
-- 📚 Melhores Livros: 
+- 📚 Melhores Livros:
 - 📺 Melhores Séries/ Documentários:
 
 ### Aprendizados
@@ -28,7 +28,7 @@
 
 ## 2024 - 30 anos
 ### Carreira
-- Aprendi mais sobre AWS, com SNS, SQS, CI/CD 
+- Aprendi mais sobre AWS, com SNS, SQS, CI/CD
 - Aprendi mais sobre Docker/Docker Compose
 - Aprendi a usar ChatGPT no trabalho
 
@@ -45,12 +45,12 @@ principalmente o Nordeste, conheci os 9 estados.
 
 ### Arte Destaque
 - 🎮 Melhores Jogos: Alan Wake 2
-- 🎬 Melhores Filmes: I'm Still Here, Central do Brasil, The Fly, Dona Flor e Seus Dois Maridos 
+- 🎬 Melhores Filmes: I'm Still Here, Central do Brasil, The Fly, Dona Flor e Seus Dois Maridos
 - 📚 Melhores Livros: Design Patterns: Elements of Reusable Object-Oriented Software
 - 📺 Melhores Séries/ Documentários: American Factory
 
 ### Aprendizados
-- A vida pode ser incrivel e não seguir um roteiro comum, se você 
+- A vida pode ser incrivel e não seguir um roteiro comum, se você
 estiver disposto e com mente aberta
 
 ------
@@ -99,7 +99,7 @@ estiver disposto e com mente aberta
 
 ## 2020 - 26 anos
 **Trabalho**
-* Me tornei coordenador do time 
+* Me tornei coordenador do time
 * 3 anos de grupo soitic
 * Dei palestra sobre .NET no Atelie de Software
 
@@ -227,8 +227,8 @@ VueJS, Ruby On Rails, .Net Core
 * 🎮 `Portal 2`, `Minecraft`, `BioShock:  Infinite`, `Half-Life`, `Half-Life: Opposing Force`, `Half-Life: Blue Shift`, `The Witcher: Enhanced Edition`, `The Witcher 2: Assassins of Kings Enhanced Edition`, `The Elder Scrolls V: Skyrim`, `The Walking Dead: Season Two (Telltale)`, `Metal Gear Solid`, `The Vanishing of Ethan Carter`, `To The Moon`, `Metal Gear Solid 2: Sons of Liberty`, `Metal Gear Solid 3: Snake Eater`, `Metal Gear`
 
 ## 2013: 19 anos
-* Primeiro ano de Ciência da Computação 
-* Aprendi a amar de filosofia 
+* Primeiro ano de Ciência da Computação
+* Aprendi a amar de filosofia
 * Filmes da lista IMDB
 * Documentario Cosmos de Carl Sagan
 
@@ -246,7 +246,7 @@ Terminei o ensino médio e o curso tecnico, foi um ano de transição e incertez
 * 🎮 `Braid`, `Amnesia: The Dark Descent`, `Max Payne 3`, `GTA IV`, `The Walking Dead: A Telltale Games Series`, `Farcry 3`
 
 ## 2011: 17 anos
-* 3 colegio 
+* 3 colegio
 
 **Eventos**
 * Meu projeto final na ETEC foi um Quiz em Flash
@@ -320,6 +320,6 @@ Terminei o ensino médio e o curso tecnico, foi um ano de transição e incertez
 ## 1997: 3 anos
 ## 1996: 2 anos
 ## 1995: 1 ano
-## 1994: 
+## 1994:
 
 *26 de fevereiro, nome André Nicolau vem de Andreas Nikolaus "Niki" Lauda*
