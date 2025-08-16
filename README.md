@@ -11,14 +11,14 @@
 - [Watched](data/tv-series/series_watched.csv)
 
 ### 📖 Books
-- [My books](data/books/my-books.md)
+- [Books Read](data/books/books_read.csv)
+- [To Read](data/books/to_read.csv)
 
 ### 🎮 Video Games
-- [To Play](data/games/games_to_play.csv)
-- [Beated](data/games/games_beated.csv)
+- [Beaten](data/games/games_beaten.csv)
 - [Abandoned](data/games/games_abandoned.csv)
-- [Most Played](data/games/most_played_games.csv)
 - [Devices](data/games/devices.csv)
 
 ### 🍷 Wine
 - [Wine Experiences](data/wine/wine_experiences.csv)
+- [Grapes](data/wine/README.md)
