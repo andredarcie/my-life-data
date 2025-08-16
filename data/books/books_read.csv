@@ -1,16 +1,16 @@
-Title,Author,Original Year,Read Year
-Meu Pé de Laranja Lima, José Mauro de Vasconcelos, 1968, 2003
-O Alquimista, Paulo Coelho, 2000, 
-O Demônio e a Srta. Prym, Paulo Coelho, 2000, 
-The Hobbit, J.R.R. Tolkien, 1937, 2007
-The Lord of the Rings: The Fellowship of the Ring, J.R.R. Tolkien, 1954, 2008
-The Lord of the Rings: Two Towers, J.R.R. Tolkien, 1954, 2008
-Alice in Wonderland, Lewis Carroll, 1865, 2008
+title,author,original_year,read_year
+Meu Pé de Laranja Lima,José Mauro de Vasconcelos,1968,2003
+O Alquimista,Paulo Coelho,2000,
+O Demônio e a Srta. Prym,Paulo Coelho,2000,
+The Hobbit,J.R.R. Tolkien,1937,2007
+The Lord of the Rings: The Fellowship of the Ring,J.R.R. Tolkien,1954,2008
+The Lord of the Rings: Two Towers,J.R.R. Tolkien,1954,2008
+Alice in Wonderland,Lewis Carroll,1865,2008
 The Sign of Four (Sherlock Holmes),Arthur Conan Doyle,1890,2009
 The Naked Face,Sidney Sheldon,1984,2009
 Master of the Game,Sidney Sheldon,1982,2009
 A Study in Scarlet (Sherlock Holmes),Arthur Conan Doyle,1887,2009
-1984, George Orwell, 1949, 2018
+1984,George Orwell,1949,2018
 Watchmen,Alan Moore,1986,2019
 Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,2019
 The Little Prince,Antoine de Saint-Exupéry,1943,2020
@@ -18,9 +18,9 @@ The Myths of Cthulhu,Esteban Maroto,2010,2020
 Othello (Shakespeare in Comics),Jazz and Akira Sanoki,2007,2020
 Leonardo da Vinci,Walter Isaacson,2017,2020
 Steve Jobs,Walter Isaacson,2011,2021
-The Dark Knight Returns, Frank Miller,1986,2022
-Clean Code: A Handbook of Agile Software Craftsmanship, Robert C. Martin (Uncle Bob), 2008,2023
-Dive Into DESIGN PATTERNS, Refactoring Guru, 2024,2024
-Uzumaki,Junji Ito, 1998,2025
-Dragon Ball Vol. 1, Akira Toriyama,1985,2025
-Memórias Póstumas de Brás Cubas, Machado de Assis,1881,2025
+The Dark Knight Returns,Frank Miller,1986,2022
+Clean Code: A Handbook of Agile Software Craftsmanship,Robert C. Martin (Uncle Bob),2008,2023
+Dive Into DESIGN PATTERNS,Refactoring Guru,2024,2024
+Uzumaki,Junji Ito,1998,2025
+Dragon Ball Vol. 1,Akira Toriyama,1985,2025
+Memórias Póstumas de Brás Cubas,Machado de Assis,1881,2025

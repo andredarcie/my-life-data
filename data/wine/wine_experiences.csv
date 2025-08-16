@@ -1,4 +1,4 @@
-brand, producer, grape_variety, region, wine_type, tasting_date
-Boedo, Bodega Don Cristóbal 1492, Malbec, Argentina, Red, 2024-06-16
-Undurraga, Viña Undurraga, Chardonnay; Sauvignon Blanc; Pinot Noir, Chile, White, 2024-11-22
-Errazuriz Estate Series Reserva, Viña Errazuriz, Sauvignon Blanc, Aconcagua Valley -  Chile, White, 2024-11-16
+brand,producer,grape_variety,region,wine_type,tasting_date
+Boedo,Bodega Don Cristóbal 1492,Malbec,Argentina,Red,2024-06-16
+Undurraga,Viña Undurraga,Chardonnay; Sauvignon Blanc; Pinot Noir,Chile,White,2024-11-22
+Errazuriz Estate Series Reserva,Viña Errazuriz,Sauvignon Blanc,Aconcagua Valley -  Chile,White,2024-11-16
