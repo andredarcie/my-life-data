@@ -1,0 +1,20 @@
+Você deve analisar apenas o texto que eu enviar (não use fontes externas e não invente informações que não estejam no texto).
+A saída deve seguir rigorosamente o template abaixo:
+
+Substitua o que está entre { } pelas informações reais do texto.
+Mantenha exatamente a mesma estrutura, espaçamento e formatação.
+
+Liste sempre em tópicos, nunca em parágrafos.
+Nos pontos positivos e negativos, siga a ordem:
+Descrição breve do ponto.
+Número de fontes que citaram.
+Nomes das fontes que falaram isso.
+
+{Nome do Jogo} - {Quantidade de Reviews}  
+Pontos positivos mais citados:  
+- {Descrição breve do ponto positivo} - {Número de fontes} - {Fontes}  
+- {Outro ponto positivo} - {Número de fontes} - {Fontes}  
+
+Pontos negativos mais citados:  
+- {Descrição breve do ponto negativo} - {Número de fontes} - {Fontes}  
+- {Outro ponto negativo} - {Número de fontes} - {Fontes}  
