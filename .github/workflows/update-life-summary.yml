@@ -9,10 +9,15 @@ on:
 jobs:
   run-summary-script:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
 
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -22,8 +27,24 @@ jobs:
       - name: Install dependencies
         run: pip install --upgrade pip
 
-      - name: Run life summary script
+      - name: Update life summary
         run: python update_life_summary.py
 
-      - name: Ensure repository is clean
-        run: git diff --exit-code
+      - name: Create pull request if needed
+        id: cpr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore: update activity summary"
+          branch: chore/update-life-summary
+          title: "chore: update activity summary"
+          body: |
+            Automated update generated from ${{ github.sha }}.
+          labels: automated-update
+
+      - name: Log update status
+        run: |
+          if [ -n "${{ steps.cpr.outputs.pull-request-number }}" ]; then
+            echo "README.md summary updated in PR #${{ steps.cpr.outputs.pull-request-number }}."
+          else
+            echo "README.md summary already up to date."
+          fi
