@@ -30,7 +30,7 @@
 - Games abandoned: 145
 - Movies watched: 439
 - Movies to watch: 1
-- Documentaries watched: 21
+- Documentaries watched: 22
 - Series watched: 52
 - Books read: 46
 - Books to read: 8
