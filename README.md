@@ -22,3 +22,17 @@
 ### 🍷 Wine
 - [Wine Experiences](data/wine/wine_experiences.csv)
 - [Grapes](data/wine/README.md)
+
+## Activity Summary
+
+<!-- activity-summary-start -->
+- Games beaten: 198
+- Games abandoned: 145
+- Movies watched: 439
+- Movies to watch: 1
+- Documentaries watched: 21
+- Series watched: 52
+- Books read: 46
+- Books to read: 8
+- Wine experiences: 3
+<!-- activity-summary-end -->
