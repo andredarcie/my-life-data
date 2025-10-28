@@ -37,5 +37,16 @@ Duska
 10. The Last of Us
 
 Drão
+1. Metal Gear Solid 2
+2. The Last of Us
+3. Black Myth: Wukong
+4. Counter-Strike: Global Offensive
+5. The Witcher 3
+6. God of War 3
+7. The Legend of Zelda: Tears of the Kingdom
+8. Resident Evil 4
+9. Path of Exile
+10. Tekken Revolution
+
 Marcão
 Zidane
