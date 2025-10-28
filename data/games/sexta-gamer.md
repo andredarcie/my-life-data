@@ -4,13 +4,13 @@ Dré
 1. Journey
 2. Minecraft
 3. The Elder Scrolls V: Skyrim
-4. StarCraft II: Wings of Liberty
-5. Grand Theft Auto V (GTA V)
-6. The Witcher 3: Wild Hunt
-7. Half-Life 2
-8. The Legend of Zelda: Tears of the Kingdom
+4. The Last of Us Part II
+5. The Legend of Zelda: Tears of the Kingdom
+6. Grand Theft Auto V (GTA V)
+7. The Witcher 3: Wild Hunt
+8. Half-Life 2
 9. Disco Elysium
-10. The Last of Us Part II
+4. StarCraft II: Wings of Liberty
 
 Diguifi
 1. The Legend of Zelda: Tears of the Kingdom
@@ -25,16 +25,16 @@ Diguifi
 10. Shadow of the Colossus
 
 Duska
-1. Dota 2  
-2. Counter-Strike 2  
-3. World of Warcraft  
-4. MU Online  
-5. Super Mario World  
-6. Sunset Riders  
-7. The Witcher 3: Wild Hunt  
-8. Donkey Kong Country  
-9. Resident Evil 2 (Classic)  
-10. The Last of Us
+1 - The Witcher 3
+2 - Dota 2
+3 - The Last Of Us
+4 - Counter Strike 1.6
+5 - Red Dead Redemption 2
+6 - Uncharted 4
+7 - Resident evil 4
+8 - Death Stranding 2
+9 - Hollow Knight
+10 - Sunset Riders
 
 Drão
 1. Metal Gear Solid 2
@@ -49,4 +49,37 @@ Drão
 10. Tekken Revolution
 
 Marcão
+1. Elden Ring
+2. The Witcher 3
+3. Red Dead Redemption 2
+4. Donkey Kong Coutry 3
+5. Super Mario World
+6. The Legend of Zelda: Tears of the Kingdom
+7. Persona 5
+8. Bloodborne
+9. Final Fantasy XII
+10. Pokémon Yellow
+
 Zidane
+1. GTA 5
+2. Red Dead Redemption 2
+3. Age of Mythology Rethold
+4. The Witcher 3
+5. The Elder Scrolls V: Skyrim
+6. Destiny 2
+7. Lords Mobile
+8. CS 2
+9. Dota 2
+10. Need for Speed
+
+Lista final
+1. The Witcher (The Witcher 3) — 36 pts — (Dré, Duska, Drão, Marcão, Zidane)
+2. The Legend of Zelda (TOTK, NES, Skyward Sword) — 32 pts — (Dré, Diguifi, Drão, Marcão)
+3. The Last of Us (1, Part II) — 24 pts — (Dré, Duska, Drão)
+4. Red Dead Redemption (RDR2) — 23 pts — (Duska, Marcão, Zidane)
+5. Counter-Strike (1.6, GO, 2) — 17 pts — (Duska, Drão, Zidane)
+6. Journey — 16 pts — (Dré, Diguifi)
+7. Minecraft — 16 pts — (Dré, Diguifi)
+8. Grand Theft Auto (V) — 15 pts — (Dré, Zidane)
+9. Metal Gear Solid (MGS, MGS2) — 14 pts — (Diguifi, Drão)
+10. The Elder Scrolls (Skyrim) — 14 pts — (Dré, Zidane)
