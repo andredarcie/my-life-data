@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Life Data Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card: #111827;
+      --panel: #0b1221;
+      --text: #e2e8f0;
+      --muted: #94a3b8;
+      --accent: #7c3aed;
+      --accent-2: #06b6d4;
+      --accent-3: #f97316;
+      --border: #1f2937;
+      --shadow: 0 18px 50px rgba(0,0,0,0.35);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: 'Space Grotesk', system-ui, -apple-system, sans-serif;
+      background: radial-gradient(circle at 10% 20%, rgba(124,58,237,0.15), transparent 25%), radial-gradient(circle at 80% 10%, rgba(6,182,212,0.14), transparent 22%), var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+    header {
+      padding: 48px 24px 12px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    h1 {
+      margin: 0;
+      font-size: clamp(28px, 4vw, 42px);
+      letter-spacing: -0.03em;
+    }
+    p.lead {
+      margin: 8px 0 0;
+      color: var(--muted);
+      max-width: 820px;
+      font-size: 15px;
+    }
+    .meta {
+      display: flex;
+      gap: 12px;
+      margin-top: 18px;
+      flex-wrap: wrap;
+    }
+    .pill {
+      background: rgba(255,255,255,0.05);
+      color: var(--muted);
+      padding: 8px 12px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      font-size: 12px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+    main {
+      max-width: 1200px;
+      margin: 12px auto 56px;
+      padding: 0 24px 32px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 14px;
+    }
+    .card {
+      background: linear-gradient(135deg, rgba(124,58,237,0.08), rgba(6,182,212,0.08));
+      border: 1px solid var(--border);
+      padding: 16px;
+      border-radius: 14px;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(3px);
+    }
+    .card h3 {
+      margin: 0;
+      font-size: 13px;
+      color: var(--muted);
+      letter-spacing: 0.01em;
+      text-transform: uppercase;
+    }
+    .card .value {
+      margin: 10px 0 0;
+      font-size: 28px;
+      font-weight: 700;
+    }
+    .panels {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+      gap: 16px;
+    }
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 18px 18px 12px;
+      box-shadow: var(--shadow);
+      min-height: 420px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .panel h2 {
+      margin: 0;
+      font-size: 18px;
+      letter-spacing: -0.01em;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .panel small {
+      color: var(--muted);
+      font-size: 12px;
+    }
+    canvas {
+      width: 100% !important;
+      height: 450px !important;
+      background: #0d1526;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+    }
+    .list {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 8px;
+      font-size: 14px;
+      color: var(--muted);
+    }
+    .list strong {
+      color: var(--text);
+    }
+    .footer-note {
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 8px;
+    }
+    .status {
+      display: inline-block;
+      padding: 6px 10px;
+      background: rgba(6,182,212,0.12);
+      border: 1px solid rgba(6,182,212,0.4);
+      color: #c7f7ff;
+      border-radius: 999px;
+      font-size: 12px;
+    }
+    @media (max-width: 640px) {
+      header { padding-top: 32px; }
+      .panel { min-height: 320px; }
+      canvas { height: 320px !important; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Life Data Dashboard</h1>
+    <p class="lead">Leituras, filmes, jogos e degustações consolidados em um painel único. Os dados vêm direto dos CSVs do repositório.</p>
+    <div class="meta">
+      <span class="pill">Fonte: pasta <code>data/</code></span>
+      <span class="pill" id="last-updated">Carregando...</span>
+      <span class="pill status">Experimente servir com <code>python -m http.server</code></span>
+    </div>
+  </header>
+
+  <main>
+    <div class="grid" id="cards">
+      <div class="card"><h3>Filmes assistidos</h3><div class="value" data-metric="movies-watched">-</div></div>
+      <div class="card"><h3>Filmes na lista</h3><div class="value" data-metric="movies-to-watch">-</div></div>
+      <div class="card"><h3>Livros lidos</h3><div class="value" data-metric="books-read">-</div></div>
+      <div class="card"><h3>Livros para ler</h3><div class="value" data-metric="books-to-read">-</div></div>
+      <div class="card"><h3>Documentários</h3><div class="value" data-metric="docs-watched">-</div></div>
+      <div class="card"><h3>Séries vistas</h3><div class="value" data-metric="series-watched">-</div></div>
+      <div class="card"><h3>Games zerados</h3><div class="value" data-metric="games-beaten">-</div></div>
+      <div class="card"><h3>Games abandonados</h3><div class="value" data-metric="games-abandoned">-</div></div>
+      <div class="card"><h3>Degustações</h3><div class="value" data-metric="wine-experiences">-</div></div>
+    </div>
+
+    <div class="panels">
+      <div class="panel">
+        <h2>Filmes por ano <small>(watched_year)</small></h2>
+        <canvas id="moviesByYear"></canvas>
+      </div>
+      <div class="panel">
+        <h2>Diretores mais assistidos</h2>
+        <canvas id="directorsTop"></canvas>
+        <div class="list" id="directorsList"></div>
+      </div>
+      <div class="panel">
+        <h2>Livros lidos por ano</h2>
+        <canvas id="booksByYear"></canvas>
+      </div>
+      <div class="panel">
+        <h2>Jogos: zerados vs. abandonados</h2>
+        <canvas id="gamesByYear"></canvas>
+      </div>
+      <div class="panel">
+        <h2>Documentários &amp; Séries</h2>
+        <canvas id="docsSeries"></canvas>
+      </div>
+      <div class="panel">
+        <h2>Onde assistir (filmes a ver)</h2>
+        <canvas id="watchlistPlatforms"></canvas>
+      </div>
+      <div class="panel">
+        <h2>Tipos de vinho degustados</h2>
+        <canvas id="wineTypes"></canvas>
+      </div>
+      <div class="panel">
+        <h2>Leituras futuras por gênero</h2>
+        <canvas id="booksGenres"></canvas>
+      </div>
+      <div class="panel">
+        <h2>Highlights rápidos</h2>
+        <div class="list" id="highlights">
+          <span>Carregando...</span>
+        </div>
+      </div>
+    </div>
+    <div class="footer-note">
+      Dica: abra com um servidor local para evitar problemas de CORS (<code>python -m http.server</code> na raiz).
+    </div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="dashboard.js?v=4"></script>
+</body>
+</html>
