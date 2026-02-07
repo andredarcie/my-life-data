@@ -21,7 +21,29 @@
 # Cronologia
 
 ## 2025 - 31 anos
-- Em construção
+### Carreira
+- Começei a trabalhar em uma grande empresa multinacional do Japão chamada NTT Data alocado na XP investimentos
+- Em termos profissinais foi a mais evolução da carreira, projetos gigantes com equipe imensa
+- Profundei meus estudos em Microserviços e Apache Kafka
+- Copilot, GPT, LLMs viraram a ferramenta fundamental para mim como dev
+
+### Hobby e Interesses
+- Desenvolvimento do projeto Tiny RPG Studio
+
+### Eventos e Vida Pessoal / Projetos Pessoais
+- Pedi minha namorada em casamento no Palace Hotel e jantar no Olivia
+- Morando por um ano de frente pra praia, em Salvador
+- Visita de Diego Penha (Diguifi)
+- Mais um ano com minha turma de amigos de Divinolandia.
+
+### Arte Destaque
+- 🎮 Melhores Jogos:
+- 🎬 Melhores Filmes:
+- 📚 Melhores Livros:
+- 📺 Melhores Séries/ Documentários:
+
+### Aprendizados
+- 
 
 ------
 ------
