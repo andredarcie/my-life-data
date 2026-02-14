@@ -26,13 +26,13 @@
 ## Activity Summary
 
 <!-- activity-summary-start -->
-- Games beaten: 198
+- Games beaten: 202
 - Games abandoned: 145
-- Movies watched: 439
+- Movies watched: 442
 - Movies to watch: 1
-- Documentaries watched: 23
-- Series watched: 52
-- Books read: 46
+- Documentaries watched: 24
+- Series watched: 56
+- Books read: 49
 - Books to read: 8
 - Wine experiences: 3
 <!-- activity-summary-end -->
