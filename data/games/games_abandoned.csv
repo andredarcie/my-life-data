@@ -1,122 +1,112 @@
 title,year_played,score,reason
-Tetris,2006,3,
-Guitar Hero,2007,3,
-Guitar Hero II,2007,3,
-Guitar Hero III: Legends of Rock,2007,3,
-Super Mario World,2010,3,
-The Sims,2011,3,
-The Sims II,2011,3,
-CounterStrike,2012,3,
-CounterStrike: Source,2012,3,
-Super Mario Bros. 3,2012,3,
-Final Fantasy VII,2012,4,
-Super Metroid,2012,3,
-Super Mario Kart,2012,3,
-Shadow of the Colossus,2012,4,
-Street Fighter II,2012,3,
-Castlevania: Symphony of the Night,2012,4,
-Final Fantasy VI,2021,3,
-Pacman,2012,3,
-Space Invaders,2012,3,
-Pong,2012,3,
-Diablo II,2012,3,
-Tony Hawk's Pro Skater 2,2012,3,
-Okami,2012,3,
-Zork,2012,3,
-Grand Theft Auto I,2012,3,
-Grand Theft Auto II,2012,3,
-SimCity 2000,2012,3,
-StarCraft,2012,3,
-StarCraft II,2012,3,
-Ico,2015,3,
-Red Dead Redemption,2015,4,
-Uncharted: Drake's Fortune,2015,3,
-Uncharted 2: Among Thieves,2015,3,
-Donkey Kong,2015,3,
-Dota 2,2015,3,
-Spelunky,2015,3,
-Pokemon Red/Blue,2015,3,
-Gran Turismo 3: A-Spec,2015,3,
-World of Warcraft,2016,3,
-Brothers: A Tale of Two Sons,2018,3,
-Valiant Hearts: The Great War™,2018,3,
-Overwatch,2018,3,
-The Talos Principle,2018,3,
-Borderlands 2,2018,2,
-This War of Mine,2018,4,
-Game Dev Tycoon,2018,2,
-Mark of the Ninja,2018,2,
-Cuphead,2018,3,
-The Wolf Among Us,2018,3,
-Broforce,2018,2,
-Garry's Mod,2018,3,
-BattleBlock Theater®,2019,2,
-Return of the Obra Dinn,2019,3,
-Fallout: New Vegas,2019,4,
-Sid Meier's Civilization® V,2019,3,
-South Park™: The Stick of Truth™,2019,4,
-The Binding of Isaac,2019,4,
-Terraria,2019,3,
-FTL: Faster Than Light,2019,3,
-DOOM,2019,3,
-Papers Please,2019,3,
-Rocket League,2019,3,
-Into The Breach,2019,3,
-Darkest Dungeon,2020,3,
-Besiege,2020,4,
-Untitled Goose Game,2020,3,
-Among Us,2020,3,
-Undertale,2020,4,
-Streets of Rogue,2020,3,
-Dark Souls,2020,3,
-Chrono Trigger,2020,3,
-The Legend of Zelda: A Link to the Past,2020,3,
-Nier: Automata,2020,3,
-God of War,2020,3,
-Loop Hero,2021,3,
-Doom Eternal,2021,2,
-Hollow Knight,2021,3,
-Assassin's Creed Valhalla,2021,2,
-Deus Ex: Human Revolution,2021,3,
-Satisfactory,2021,2,
-Don't Starve Together,2021,3,
-DUSK,2021,3,
-Totally Accurate Battle Simulator,2021,2,
-Helltaker,2021,3,
-The Legend of Zelda: Ocarina of Time,2021,4,
-Super Mario 64,2021,3,
-Stardew Valley,2021,3,
-Baba Is You,2021,3,
-Bloodborne,2021,3,
-Mini Metro,2021,3,
-SOMA,2021,3,
-Hellblade: Senua's Sacrifice,2021,3,
-Bloodborne,2021,3,
-Monster Hunter: World,2021,3,
-Battlefield 1,2021,3,
-Mortal Kombat X,2021,3,
-The Last Guardian,2021,2,
-Final Fantasy XV: Royal Edition,2021,2,
-Crash Bandicoot N. Sane Trilogy,2021,3,
-Sea of Thieves,2021,4,
-inFAMOUS Second Son,2021,2,
-Desperados III,2021,2,
-Hitman 2 (2018),2021,3,
-Call of Duty: Black Ops III,2021,3,
-Days Gone,2022,3,
-Dreams,2022,4,
-Factorio,2022,4,
-Sky: Children of the Light,2022,4,
-Baba Is You,2022,4,
-Assassin's Creed Origins,2022,2,
-Assassin's Creed Valhalla,2022,2,
-Crash Bandicoot N. Sane Trilogy,2022,2,
-Batman: Arkham Knight,2022,3,
+Tetris,2006,3,Estrutura infinita e repetitiva sem progressão narrativa
+Guitar Hero,2007,3,Repetição de músicas e foco exclusivamente arcade
+Guitar Hero II,2007,3,Fórmula muito parecida e pouca sensação de progresso
+Guitar Hero III: Legends of Rock,2007,3,Dificuldade crescente e repetição da mesma mecânica
+The Sims,2011,3,Sem objetivo final e baseado em uma rotina contínua
+The Sims II,2011,3,Ritmo lento e ausência de uma conclusão definida
+CounterStrike,2012,3,Partidas repetitivas e ausência de campanha
+CounterStrike: Source,2012,3,Foco exclusivo no multiplayer competitivo
+Super Mario Bros. 3,2012,3,Dificuldade arcade e progressão baseada em tentativa e erro
+Final Fantasy VII,2012,4,Ritmo lento e combate por turnos repetitivo
+Super Metroid,2012,3,Navegação confusa e pouca orientação
+Super Mario Kart,2012,3,Single-player superficial e focado apenas em pistas
+Shadow of the Colossus,2012,4,Controles difíceis e estrutura repetida entre os chefes
+Street Fighter II,2012,3,Foco arcade e ausência de progressão narrativa
+Castlevania: Symphony of the Night,2012,4,Exploração labiríntica e navegação pouco clara
+Final Fantasy VI,2021,3,Apresentação datada e muito texto em uma jornada longa
+Pacman,2012,3,Loop infinito e repetitivo sem progressão real
+Space Invaders,2012,3,Gameplay muito simples e repetitivo
+Pong,2012,3,Experiência limitada e sem objetivos de longo prazo
+Diablo II,2012,3,Muito grind e repetição de combate
+Tony Hawk's Pro Skater 2,2012,3,Estrutura arcade com objetivos repetitivos
+Okami,2012,3,Ritmo lento e duração excessiva
+Zork,2012,3,Foco total em texto e soluções pouco intuitivas
+Grand Theft Auto I,2012,3,Controles datados e missões repetitivas
+Grand Theft Auto II,2012,3,Gameplay pouco refinado e repetição de objetivos
+SimCity 2000,2012,3,Sem conclusão clara e focado em manutenção contínua
+StarCraft,2012,3,Alta dificuldade e excesso de microgerenciamento
+Ico,2015,3,Controles imprecisos e ritmo muito lento
+Donkey Kong,2015,3,Dificuldade arcade e repetição de fases
+Dota 2,2015,3,Curva de aprendizado alta e partidas repetitivas
+Spelunky,2015,3,Dificuldade punitiva e perda de progresso
+Pokemon Red/Blue,2015,3,Muito grind e combate por turnos repetitivo
+Gran Turismo 3: A-Spec,2015,3,Modo carreira longo e repetitivo
+World of Warcraft,2016,3,Progressão infinita baseada em grind
+Brothers: A Tale of Two Sons,2018,3,Gameplay simples que não sustenta a narrativa
+Valiant Hearts: The Great War™,2018,3,Puzzles simples e gameplay repetitivo
+Overwatch,2018,3,Foco exclusivo em partidas multiplayer repetitivas
+The Talos Principle,2018,3,Puzzles cansativos e progressão lenta
+Borderlands 2,2018,2,Missões repetitivas e excesso de grind por equipamentos
+This War of Mine,2018,4,Sobrevivência punitiva e ritmo desgastante
+Game Dev Tycoon,2018,2,Loop de gerenciamento repetitivo e sem conclusão forte
+Mark of the Ninja,2018,2,Furtividade baseada em repetição e tentativa e erro
+Cuphead,2018,3,Dificuldade exagerada e progressão punitiva
+The Wolf Among Us,2018,3,Pouca interação e foco excessivo em diálogos
+Broforce,2018,2,Gameplay arcade simples e repetitivo
+Garry's Mod,2018,3,Ausência de objetivos e progressão estruturada
+BattleBlock Theater®,2019,2,Plataforma arcade repetitiva e frustrante
+Return of the Obra Dinn,2019,3,Investigação pouco intuitiva e progresso lento
+Fallout: New Vegas,2019,4,Gameplay datado e mundo aberto muito extenso
+Sid Meier's Civilization® V,2019,3,Partidas longas e excesso de microgerenciamento
+South Park™: The Stick of Truth™,2019,4,Combate por turnos simples e repetitivo
+The Binding of Isaac,2019,4,Estrutura roguelike repetitiva e punitiva
+Terraria,2019,3,Pouca orientação e progressão baseada em grind
+FTL: Faster Than Light,2019,3,Perda de progresso e dificuldade punitiva
+Papers Please,2019,3,Rotina burocrática repetitiva e cansativa
+Rocket League,2019,3,Partidas repetitivas e ausência de progressão narrativa
+Into The Breach,2019,3,Dificuldade elevada e repetição de partidas
+Darkest Dungeon,2020,3,Grind excessivo e sistemas muito punitivos
+Besiege,2020,4,Sandbox sem narrativa ou objetivo central forte
+Untitled Goose Game,2020,3,Mecânicas simples que perdem a novidade rapidamente
+Among Us,2020,3,Experiência dependente do multiplayer e muito repetitiva
+Undertale,2020,4,Combate em estilo arcade e apresentação muito simples
+Streets of Rogue,2020,3,Estrutura roguelike repetitiva e punitiva
+Chrono Trigger,2020,3,Combate por turnos datado e ritmo pouco envolvente
+The Legend of Zelda: A Link to the Past,2020,3,Navegação pouco clara e dificuldade datada
+Loop Hero,2021,3,Loop automatizado repetitivo e baseado em grind
+Doom Eternal,2021,2,Dificuldade elevada e combate intenso sem pausas
+Hollow Knight,2021,3,Dificuldade alta e muito backtracking sem orientação
+Assassin's Creed Valhalla,2021,2,Conteúdo excessivo e missões repetitivas
+Deus Ex: Human Revolution,2021,3,Dificuldade frustrante e ritmo lento
+Satisfactory,2021,2,Progressão infinita e repetição de construção
+Don't Starve Together,2021,3,Sobrevivência punitiva e sem objetivo final claro
+DUSK,2021,3,Foco quase exclusivo em ação arcade
+Totally Accurate Battle Simulator,2021,2,Sandbox simples cuja novidade acaba rápido
+Helltaker,2021,3,Puzzles de tentativa e erro com pouca profundidade
+The Legend of Zelda: Ocarina of Time,2021,4,Controles datados e navegação confusa
+Super Mario 64,2021,3,Câmera difícil e coleta obrigatória de itens
+Stardew Valley,2021,3,Ritmo lento e rotina contínua sem conclusão clara
+Baba Is You,2021,3,Puzzles progressivamente difíceis e frustrantes
+Bloodborne,2021,3,Dificuldade punitiva e falta de acessibilidade
+Mini Metro,2021,3,Loop infinito e repetitivo sem narrativa
+SOMA,2021,3,História boa mas gameplay pouco empolgante
+Hellblade: Senua's Sacrifice,2021,3,Combate repetitivo e puzzles simples
+Bloodborne,2021,3,Dificuldade punitiva e perda de progresso
+Monster Hunter: World,2021,3,Combates longos e grind repetitivo
+Battlefield 1,2021,3,Campanha curta e multiplayer pouco envolvente
+Mortal Kombat X,2021,3,Foco arcade com pouca progressão além do combate
+The Last Guardian,2021,2,Controles imprecisos e inteligência artificial frustrante
+Final Fantasy XV: Royal Edition,2021,2,História irregular e missões abertas repetitivas
+Crash Bandicoot N. Sane Trilogy,2021,3,Muito arcade e dependente de precisão
+Sea of Thieves,2021,4,Progressão contínua sem objetivo final e dependente de grupo
+inFAMOUS Second Son,2021,2,Missões genéricas e mundo aberto pouco variado
+Desperados III,2021,2,Furtividade difícil baseada em tentativa e erro
+Hitman 2 (2018),2021,3,Repetição de cenários e soluções por tentativa e erro
+Call of Duty: Black Ops III,2021,3,FPS genérico com campanha pouco envolvente
+Days Gone,2022,3,Mundo aberto longo com missões repetitivas
+Dreams,2022,4,Sandbox criativo sem uma experiência central ou conclusão
+Factorio,2022,4," Jogo infinito e sem fim, mas o gameplay é viciante"
+Sky: Children of the Light,2022,4,Ritmo lento e progressão social contínua sem conclusão
+Baba Is You,2022,4,Puzzles muito difíceis que bloquearam a progressão
+Assassin's Creed Origins,2022,2,Mundo aberto inflado com quests repetitivas
+Assassin's Creed Valhalla,2022,2,Duração excessiva e conteúdo repetitivo
+Crash Bandicoot N. Sane Trilogy,2022,2, Muito arcade
+Batman: Arkham Knight,2022,3,Excesso de Batmóvel e missões repetitivas
 STAR WARS: Squadrons,2022,3,Campanha muito curta e multiplayer não me prendeu
 DIRT 5,2022,3,Modo carreira é muito repetitivo
 Deathloop,2022,3,Muita repetição você tem que viver o mesmo dia varias vezes até conseguir eliminar todos os alvos
 Deus Ex: Mankind Divided,2022,3,Dificuldade bem frustante e historia incompleta
-Mario Kart 8 Deluxe,2022,3,Modo single-player é apenas escolher pistas e karts diferentes
 Diablo III: Eternal Collection,2022,3,Muito focado em grind 
 Marvel's Guardians of the Galaxy,2022,3,Personagens e piadas não me preenderam e gameplay generico 
 Animal Crossing: New Horizons,2022,3,O foco dele não é zer zerado e sim sem jogado continuamente por anos e o ritmo é muito lento
@@ -142,6 +132,231 @@ The Light Brigade,2023,3,Abandonei pela dificuldade e ser roguelike que em VR s�
 Destroy All Humans!,2023,3,Com o passar do tempo as missões só repetem e qualque coisa gera falha na missão dificuldade frustante
 Marvel's Iron Man VR,2023,3,É dificil voar e ser preciso e isso é basicamente a mecanica principal do jogo
 Black Myth: Wukong,2025,3,Dificuladade elevada sem opções de acessiblidade e baixo nivel tecnico (paredes invisiveis - quedas de frame) - level design pobre
-Clair Obscur: Expedition 33,2025,3,Batalha por turnos com quick time events que não me prendeu - level design linear
 Kingdom Come: Deliverance II,2025,3,Dificuladade elevada sem opções de acessiblidade - alta simulação de sobrevivencia - duração duracação
-
+STAR WARS Jedi Survivor,2025,4,É um jogo bem completo exploração combate e historia mas as vezes a navegação eu fico perdido
+Crimson Desert,2025,3, É um MMORPG singleplayer o foco é quantiade de conteudo acima de qualidade
+Denshattack!,2025,3,É criativo e divertido mas é muito arcade foco total no gameplay e não na historia ou exploração
+Dead space,2025,3,Ambientação incrivel graficos excelentes mas com o tempo enjoa ficar indo e voltando na nave e mesmo inimigos repetidos a historia é legal mas nao prende tanto
+Outer Wilds,2026,3,Isso de ter tempo limitado pra explorar pra mim é muito frustrante gostaria de explorar o espaço com calma e a repetição que isso causa deixa tudo chato
+Deus Ex,2026,3,Jogo muito antigo que envelheceu mal a versão que joguei de PC estava cheia de problemas
+Super Mario Galaxy,2026,3,Não sou tão fãs de jogos focado em arcade apesar de achar o Odyssey genial achei esse menos impressionante
+The Elder Scrolls III: Morrowind,2026,3,Isso de ficar perdido no mapa sem saber oque fazer e o fato de ser muito antigo me afastou
+Destiny,2026,3,Como é focado em online não é meu tipo de jogo
+Final Fantasy X,2026,3,Por ser RPG por turnos e a sua estética não me agradou
+Final Fantasy IX,2026,3,Por ser RPG por turnos e a sua estética não me agradou
+The Elder Scrolls IV: Oblivion,2026,3,Como meu primeiro jogo da franquia foi Skyrim tive dificuldade em gostar por parecer um jogo inferior em tudo e o visual dos NPCs estraga a imersão completamente
+GoldenEye 007,2026,3,Totalmente arcade
+The Legend of Zelda: The Wind Waker,2026,3,Realmente comecei a gostar de zelda na sua fase de mundo aberto então esse não me interessou tanto
+Thief: The Dark Project,2026,3,Apesar de ser bem imersivo e sobre furtividade não me atraiu tanto pelo ponto forte dele ser o gameplay e as mecânicas
+The Legend of Zelda: Majora’s Mask,2026,3,Nao cheguei a zerar o Ocarina e esse ainda tem ciclo de tempo que limita então não tive interesse
+Left 4 Dead 2,2026,3,Focado em multiplayer
+Yakuza 0,2026,3,Não curti o estilo estético e nem sem por turnos
+Metroid Prime,2026,3,"Backtracking é infernal, sua estrutura antiga de matar um boss e morrer em um buraco e voltar tudo porque os saves são limitados é o auge da frustação"
+Pokémon Gold/Silver,2026,3,Foco em arcade total ficar forte e grind
+The Secret of Monkey Island,2026,3,Muito foco em resolver puzzles
+Tetris Effect,2026,3,arcade total
+Fortnite Battle Royale,2026,3,Foco total no online
+Dragon Age: Origins,2026,3,Estilo muito genérico de RPG combate não fluido
+Shenmue,2026,3,Mini games chatos
+Final Fantasy XIV,2026,3,Foco total no online
+Fable II,2026,3,Jogo já antigo e fora do meu radar vamos ver se o novo jogo do Fable chama minha atenção
+Ultima Underworld: The Stygian Abyss,2026,3,Não faz meu estilo de RPGs foco em grind
+Age of Empires II: The Age of Kings,2026,3,Grande foco em arcade e estratégias tem uma historia bacana até mas não prende tanto pois é mais funcional
+Star Wars: Knights of the Old Republic,2026,3,Deu origem a mass effect mas visualmente não me chamou atenção e tmb não sou tanto fã de star wars
+Baldur’s Gate III,2026,3,Cheguei até no meio do ato 2 mas sem duvida jogos por turnos não é pra mim eu acho muito chato e muito demorado quebra muito a imersão cheguei em um ponto que estava exausto de esperar a vez do inimigo atacar
+Ms. Pac-Man,2026,3,Totalmente Arcade
+Super Smash Bros. Melee,2026,3,Totalmente Arcade
+Tomb Raider (1996),2026,3,Os controles ficaram muito datados
+Super Mario Galaxy 2,2026,3,É um jogo grande foco no arcade e coleta de items
+Rock Band,2026,3,Arcade total
+EarthBound,2026,3,Não sou fã de jogos por turnos
+Mega Man 2,2026,3,Arcade total
+"Shin Megami Tensei: Persona 4",2026,3,"Combate por turnos não combina com meu gosto"
+"League of Legends",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Sid Meier's Civilization II",2026,3,"Combate por turnos não combina com meu gosto"
+"Wii Sports",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Sid Meier's Civilization IV",2026,3,"Combate por turnos não combina com meu gosto"
+"Galaga",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Super Mario World 2: Yoshi's Island",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Gran Turismo",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Sid Meier's Civilization",2026,3,"Combate por turnos não combina com meu gosto"
+"Team Fortress 2",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Final Fantasy Tactics",2026,3,"Combate por turnos não combina com meu gosto"
+"Mike Tyson's Punch-Out!!",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"XCOM: UFO Defense",2026,3,"Combate por turnos não combina com meu gosto"
+"NBA Jam [1993]",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Fire Emblem: Three Houses",2026,3,"Combate por turnos não combina com meu gosto"
+"Contra",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Advance Wars",2026,3,"Combate por turnos não combina com meu gosto"
+"Street Fighter 6",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Burnout 3: Takedown",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Divinity: Original Sin II",2026,3,"Combate por turnos não combina com meu gosto"
+"Lemmings",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Soulcalibur",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Donkey Kong Country",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Madden NFL 2005",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Asteroids",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Gauntlet [1985]",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Final Fantasy IV",2026,3,"Combate por turnos não combina com meu gosto"
+"Pitfall!",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Fallout 2",2026,3,"Combate por turnos não combina com meu gosto"
+"Star Fox 64",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Apex Legends",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Mortal Kombat II",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Katamari Damacy",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Left 4 Dead",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Fire Emblem Awakening",2026,3,"Combate por turnos não combina com meu gosto"
+"Mortal Kombat [1992]",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"XCOM: Enemy Unknown",2026,3,"Combate por turnos não combina com meu gosto"
+"NHL '94",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Metaphor: ReFantazio",2026,3,"Combate por turnos não combina com meu gosto"
+"FIFA Road to World Cup 98 [GB]",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Quake III: Arena",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Dragon Quest VIII: Journey of the Cursed King",2026,3,"Combate por turnos não combina com meu gosto"
+"Suikoden II",2026,3,"Combate por turnos não combina com meu gosto"
+"Tecmo Super Bowl [1991]",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Streets of Rage 2",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Split Fiction",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Banjo-Kazooie",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Balatro",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Fez",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Winning Eleven: Pro Evolution Soccer 2007",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Super Mario RPG: Legend of the Seven Stars",2026,3,"Combate por turnos não combina com meu gosto"
+"Super Mario Bros. Wonder",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Ultima Online",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Splatoon",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Sensible World of Soccer",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Defender",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Destiny 2",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"EverQuest",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Battlefield 1942",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Helldivers II",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Hearthstone: Heroes of WarCraft",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Fallout",2026,3,"Combate por turnos não combina com meu gosto"
+"Pokemon Black Version",2026,3,"Combate por turnos não combina com meu gosto"
+"Robotron: 2084",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Super Smash Bros.",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Angry Birds",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Super Meat Boy",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"OutRun",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Dance Dance Revolution",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Super Smash Bros. Brawl",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"WipEout [1996]",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Sonic the Hedgehog 3 & Knuckles",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Dragon Quest",2026,3,"Combate por turnos não combina com meu gosto"
+"Ultima IV: Quest of the Avatar",2026,3,"Combate por turnos não combina com meu gosto"
+"Splatoon 3",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Pokemon Sword",2026,3,"Combate por turnos não combina com meu gosto"
+"Slay the Spire",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Marvel vs. Capcom 2: New Age of Heroes",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Super Mario Bros. 2",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"SEGA Rally Championship",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"LittleBigPlanet",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Soulcalibur II",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"WarioWare, Inc: Mega Microgames",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Splatoon 2",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Burnout Paradise",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Mother 3",2026,3,"Combate por turnos não combina com meu gosto"
+"Mario Kart 64",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Castlevania",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Like a Dragon: Infinite Wealth",2026,3,"Combate por turnos não combina com meu gosto"
+"Pokemon Ruby Version",2026,3,"Combate por turnos não combina com meu gosto"
+"Star Wars: The Arcade Game",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"XCOM 2",2026,3,"Combate por turnos não combina com meu gosto"
+"R-Type",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"NiGHTS into Dreams... [Saturn]",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"F-Zero GX",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Pokemon Diamond Version",2026,3,"Combate por turnos não combina com meu gosto"
+"Final Fantasy VIII",2026,3,"Combate por turnos não combina com meu gosto"
+"Ninja Gaiden",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Shovel Knight",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"WipEout XL",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Unreal Tournament [1999]",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Adventure [Atari]",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Pokemon Go",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Ikaruga",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Speedball 2: Brutal Deluxe",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Star Fox",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Dragon Quest XI: Echoes of an Elusive Age",2026,3,"Combate por turnos não combina com meu gosto"
+"Shin Megami Tensei: Persona 3",2026,3,"Combate por turnos não combina com meu gosto"
+"Mega Man X",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Wave Race 64",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Pokemon Scarlet",2026,3,"Combate por turnos não combina com meu gosto"
+"UFO 50",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Gran Turismo 4",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"OutRun 2",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Super Bomberman",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Virtua Fighter 2",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Counter-Strike: Global Offensive",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Paper Mario: The Thousand-Year Door",2026,3,"Combate por turnos não combina com meu gosto"
+"Phantasy Star IV",2026,3,"Combate por turnos não combina com meu gosto"
+"Spelunky 2",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"PUBG: Battlegrounds",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Sonic CD [1996]",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Bubble Bobble",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Final Fantasy",2026,3,"Combate por turnos não combina com meu gosto"
+"Panzer Dragoon Saga",2026,3,"Combate por turnos não combina com meu gosto"
+"Championship Manager",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Street Fighter III: The New Generation",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Pokemon X",2026,3,"Combate por turnos não combina com meu gosto"
+"Donkey Kong Country 2: Diddy's Kong Quest",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Viewtiful Joe",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Pac-Man: Championship Edition",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Forza Horizon 4",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Virtua Fighter",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Geometry Wars: Retro Evolved 2",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Geometry Wars Retro Evolved",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Ultima",2026,3,"Combate por turnos não combina com meu gosto"
+"Mega Man 3",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Virtua Fighter 4",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Phantasy Star Online",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Mario Kart 7",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"NBA 2K11",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Counter-Strike 2",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Super Mario Maker",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"PaRappa the Rapper",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Contra III: The Alien Wars",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Xenogears",2026,3,"Combate por turnos não combina com meu gosto"
+"Teenage Mutant Ninja Turtles IV: Turtles in Time",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Super Monkey Ball",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Dead Cells",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Missile Command [1980]",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Llamasoft: The Jeff Minter Story",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Super Bomberman 2",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Marble Madness",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Super Mario Sunshine",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Inscryption",2026,3,"Combate por turnos não combina com meu gosto"
+"Lode Runner",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Virtua Fighter 5",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Ghosts 'N Goblins",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Virtua Tennis",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Puyo Puyo [1992]",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Dragon Quest V: Hand of the Heavenly Bride",2026,3,"Combate por turnos não combina com meu gosto"
+"Final Fight",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"TowerFall: Ascension",2026,3,"Foco exclusivo em multiplayer ou funcionamento online"
+"Bomberman '94",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Caves of Qud",2026,3,"Combate por turnos não combina com meu gosto"
+"Arkanoid",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Super Hexagon",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Daytona USA",2026,3,"Jogo focado exclusivamente em esporte ou corrida"
+"Puzzle Bobble [PC]",2026,3,"Jogo essencialmente arcade e focado em mecânicas"
+"Skies of Arcadia",2026,3,"Combate por turnos não combina com meu gosto"
+"Sekiro: Shadows Die Twice",2026,3,"Jogo soulslike não combina com meu gosto"
+"Dark Souls III",2026,3,"Jogo soulslike não combina com meu gosto"
+"Demon's Souls [2009]",2026,3,"Jogo soulslike não combina com meu gosto"
+"Tunic",2026,3,"Jogo soulslike não combina com meu gosto"
+"Dark Souls II",2026,3,"Jogo soulslike não combina com meu gosto"
+"Lies of P",2026,3,"Jogo soulslike não combina com meu gosto"
+"Blue Prince",2026,3,"Foco em puzzles e reinícios diários torna a exploração repetitiva e frustrante"
+"Momotaro Densetsu: Showa, Heisei, Reiwa mo Teiban!",2026,3,"Estrutura de jogo de tabuleiro econômico, funcional e pouco narrativa não me atrai"
+"Myst",2026,3,"Foco quase total em exploração e resolução de puzzles não me atrai"
+"M.U.L.E.",2026,3,"Estratégia econômica antiga e voltada ao multiplayer não combina comigo"
+"Baldur's Gate",2026,3,"Combate lento e tático, interface antiga e muita administração de grupo"
+"Baldur's Gate II: Shadows of Amn",2026,3,"Combate lento e tático, interface antiga e muita administração de grupo"
+"Dungeon Master",2026,3,"Jogo muito antigo, labiríntico e com pouca orientação"
+"Monster Hunter 4",2026,3,"Grind e repetição de caçadas em uma estrutura já datada"
+"Dune II: The Building of a Dynasty",2026,3,"Estratégia sistêmica antiga, repetitiva e com pouco foco narrativo"
+"Populous",2026,3,"Estratégia sistêmica antiga e com pouco foco narrativo não me atrai"
+"Homeworld",2026,3,"Estratégia sistêmica e pouco foco narrativo não combinam comigo"
+"SimCity [1989]",2026,3,"Simulação antiga, funcional e sem foco narrativo não me atrai"
+"Norco",2026,3,"Fiquei perdido e não encontrei como progredir por falta de orientação"
