@@ -1,286 +1,231 @@
-﻿ano,idade,categoria,subcategoria,descricao
-2025,31,carreira,,"Comecei a trabalhar em uma grande multinacional japonesa chamada NTT DATA, alocado na XP Investimentos."
-2025,31,carreira,,"Em termos profissionais, foi o ano de maior evolução da minha carreira, com projetos gigantes e uma equipe imensa."
-2025,31,carreira,,Aprofundei meus estudos em microsserviços e Apache Kafka.
-2025,31,carreira,,"Copilot, GPT e LLMs se tornaram ferramentas fundamentais para mim como desenvolvedor."
-2025,31,hobbies_e_interesses,,Desenvolvi o projeto Tiny RPG Studio.
-2025,31,eventos_pessoais,,"Pedi minha namorada em casamento no Palace Hotel e, em seguida, jantamos no Olivia."
-2025,31,eventos_pessoais,,"Morei por um ano de frente para a praia, em Salvador."
-2025,31,eventos_pessoais,,Recebi a visita de Diego Penha (Diguifi).
-2025,31,eventos_pessoais,,Passei mais um ano com minha turma de amigos de Divinolândia.
-2024,30,carreira,,"Aprofundei meus conhecimentos em AWS, incluindo SNS, SQS e CI/CD."
-2024,30,carreira,,Aprofundei meus conhecimentos em Docker e Docker Compose.
-2024,30,carreira,,Aprendi a usar o ChatGPT no trabalho.
-2024,30,hobbies_e_interesses,,Participei de um clube do livro sobre Design Patterns.
-2024,30,hobbies_e_interesses,,Comecei a escrever mais no DEV.to.
-2024,30,hobbies_e_interesses,,"Comecei a escrever poemas, como ""Janta""."
-2024,30,eventos_pessoais,,"Fui nômade digital durante um ano inteiro, viajando por todo o Brasil, principalmente pelo Nordeste; conheci os nove estados da região."
-2024,30,eventos_pessoais,,"Apaixonei-me por Salvador, na Bahia."
-2024,30,eventos_pessoais,,Iniciei um novo relacionamento.
-2024,30,entretenimento,jogo,Alan Wake 2
-2024,30,entretenimento,filme,I'm Still Here
-2024,30,entretenimento,filme,Central do Brasil
-2024,30,entretenimento,filme,The Fly
-2024,30,entretenimento,filme,Dona Flor e Seus Dois Maridos
-2024,30,entretenimento,livro,Design Patterns: Elements of Reusable Object-Oriented Software
-2024,30,entretenimento,serie_ou_documentario,American Factory
-2024,30,aprendizados,,"A vida pode ser incrível e não seguir um roteiro comum, se você estiver disposto e de mente aberta."
-2023,29,geral,,Organizei o clube do livro sobre Design Patterns.
-2023,29,geral,,"Iniciei o projeto ""Open Video Game Data"" com Diego Penha."
-2023,29,geral,,Comecei a estudar e a investir em Blazor e .NET.
-2023,29,geral,,Conheci um novo grupo de amigos que levarei para a vida toda.
-2022,28,carreira,,Organizei o clube do livro sobre Clean Code.
-2022,28,carreira,,"Fui à festa da Exato, onde conheci a empresa e as pessoas."
-2022,28,carreira,,Iniciei minha consultoria em .NET.
-2022,28,carreira,,Iniciei o projeto freelance Tiny Gamification.
-2022,28,carreira,,Completei meu segundo ano na Exato Digital.
-2022,28,hobbies_e_interesses,,"Comprei um Meta Quest 2, marcando meu início no hobby de realidade virtual."
-2022,28,hobbies_e_interesses,,Meu canal no TikTok sobre realidade virtual viralizou.
-2022,28,hobbies_e_interesses,,Comprei um Nintendo Switch Lite.
-2022,28,hobbies_e_interesses,,"Fiz turismo em São Paulo e visitei o MASP, entre outros lugares."
-2021,27,carreira,,Saí da SOITIC após quatro anos e quatro meses.
-2021,27,carreira,,"Tornei-me professor na SOITECH, ministrando aulas de .NET."
-2021,27,carreira,,"Entrei na Exato Digital, uma startup de dados."
-2021,27,carreira,,Caminhei rumo à conclusão da pós-graduação.
-2021,27,hobbies_e_interesses,,"Completei um ano desenvolvendo Zero the Hero, meu jogo na Godot Engine."
-2021,27,hobbies_e_interesses,,Comprei um PlayStation 5 e uma TV 4K.
-2021,27,eventos_pessoais,,Mudei para um apartamento grande e bonito.
-2020,26,carreira,,Tornei-me coordenador da equipe.
-2020,26,carreira,,Completei três anos no Grupo SOITIC.
-2020,26,carreira,,Dei uma palestra sobre .NET no Ateliê de Software.
-2020,26,estudos,,Iniciei minha pós-graduação em Data Science e Machine Learning.
-2020,26,eventos_pessoais,,Comecei a frequentar a academia.
-2020,26,eventos_pessoais,,Terminei um relacionamento.
-2019,25,carreira,,Tornei-me desenvolvedor pleno .NET no Grupo SOITIC.
-2019,25,carreira,,"Recebi o prêmio de funcionário destaque do setor de desenvolvimento, por votação dos próprios funcionários."
-2019,25,carreira,,Conduzi vários coding dojos.
-2019,25,carreira,,Comecei a frequentar a academia.
-2019,25,eventos_pessoais,,Assisti ao final de Game of Thrones.
-2019,25,eventos_pessoais,,"Participei da minha primeira game jam, com o tema ""One Room"", e criei o jogo Zero To One."
-2019,25,eventos_pessoais,,Pratiquei yoga e meditei com a Cris.
-2019,25,eventos_pessoais,,Comecei a seguir um plano de reeducação alimentar.
-2019,25,eventos_pessoais,,Comecei a aprender mais sobre mim e a desenvolver meu autoconhecimento.
-2019,25,eventos_pessoais,,Comecei a fazer caminhadas com amigos do trabalho.
-2019,25,eventos_pessoais,,Fabrício deixou o Grupo SOITIC em fevereiro.
-2019,25,eventos_pessoais,,"Em agosto, comecei a morar com Diego."
-2019,25,eventos_pessoais,,Iniciei minha coleção de livros.
-2019,25,eventos_pessoais,,A saída de Camila e Diego ocorreu em agosto.
-2019,25,eventos_pessoais,,Ajudei o Felipão a entrar no Ateliê de Software.
-2019,25,eventos_pessoais,,Conheci Fábio Akita pessoalmente.
-2019,25,eventos_pessoais,,Participei de um evento do Google e de outro evento de desenvolvimento em São Paulo.
-2019,25,entretenimento,filme,Dead Poets Society
-2019,25,entretenimento,filme,Catch Me If You Can
-2019,25,entretenimento,filme,Awakenings
-2019,25,entretenimento,filme,The Odd Life of Timothy Green
-2019,25,entretenimento,filme,The Untouchables
-2019,25,entretenimento,filme,The Man Who Knew Infinity
-2019,25,entretenimento,filme,The Danish Girl
-2019,25,entretenimento,filme,Lolita
-2019,25,entretenimento,filme,Nothing to Hide
-2019,25,entretenimento,filme,The Babadook
-2019,25,entretenimento,filme,Little Evil
-2019,25,entretenimento,filme,The Lobster
-2019,25,entretenimento,filme,Madagascar 3: Europe's Most Wanted
-2019,25,entretenimento,filme,Penguins of Madagascar
-2019,25,entretenimento,filme,Captain Fantastic
-2019,25,entretenimento,filme,Wild Wild Country
-2019,25,entretenimento,filme,Manhunt: Unabomber
-2019,25,entretenimento,filme,Dark
-2019,25,entretenimento,livro,Sapiens
-2018,24,carreira,,"Completei meu segundo ano como desenvolvedor de software no Grupo SOITIC, trabalhando com ASP.NET Core, Vue.js e eSocial."
-2018,24,carreira,,Trabalhei como freelancer em um sistema de medicina do trabalho (PCMSO e ASO).
-2018,24,eventos_pessoais,,Completei o primeiro ano de um relacionamento sério.
-2018,24,eventos_pessoais,,Conheci São Tomé das Letras.
-2018,24,eventos_pessoais,,Visitei muitos lugares e fui a muitos shows.
-2017,23,carreira,,Trabalhei como desenvolvedor web freelancer com ASP.NET MVC.
-2017,23,carreira,,"Consegui meu primeiro emprego com carteira assinada como programador na Medsystem/Grupo SOITIC, onde fiz amigos que mantenho até hoje."
-2017,23,carreira,,Trabalhei remotamente como desenvolvedor de jogos com a Unity Engine na SOITIC Games.
-2017,23,estudos,,"Estudei ASP.NET Boilerplate, .NET, AngularJS, Unity, Vue.js, Ruby on Rails e .NET Core."
-2017,23,eventos_pessoais,,Participei de reuniões na empresa com duas equipes.
-2017,23,eventos_pessoais,,Dei uma palestra sobre a linguagem Ruby na Volve.
-2017,23,eventos_pessoais,,"Aprendi a me virar longe de casa em Poços de Caldas, onde morei com Leo."
-2017,23,entretenimento,musica,Pink Floyd
-2017,23,entretenimento,serie_ou_documentario,Narcos
-2017,23,entretenimento,serie_ou_documentario,"Ozark, The Punisher"
-2017,23,entretenimento,serie_ou_documentario,Rick and Morty
-2017,23,entretenimento,jogo,Metal Gear Solid V: The Phantom Pain
-2017,23,entretenimento,jogo,Resident Evil 7: Biohazard
-2017,23,entretenimento,jogo,The Witcher 3: Wild Hunt – Hearts of Stone
-2017,23,entretenimento,filme,The Warriors
-2017,23,entretenimento,filme,Logan
-2017,23,entretenimento,filme,Ghost in the Shell
-2017,23,entretenimento,filme,It (2017)
-2017,23,entretenimento,livro,Dracula
-2017,23,entretenimento,livro,Around the World in Eighty Days
-2017,23,entretenimento,livro,Robinson Crusoe
-2017,23,entretenimento,livro,Don Quixote
-2017,23,entretenimento,livro,Auto da Barca do Inferno
-2017,23,entretenimento,livro,V for Vendetta
-2017,23,entretenimento,livro,The Complete Maus
-2017,23,entretenimento,livro,The Universe in a Nutshell
-2017,23,entretenimento,livro,The Metamorphosis
-2017,23,entretenimento,livro,Test-Driven Development: Teste e Design no Mundo Real com .NET
-2017,23,entretenimento,livro,Steve Jobs
-2017,23,outros,,"Visitei o Palace Casino, o Teatro da Urca, o Recanto Japonês, o Museu de Poços, a Orquestra Sinfônica, a ópera e a Casa da Cultura. Usei o Tinder, conheci muitas pessoas, fiz academia pela primeira vez e saí com muitos amigos."
-2016,22,carreira,,Fiz estágio como desenvolvedor web com ASP.NET MVC.
-2016,22,carreira,,"Desenvolvi aplicativos com Xamarin, todos publicados no Google Play, para consultar dados do governo."
-2016,22,educacao,,"Desenvolvi um projeto de iniciação científica do PROBIC com API em Node.js, cliente em JavaScript e HTTP."
-2016,22,educacao,,Aprendi sobre complexidade de algoritmos e engenharia de software.
-2016,22,educacao,,"Meu projeto foi destaque, e apresentei a pesquisa em Belo Horizonte."
-2016,22,educacao,,Participei do projeto da startup HyperP.
-2016,22,educacao,,Concluí a faculdade.
-2016,22,estudos,,"Estudei Unity, inglês, Ruby on Rails, ASP.NET, Gulp, Bootstrap, JavaScript, Node.js, Code Climate, testes automatizados, Jenkins, Travis, issues e Ionic."
-2016,22,eventos_pessoais,,Criei meu portfólio.
-2016,22,eventos_pessoais,,Publiquei meu primeiro site.
-2016,22,entretenimento,serie_ou_documentario,Stranger Things
-2016,22,entretenimento,serie_ou_documentario,Westworld
-2016,22,entretenimento,serie_ou_documentario,Narcos
-2016,22,entretenimento,serie_ou_documentario,MasterChef
-2016,22,entretenimento,serie_ou_documentario,Mr. Robot
-2016,22,entretenimento,serie_ou_documentario,Sherlock
-2016,22,entretenimento,serie_ou_documentario,Black Mirror
-2016,22,entretenimento,serie_ou_documentario,Death Note
-2016,22,entretenimento,jogo,"Half-Life 2 (Lost Coast, Episode One, Episode Two)"
-2016,22,entretenimento,jogo,The Witcher 3: Wild Hunt
-2016,22,entretenimento,jogo,INSIDE
-2016,22,entretenimento,filme,Zootopia
-2016,22,entretenimento,filme,Inside Out
-2016,22,entretenimento,filme,O Quarto de Jack
-2016,22,entretenimento,filme,Star Wars: The Force Awakens
-2016,22,entretenimento,filme,Spotlight
-2016,22,entretenimento,livro,Moby-Dick
-2016,22,entretenimento,livro,Superman: Red Son
-2016,22,entretenimento,livro,Batman: The Killing Joke
-2016,22,entretenimento,livro,Batman: The Dark Knight Returns
-2016,22,entretenimento,livro,Watchmen
-2015,21,carreira,,Fiz estágio como desenvolvedor web com ASP.NET MVC.
-2015,21,carreira,,Desenvolvi aplicativos com Xamarin.
-2015,21,carreira,,Fiz meu primeiro commit profissional enquanto trabalhava como freelancer.
-2015,21,carreira,,Removi o ícone de aumentar e diminuir o tamanho do texto (28/07/2015).
-2015,21,educacao,,Desenvolvi um projeto de iniciação científica do PROBIC: um aplicativo em PhoneGap.
-2015,21,estudos,,"Estudei JavaScript, jQuery e HTML5."
-2015,21,eventos_pessoais,,"Comprei meu primeiro smartphone, um Moto G2."
-2015,21,entretenimento,serie_ou_documentario,The Twilight Zone
-2015,21,entretenimento,serie_ou_documentario,House of Cards
-2015,21,entretenimento,jogo,Metal Gear 2: Solid Snake
-2015,21,entretenimento,jogo,Dear Esther
-2015,21,entretenimento,jogo,Metal Gear Solid 4: Guns of the Patriots
-2015,21,entretenimento,jogo,Grand Theft Auto: San Andreas
-2015,21,entretenimento,jogo,Grim Fandango
-2015,21,entretenimento,jogo,Fallout 3
-2015,21,entretenimento,jogo,Grand Theft Auto V
-2015,21,entretenimento,jogo,Life is Strange
-2015,21,entretenimento,jogo,The Last of Us
-2015,21,entretenimento,jogo,Journey
-2015,21,entretenimento,filme,O Segredo dos Seus Olhos
-2015,21,entretenimento,filme,Divertida Mente
-2015,21,entretenimento,filme,Rush
-2015,21,entretenimento,filme,Garota Exemplar
-2015,21,entretenimento,filme,Whiplash
-2015,21,entretenimento,livro,1984
-2014,20,geral,,Completei meu primeiro ano como bolsista de iniciação científica.
-2014,20,geral,,"Criei meu primeiro site, sobre o Google Glass."
-2014,20,entretenimento,jogo,Portal 2
-2014,20,entretenimento,jogo,Minecraft
-2014,20,entretenimento,jogo,BioShock: Infinite
-2014,20,entretenimento,jogo,Half-Life
-2014,20,entretenimento,jogo,Half-Life: Opposing Force
-2014,20,entretenimento,jogo,Half-Life: Blue Shift
-2014,20,entretenimento,jogo,The Witcher: Enhanced Edition
-2014,20,entretenimento,jogo,The Witcher 2: Assassins of Kings Enhanced Edition
-2014,20,entretenimento,jogo,The Elder Scrolls V: Skyrim
-2014,20,entretenimento,jogo,The Walking Dead: Season Two (Telltale)
-2014,20,entretenimento,jogo,Metal Gear Solid
-2014,20,entretenimento,jogo,The Vanishing of Ethan Carter
-2014,20,entretenimento,jogo,To the Moon
-2014,20,entretenimento,jogo,Metal Gear Solid 2: Sons of Liberty
-2014,20,entretenimento,jogo,Metal Gear Solid 3: Snake Eater
-2014,20,entretenimento,jogo,Metal Gear
-2013,19,geral,,Iniciei o curso de Ciência da Computação.
-2013,19,geral,,Aprendi a amar a filosofia.
-2013,19,geral,,Assisti a filmes da lista do IMDb.
-2013,19,geral,,"Assisti ao documentário Cosmos, de Carl Sagan."
-2013,19,entretenimento,jogo,Warcraft III: Reign of Chaos
-2013,19,entretenimento,jogo,Hitman: Absolution
-2013,19,entretenimento,jogo,BioShock
-2013,19,entretenimento,jogo,Warcraft III: The Frozen Throne
-2013,19,entretenimento,jogo,Call of Juarez: Gunslinger
-2013,19,entretenimento,jogo,Dishonored
-2013,19,entretenimento,jogo,L.A. Noire
-2013,19,entretenimento,jogo,DOOM
-2013,19,entretenimento,jogo,Hotline: Miami
-2013,19,entretenimento,jogo,Mortal Kombat (2013)
-2013,19,entretenimento,jogo,The Walking Dead: 400 Days
-2013,19,entretenimento,jogo,Grand Theft Auto: Vice City
-2013,19,entretenimento,jogo,Grand Theft Auto: III
-2013,19,entretenimento,jogo,The Stanley Parable
-2013,19,entretenimento,jogo,Gears of War
-2013,19,entretenimento,jogo,Gone Home
-2013,19,entretenimento,jogo,Tomb Raider (2013)
-2012,18,geral,,Concluí o ensino médio e o curso técnico; foi um ano de transição e incerteza sobre os próximos passos.
-2012,18,geral,,Tentei fazer um curso de web design com Rick e Drão.
-2012,18,geral,,"Criei um blog chamado ""Aprendendo com Documentários"" (http://aprendendocomdocumentarios.blogspot.com/)."
-2012,18,geral,,Fiz um curso de computação na Microlins.
-2012,18,geral,,Estudei para vestibulares e assisti a documentários e filmes.
-2012,18,entretenimento,jogo,Braid
-2012,18,entretenimento,jogo,Amnesia: The Dark Descent
-2012,18,entretenimento,jogo,Max Payne 3
-2012,18,entretenimento,jogo,GTA IV
-2012,18,entretenimento,jogo,The Walking Dead: A Telltale Games Series
-2012,18,entretenimento,jogo,Far Cry 3
-2011,17,geral,,Frequentei o terceiro ano do ensino médio.
-2011,17,eventos_pessoais,,Meu projeto final na ETEC foi um quiz em Flash.
-2011,17,eventos_pessoais,,"Tive um novo computador (processador AMD Phenom II X6 de 3,2 GHz, 8 GB de RAM, HD de 1 TB e placa de vídeo GTX 470 de 1 GB)."
-2011,17,eventos_pessoais,,Concluí o curso técnico de informática na ETEC.
-2011,17,entretenimento,jogo,Mafia 2
-2011,17,entretenimento,jogo,Call of Duty 4: Modern Warfare
-2011,17,entretenimento,jogo,Call of Duty 5: World at War
-2011,17,entretenimento,jogo,Call of Duty Modern Warfare 2
-2011,17,entretenimento,jogo,Call of Duty Black Ops
-2011,17,entretenimento,jogo,Call of Duty Modern Warfare
-2011,17,entretenimento,jogo,Batman: Arkham City
-2011,17,entretenimento,jogo,Battlefield: Bad Company
-2011,17,entretenimento,jogo,Street Fighter IV
-2011,17,entretenimento,jogo,Super Street Fighter IV: Arcade Edition
-2011,17,entretenimento,jogo,Street Fighter vs Tekken
-2010,16,geral,,"Frequentei o segundo ano do ensino médio e o curso técnico de informática na ETEC, além de criar meus primeiros blogs."
-2010,16,eventos_pessoais,,Aprendi lógica de programação com Visualg.
-2010,16,eventos_pessoais,,"Criei um blog chamado ""Blog do Aluno Programador""."
-2010,16,entretenimento,jogo,Age of Mythology
-2010,16,entretenimento,jogo,Mafia
-2010,16,entretenimento,jogo,Land of The Dead Road To Fiddler's Green
-2010,16,entretenimento,jogo,Call of Duty 1
-2010,16,entretenimento,jogo,Call of Duty 2
-2010,16,entretenimento,jogo,Portal
-2010,16,entretenimento,jogo,Plants vs. Zombies
-2010,16,entretenimento,jogo,F.E.A.R
-2009,15,geral,,Frequentei o primeiro ano do ensino médio e tive aulas de educação artística.
-2009,15,geral,,Ganhei meu PlayStation 2.
-2009,15,geral,,"Criei ""Saga do Viagra e Senhor dos Chapéus"" no RPG Maker Ace."
-2009,15,geral,,A primeira engine que usei foi a Engine 001.
-2009,15,geral,,Comecei a visitar e a fazer amizade com o pessoal da TR Informática.
-2009,15,entretenimento,jogo,Resident Evil 4
-2009,15,entretenimento,jogo,Tekken 5
-2009,15,entretenimento,jogo,Hitman Blood Money
-2008,14,geral,,Frequentei a oitava série e jogava truco com meus amigos na Escola Euclides da Cunha.
-2008,14,geral,,"Tive meu primeiro computador (processador AMD de 900 MHz, 512 MB de RAM, HD de 20 GB e placa de vídeo GeForce 6200 de 512 MB)."
-2008,14,geral,,"Usava o computador sem internet, apenas para jogar títulos como Hitman, Age of Mythology, Warcraft III e Manhunt."
-2008,14,geral,,Usei ferramentas como a Engine 001 e o RPG Maker VX para criar jogos pela primeira vez.
-2007,13,geral,,Frequentei a sétima série e jogava xadrez.
-2006,12,geral,,Frequentei a sexta série.
-2006,12,geral,,Lembro-me de escrever histórias inspiradas em Resident Evil e na série Lost.
-2006,12,geral,,"Uma delas se chamava Platoon e tratava de viagem no tempo; a outra, Minhocas Assassinas, era focada em terror."
-2005,11,geral,,"Frequentei a quinta série e desenhava HQs de um super-herói que criei, chamado Super Máximo."
-2005,11,geral,,"Gostava de construir casas de tijolos, minicidades e casas grandes para meus gatos."
-2005,11,geral,,Conheci o Drão.
-2005,11,geral,,"Ganhei o PlayStation 1, meu console favorito e mais marcante. Entre os jogos estavam Resident Evil 3: Nemesis, Silent Hill, Metal Gear Solid, Final Fantasy 7, Tekken 3, Pepsiman, Harry Potter, Yu-Gi-Oh! Forbidden Memories e Tenchu: Stealth Assassins."
-2004,10,geral,,"Frequentei a quarta série; escrevia histórias, descobri a cola quente e me interessava por Lego e asa-delta."
-2004,10,geral,,Encontrei a Soneca em uma caixa de papelão.
-2003,9,geral,,Frequentei a terceira série.
-2003,9,geral,,"Ganhei meu primeiro console, o Genesis 3, conhecido como Mega Drive. Alguns dos jogos eram Taz-Mania, Shadow Dancer: The Secret of Shinobi, Top Gear e Double Dragon."
-2003,9,geral,,"Criava computadores de papelão para imitar o computador da minha tia, um IBM PC."
-2003,9,geral,,Criei um jogo de cartas com desenhos.
-2002,8,geral,,Frequentei a segunda série e ganhei um kit de química.
-2001,7,geral,,Frequentei a primeira série e ganhei um brinquedo do corpo humano.
-2000,6,geral,,Frequentei o ensino primário.
-1994,0,geral,,"Nasci em 26 de fevereiro. Meu nome, André Nicolau, vem de Andreas Nikolaus ""Niki"" Lauda."
+﻿ano,data,idade,categoria,subcategoria,descricao,tipo_data,fonte,fonte_data,verificado_em
+2026,2026-08-18,32,perfil,identidade_e_interesses,"Sou engenheiro de software sênior e cientista da computação, interessado em unir as humanidades às ciências exatas e a arte à tecnologia.",estado_atual,https://andredarcie.github.io/,https://andredarcie.github.io/,2026-08-18
+2026,2026-08-18,32,carreira,atuacao_atual,"Atuo como engenheiro sênior na NTT DATA, alocado na XP Investimentos, na área de benefícios de cartões.",estado_atual,https://andredarcie.github.io/,https://andredarcie.github.io/,2026-08-18
+2026,2026-08-18,32,carreira,especialidades,"Trabalho com produtos financeiros de alto impacto, baseados em microsserviços e APIs distribuídas, com foco em escalabilidade, observabilidade, resiliência e qualidade de software.",estado_atual,https://andredarcie.github.io/,https://andredarcie.github.io/,2026-08-18
+2026,2026-08-18,32,educacao,formacao_academica,Sou bacharel em Ciência da Computação e pós-graduado em Ciência de Dados Aplicada pela PUC Minas.,estado_atual,https://andredarcie.github.io/,https://andredarcie.github.io/,2026-08-18
+2026,2026-08-18,32,carreira,ensino_e_consultoria,"Também ensino e presto consultoria em C# e .NET; mantenho um perfil público no Superprof oferecendo aulas de programação com foco em .NET, SQL, APIs, Clean Code, SOLID e padrões de projeto.",estado_atual_enriquecido,https://andredarcie.github.io/,https://www.superprof.pt/desenvolvedor-senior-com-anos-experiencia-net-sql-apis-atuo-com-clean-code-solid-design-patterns.html,2026-08-18
+2026,2026-08-18,32,perfil,estilo_de_vida,"Vivo de forma fixa em Salvador, Bahia, perto da praia; encerrei meu período como nômade digital.",estado_atual,registro_pessoal,registro_pessoal,2026-08-18
+2026,2026-08-18,32,perfil,producao_independente,"Até agosto, vivi minha fase mais intensa de produção independente: 35 projetos, protótipos e jogos foram criados ou incorporados ao meu portfólio em 2026.",marco_quantitativo_derivado,https://andredarcie.github.io/,https://andredarcie.github.io/,2026-08-18
+2026,2026-07-25,32,projeto,dados,"Best Dev Books — Ranking dos livros mais recomendados por desenvolvedores, consolidado a partir de 100 fontes em sete idiomas.",primeira_inclusao_no_portfolio,https://andredarcie.github.io/best-dev-books/,https://github.com/andredarcie/andredarcie.github.io/commit/2d4bead,2026-08-18
+2026,2026-07-24,32,projeto,site,Quilombo do Careca — Site sobre a história do território negro livre que existiu antes da cidade de Divinolândia.,primeira_inclusao_no_portfolio,https://andredarcie.github.io/historia-divinolandia/,https://github.com/andredarcie/andredarcie.github.io/commit/ec91d79,2026-08-18
+2026,2026-07-21,32,jogo_criado,simulacao,House Walkthrough — Simulador de caminhada em primeira pessoa por uma casa reproduzida fielmente a partir de sua planta.,primeira_inclusao_no_portfolio,https://andredarcie.github.io/house/,https://github.com/andredarcie/andredarcie.github.io/commit/e40378f,2026-08-18
+2026,2026-07-18,32,jogo_criado,aventura,"ASCII Dungeon — Roguelike de turnos em ASCII, renderizado em 2,5D, com cinco andares e um chefe final.",primeira_inclusao_no_portfolio,https://andredarcie.github.io/asc-rpg/,https://github.com/andredarcie/andredarcie.github.io/commit/5e4b6f0,2026-08-18
+2026,2026-07-15,32,jogo_criado,estrategia,"Tiny Catan — Versão compacta do jogo de tabuleiro sobre colonização e comércio, executada no navegador.",primeira_inclusao_no_portfolio,https://andredarcie.github.io/tiny-catan/,https://github.com/andredarcie/andredarcie.github.io/commit/fba466d,2026-08-18
+2026,2026-07-14,32,prototipo,ferramenta,"UGC Studio — Aplicativo de produção para criadores de conteúdo, reunindo marcas, trabalhos, entregas e roteiros.",primeira_inclusao_no_portfolio,https://andredarcie.github.io/ugc/,https://github.com/andredarcie/andredarcie.github.io/commit/dbd47d3,2026-08-18
+2026,2026-07-11,32,projeto,site,Salvador Histórico — Mapa de caminhada por Salvador que conta o que existia em cada ponto turístico ao longo de quatro séculos.,primeira_inclusao_no_portfolio,https://andredarcie.github.io/salvador-historico/,https://github.com/andredarcie/andredarcie.github.io/commit/07a1933,2026-08-18
+2026,2026-07-04,32,jogo_criado,aventura,"Endless Zelda — Jogo procedural e infinito inspirado em Zelda, reinterpretado com a estética do NES.",primeira_inclusao_no_portfolio,https://andredarcie.github.io/endless-zelda/,https://github.com/andredarcie/andredarcie.github.io/commit/dcf7f7d,2026-08-18
+2026,2026-07-04,32,prototipo,rpg,Tiny Skyrim — Pequeno RPG de mundo aberto executado no navegador.,primeira_inclusao_no_portfolio,https://andredarcie.github.io/tiny-skyrim/,https://github.com/andredarcie/andredarcie.github.io/commit/14ab667,2026-08-18
+2026,2026-06-22,32,projeto,benchmark,".NET AI Agent Benchmark — Benchmark de agentes de IA na stack profissional: back-end .NET, APIs web, mensageria, DDD e padrões de projeto.",criacao_repositorio_github,https://andredarcie.github.io/backend-dotnet-ai-agent-benchmark/,https://api.github.com/repos/andredarcie/backend-dotnet-ai-agent-benchmark,2026-08-18
+2026,2026-06-20,32,jogo_criado,tiro,DOOM Hills — Jogo de tiro em primeira pessoa com estética de PlayStation e uma horda infinita de inimigos.,primeira_inclusao_no_portfolio,https://andredarcie.github.io/hills/,https://github.com/andredarcie/andredarcie.github.io/commit/536d4ff,2026-08-18
+2026,2026-06-18,32,jogo_criado,simulacao,Tiny Creatures — Criaturas controladas por algoritmo genético que se adaptam ao longo das gerações.,primeira_inclusao_no_portfolio,https://andredarcie.github.io/tiny-creatures/,https://github.com/andredarcie/andredarcie.github.io/commit/2c7ec86,2026-08-18
+2026,2026-06-13,32,jogo_criado,acao,"Tiny Theft Auto — Jogo 3D de mundo aberto, online e em tempo real, executado no navegador.",criacao_repositorio_github,https://andredarcie.github.io/tiny-gta/,https://api.github.com/repos/andredarcie/tiny-gta,2026-08-18
+2026,2026-05-21,32,projeto,site,Divinolândia Transparente — Site de transparência dos gastos públicos de Divinolândia.,criacao_repositorio_github,https://andredarcie.github.io/divinolandia-transparente/,https://api.github.com/repos/andredarcie/divinolandia-transparente,2026-08-18
+2026,2026-05-17,32,prototipo,benchmark,Rinha Backend 2026 — API de detecção de fraudes criada para o desafio Rinha de Backend 2026.,criacao_repositorio_github,https://andredarcie.github.io/rinha-dev-backend-2026/,https://api.github.com/repos/andredarcie/rinha-dev-backend-2026,2026-08-18
+2026,2026-05-07,32,projeto,curso,"Curso Dev do André — Curso de engenharia de software em slides, abordando orientação a objetos, SOLID, arquitetura e sistemas distribuídos.",primeira_inclusao_no_portfolio,https://andredarcie.github.io/curso/,https://github.com/andredarcie/andredarcie.github.io/commit/22e454c,2026-08-18
+2026,2026-04-21,32,projeto,site,My Skills — Conjunto de skills para agentes de IA que aplicam boas práticas de engenharia de software.,criacao_repositorio_github,https://andredarcie.github.io/my-skills/,https://api.github.com/repos/andredarcie/my-skills,2026-08-18
+2026,2026-04-11,32,prototipo,quebra_cabeca,"Diego's Move — Pequeno quebra-cabeça sobre mudança, no qual é preciso empacotar uma casa inteira em quatro turnos.",primeira_inclusao_no_portfolio,https://andredarcie.github.io/diego/,https://github.com/andredarcie/andredarcie.github.io/commit/96ad465,2026-08-18
+2026,2026-04-08,32,jogo_criado,tiro,"Zero Void — Jogo de nave no estilo bullet hell, em homenagem aos clássicos dos fliperamas.",primeira_inclusao_no_portfolio,https://andredarcie.github.io/zero-void/,https://github.com/andredarcie/andredarcie.github.io/commit/e32951f,2026-08-18
+2026,2026-03-27,32,prototipo,ferramenta,ArchCard — Experimento baseado em cartas sobre arquitetura de software.,primeira_inclusao_no_portfolio,https://andredarcie.github.io/arch-card/,https://github.com/andredarcie/andredarcie.github.io/commit/6966f46,2026-08-18
+2026,2026-03-27,32,prototipo,simulacao,AI Platformer Trainer — Simulação que mostra o NEAT evoluindo uma rede neural para concluir um pequeno jogo de plataforma.,primeira_inclusao_no_portfolio,https://andredarcie.github.io/ai-platformer-trainer/,https://github.com/andredarcie/andredarcie.github.io/commit/3c1a99d,2026-08-18
+2026,2026-03-27,32,prototipo,estrategia,Polygon-7 Defense — Pequeno jogo minimalista de defesa de torres.,primeira_inclusao_no_portfolio,https://andredarcie.github.io/tower/,https://github.com/andredarcie/andredarcie.github.io/commit/1c8284c,2026-08-18
+2026,2026-03-27,32,prototipo,brinquedo_digital,Andre OS — Pequeno sistema operacional fictício executado no navegador.,primeira_inclusao_no_portfolio,https://andredarcie.github.io/andre-os/,https://github.com/andredarcie/andredarcie.github.io/commit/1c8284c,2026-08-18
+2026,2026-03-26,32,prototipo,acao,Frostfall — Experimento de jogo para navegador.,criacao_repositorio_github,https://andredarcie.github.io/frostfall/,https://api.github.com/repos/andredarcie/frostfall,2026-08-18
+2026,2026-03-25,32,prototipo,ferramenta,Super Tiny Computer — Máquina virtual retrô com editor de código integrado.,primeira_inclusao_no_portfolio,https://andredarcie.github.io/tiny-computer/,https://github.com/andredarcie/andredarcie.github.io/commit/3f29a63,2026-08-18
+2026,2026-03-24,32,prototipo,ferramenta,Tiny Voxel — Editor minimalista de voxels para pequenas cenas 3D.,primeira_inclusao_no_portfolio,https://andredarcie.github.io/tiny-voxel/,https://github.com/andredarcie/andredarcie.github.io/commit/8a3d03f,2026-08-18
+2026,2026-03-20,32,prototipo,simulacao,"Evo Sim — Simulação de seleção natural em tempo real, na qual criaturas evoluem, sofrem mutações e competem.",criacao_repositorio_github,https://andredarcie.github.io/evo-sim/,https://api.github.com/repos/andredarcie/evo-sim,2026-08-18
+2026,2026-03-18,32,jogo_criado,simulacao,"Tiny Evolution — Simulação da vida na Terra, desde seu surgimento até os dias atuais.",criacao_repositorio_github,https://andredarcie.github.io/tiny-evolution/,https://api.github.com/repos/andredarcie/tiny-evolution,2026-08-18
+2026,2026-03-04,32,projeto,site,Blog — Meu blog pessoal.,criacao_repositorio_github,https://andredarcie.github.io/blog/,https://api.github.com/repos/andredarcie/blog,2026-08-18
+2026,2026-02-09,31,prototipo,ferramenta,Divisor de Plantões — Ferramenta para dividir escalas de plantão.,criacao_repositorio_github,https://andredarcie.github.io/on-call-rota/,https://api.github.com/repos/andredarcie/on-call-rota,2026-08-18
+2026,2026-02-09,31,prototipo,ia,Agora no Mundo · Opus — Experimento de aplicativo gerado com Claude Opus 4.6.,criacao_repositorio_github,https://andredarcie.github.io/claude-opus-46/,https://api.github.com/repos/andredarcie/claude-opus-46,2026-08-18
+2026,2026-02-09,31,prototipo,ia,Agora no Mundo · Codex — Versão do mesmo experimento de aplicativo gerada com GPT Codex.,criacao_repositorio_github,https://andredarcie.github.io/gpt-codex-53/,https://api.github.com/repos/andredarcie/gpt-codex-53,2026-08-18
+2026,2026-02-09,31,jogo_criado,aventura,"Only This — Aventura criada para a primeira Tiny RPG Jam; ficou em terceiro lugar no critério de uso criativo do tema.",envio_game_jam,https://andredarcie.itch.io/only-this,https://itch.io/jam/tiny-rpg-jam/results,2026-08-18
+2026,2026-02-06,31,projeto,ferramenta,"ArchPull — Aplicativo para aprender arquitetura de software, padrões de projeto e boas práticas.",criacao_repositorio_github,https://andredarcie.github.io/arch-pull/,https://api.github.com/repos/andredarcie/arch-pull,2026-08-18
+2026,2026-02-02,31,eventos_pessoais,organizacao_game_jam,"Comecei a coorganizar a primeira Tiny RPG Jam, dedicada a jogos produzidos com a Tiny RPG Studio; a edição recebeu 17 inscrições e 88 avaliações.",inicio_game_jam,https://itch.io/jam/tiny-rpg-jam,https://itch.io/jam/tiny-rpg-jam/results,2026-08-18
+2026,2026-01-31,31,jogo_criado,aventura,"Null — Experiência curta, direta e minimalista sobre alguém perdido em uma caverna escura, criada com a Tiny RPG Studio.",primeira_evidencia_publica,https://andredarcie.itch.io/null,https://itch.io/post/15383823,2026-08-18
+2026,,32,educacao,aniversario_de_formacao,"Em 2026, completei dez anos desde que me formei em Ciência da Computação.",marco_temporal_derivado,registro_pessoal,registro_pessoal,2026-08-18
+2026,,32,publicacoes,artigos,O portfólio reúne dez textos publicados em 2026.,resumo_publicacoes,https://andredarcie.github.io/,https://andredarcie.github.io/,2026-08-18
+2025,2025-08-18,31,projeto,engine,Tiny RPG Studio — Engine de jogos para web com uma grande comunidade de usuários e mais de 60 jogos criados e compartilhados.,criacao_repositorio_github,https://andredarcie.github.io/tiny-rpg-studio/,https://api.github.com/repos/andredarcie/tiny-rpg-studio,2026-08-18
+2025,2025-05-31,31,projeto,guia,"My Code Codex — Guia pessoal de desenvolvimento .NET sobre padrões, arquitetura e boas práticas.",criacao_repositorio_github,https://andredarcie.github.io/my-code-codex/,https://api.github.com/repos/andredarcie/my-code-codex,2026-08-18
+2025,2025-05-04,31,prototipo,dados,Metacritic Must-Play — Arquivo dos jogos classificados como obrigatórios pelo Metacritic.,criacao_repositorio_github,https://andredarcie.github.io/metacritic-must-play-dataset/,https://api.github.com/repos/andredarcie/metacritic-must-play-dataset,2026-08-18
+2025,,31,carreira,,"Comecei a trabalhar em uma grande multinacional japonesa chamada NTT DATA, alocado na XP Investimentos.",evento_registrado,registro_pessoal,registro_pessoal,
+2025,,31,carreira,,"Em termos profissionais, foi o ano de maior evolução da minha carreira, com projetos gigantes e uma equipe imensa.",evento_registrado,registro_pessoal,registro_pessoal,
+2025,,31,carreira,,Aprofundei meus estudos em microsserviços e Apache Kafka.,evento_registrado,registro_pessoal,registro_pessoal,
+2025,,31,carreira,,"Copilot, GPT e LLMs se tornaram ferramentas fundamentais para mim como desenvolvedor.",evento_registrado,registro_pessoal,registro_pessoal,
+2025,,31,hobbies_e_interesses,leitura,"Retomei a leitura com força: li 14 livros e ultrapassei 50 obras com ano de leitura registrado.",marco_quantitativo_derivado,https://github.com/andredarcie/my-life-data,https://github.com/andredarcie/my-life-data/blob/master/data/books/books_read.csv,2026-08-18
+2025,,31,eventos_pessoais,,"Pedi minha namorada em casamento no Palace Hotel e, em seguida, jantamos no Olivia.",evento_registrado,registro_pessoal,registro_pessoal,
+2025,,31,eventos_pessoais,,"Morei por um ano de frente para a praia, em Salvador.",evento_registrado,registro_pessoal,registro_pessoal,
+2025,,31,eventos_pessoais,,Recebi a visita de Diego Penha (Diguifi).,evento_registrado,registro_pessoal,registro_pessoal,
+2025,,31,eventos_pessoais,,Passei mais um ano com minha turma de amigos de Divinolândia.,evento_registrado,registro_pessoal,registro_pessoal,
+2025,,31,publicacoes,artigos,O portfólio reúne seis textos publicados em 2025.,resumo_publicacoes,https://andredarcie.github.io/,https://andredarcie.github.io/,2026-08-18
+2024,2024-09-15,30,eventos_pessoais,moradia_temporaria,"Morei temporariamente em São Luís, Maranhão, durante minha jornada como nômade digital.",inicio_aproximado_por_fotos,https://andredarcie.github.io/journey/,https://andredarcie.github.io/journey/data/photos.json,2026-08-18
+2024,2024-09-08,30,eventos_pessoais,moradia_temporaria,"Morei temporariamente em Teresina, Piauí, durante minha jornada como nômade digital.",inicio_aproximado_por_fotos,https://andredarcie.github.io/journey/,https://andredarcie.github.io/journey/data/photos.json,2026-08-18
+2024,2024-09-02,30,eventos_pessoais,moradia_temporaria,"Morei temporariamente em Fortaleza, Ceará, durante minha jornada como nômade digital.",inicio_aproximado_por_fotos,https://andredarcie.github.io/journey/,https://andredarcie.github.io/journey/data/photos.json,2026-08-18
+2024,2024-08-25,30,eventos_pessoais,moradia_temporaria,"Morei temporariamente em Natal, Rio Grande do Norte, durante minha jornada como nômade digital.",inicio_aproximado_por_fotos,https://andredarcie.github.io/journey/,https://andredarcie.github.io/journey/data/photos.json,2026-08-18
+2024,2024-08-19,30,eventos_pessoais,moradia_temporaria,"Morei temporariamente em João Pessoa, Paraíba, durante minha jornada como nômade digital.",inicio_aproximado_por_fotos,https://andredarcie.github.io/journey/,https://andredarcie.github.io/journey/data/photos.json,2026-08-18
+2024,2024-07-21,30,eventos_pessoais,moradia_temporaria,"Morei temporariamente em Recife, Pernambuco, durante minha jornada como nômade digital.",inicio_aproximado_por_fotos,https://andredarcie.github.io/journey/,https://andredarcie.github.io/journey/data/photos.json,2026-08-18
+2024,2024-07-19,30,eventos_pessoais,moradia_temporaria,"Morei temporariamente em Maceió, Alagoas, durante minha jornada como nômade digital.",inicio_aproximado_por_fotos,https://andredarcie.github.io/journey/,https://andredarcie.github.io/journey/data/photos.json,2026-08-18
+2024,2024-07-14,30,eventos_pessoais,moradia_temporaria,"Morei temporariamente em Aracaju, Sergipe, durante minha jornada como nômade digital.",inicio_aproximado_por_fotos,https://andredarcie.github.io/journey/,https://andredarcie.github.io/journey/data/photos.json,2026-08-18
+2024,2024-07-01,30,eventos_pessoais,moradia_temporaria,"Morei temporariamente em Salvador, Bahia, durante minha jornada como nômade digital.",inicio_aproximado_por_fotos,https://andredarcie.github.io/journey/,https://andredarcie.github.io/journey/data/photos.json,2026-08-18
+2024,2024-05-31,30,jogo_criado,terror,Brian's Mansion — Aventura de terror ambientada em uma mansão assombrada.,primeira_inclusao_no_portfolio,https://andredarcie.github.io/brians-mansion.html,https://github.com/andredarcie/andredarcie.github.io/commit/f882409,2026-08-18
+2024,2024-05-31,30,prototipo,terror,Insomnia — Jogo de terror psicológico no qual uma família precisa sobreviver a uma noite sem dormir.,primeira_inclusao_no_portfolio,https://andredarcie.github.io/insomnia.html,https://github.com/andredarcie/andredarcie.github.io/commit/67c405e,2026-08-18
+2024,2024-05-07,30,perfil,trajetoria_publica,Completei dez anos publicando projetos no GitHub.,marco_temporal_derivado,https://github.com/andredarcie,https://api.github.com/repos/andredarcie/simple-client-server-android-app,2026-08-18
+2024,,30,carreira,,"Aprofundei meus conhecimentos em AWS, incluindo SNS, SQS e CI/CD.",evento_registrado,registro_pessoal,registro_pessoal,
+2024,,30,carreira,,Aprofundei meus conhecimentos em Docker e Docker Compose.,evento_registrado,registro_pessoal,registro_pessoal,
+2024,,30,carreira,,Aprendi a usar o ChatGPT no trabalho.,evento_registrado,registro_pessoal,registro_pessoal,
+2024,,30,hobbies_e_interesses,,Participei de um clube do livro sobre Design Patterns.,evento_registrado,registro_pessoal,registro_pessoal,
+2024,,30,hobbies_e_interesses,,Comecei a escrever mais no DEV.to.,evento_registrado,registro_pessoal,registro_pessoal,
+2024,,30,hobbies_e_interesses,,"Comecei a escrever poemas, como ""Janta"".",evento_registrado,registro_pessoal,registro_pessoal,
+2024,,30,eventos_pessoais,,"Fui nômade digital durante um ano inteiro, viajando por todo o Brasil, principalmente pelo Nordeste; conheci os nove estados da região.",evento_registrado,registro_pessoal,registro_pessoal,
+2024,,30,eventos_pessoais,,"Apaixonei-me por Salvador, na Bahia.",evento_registrado,registro_pessoal,registro_pessoal,
+2024,,30,eventos_pessoais,,Iniciei um novo relacionamento.,evento_registrado,registro_pessoal,registro_pessoal,
+2024,,30,aprendizados,,"A vida pode ser incrível e não seguir um roteiro comum, se você estiver disposto e de mente aberta.",evento_registrado,registro_pessoal,registro_pessoal,
+2024,,30,publicacoes,artigos,O portfólio reúne 11 textos publicados em 2024.,resumo_publicacoes,https://andredarcie.github.io/,https://andredarcie.github.io/,2026-08-18
+2023,2023-07-19,29,projeto,plataforma,"OpenVideoGameData — Plataforma aberta criada com Diego Penha para organizar, enriquecer e descobrir dados de videogames, com cerca de 500 mil visualizações nas redes sociais.",publicacao_do_projeto,https://www.openvideogamedata.com/,https://dev.to/andredarcie/introducing-open-video-game-data-a-new-approach-to-evaluating-games-1ak5,2026-08-18
+2023,2023-03-28,29,publicacoes,artigo_tecnico,"Publiquei meu primeiro texto identificado no TabNews, “Blazor United: o futuro do .NET”.",primeira_publicacao,https://www.tabnews.com.br/andredarcie/blazor-united-o-futuro-do-net-pt-br,https://www.tabnews.com.br/api/v1/contents/andredarcie?per_page=100&strategy=new,2026-08-18
+2023,2023-02-20,28,publicacoes,artigo_tecnico,"Publiquei meu primeiro artigo no DEV Community, “O ciclo de vida do PlayStation VR”.",primeira_publicacao,https://dev.to/andredarcie/o-ciclo-de-vida-do-playstation-vr-2375,https://dev.to/api/articles?username=andredarcie&per_page=1000,2026-08-18
+2023,,29,geral,,Organizei o clube do livro sobre Design Patterns.,evento_registrado,registro_pessoal,registro_pessoal,
+2023,,29,geral,,Comecei a estudar e a investir em Blazor e .NET.,evento_registrado,registro_pessoal,registro_pessoal,
+2023,,29,geral,,Conheci um novo grupo de amigos que levarei para a vida toda.,evento_registrado,registro_pessoal,registro_pessoal,
+2023,,29,eventos_pessoais,,"Terminei meu segundo relacionamento, um ano antes de me tornar nômade digital.",evento_registrado,registro_pessoal,registro_pessoal,
+2023,,29,publicacoes,artigos,O portfólio reúne 17 textos publicados em 2023.,resumo_publicacoes,https://andredarcie.github.io/,https://andredarcie.github.io/,2026-08-18
+2022,,28,carreira,,Organizei o clube do livro sobre Clean Code.,evento_registrado,registro_pessoal,registro_pessoal,
+2022,,28,carreira,,"Fui à festa da Exato, onde conheci a empresa e as pessoas.",evento_registrado,registro_pessoal,registro_pessoal,
+2022,,28,carreira,,Iniciei minha consultoria em .NET.,evento_registrado,registro_pessoal,registro_pessoal,
+2022,,28,carreira,,Iniciei o projeto freelance Tiny Gamification.,evento_registrado,registro_pessoal,registro_pessoal,
+2022,,28,carreira,,Completei meu segundo ano na Exato Digital.,evento_registrado,registro_pessoal,registro_pessoal,
+2022,,28,hobbies_e_interesses,,"Comprei um Meta Quest 2, marcando meu início no hobby de realidade virtual.",evento_registrado,registro_pessoal,registro_pessoal,
+2022,,28,hobbies_e_interesses,,Meu canal no TikTok sobre realidade virtual viralizou.,evento_registrado,registro_pessoal,registro_pessoal,
+2022,,28,hobbies_e_interesses,,Comprei um Nintendo Switch Lite.,evento_registrado,registro_pessoal,registro_pessoal,
+2022,,28,hobbies_e_interesses,,"Fiz turismo em São Paulo e visitei o MASP, entre outros lugares.",evento_registrado,registro_pessoal,registro_pessoal,
+2022,,28,hobbies_e_interesses,comunidade,"Fundei o clube do livro ""Clube de Leitura nas Montanhas"".",primeiro_registro_na_timeline,https://andredarcie.github.io/,registro_pessoal_e_portfolio,2026-08-18
+2021,2021-03-31,27,jogo_criado,aventura,"Zero The Hero — Jogo inspirado em Zelda, feito na Godot Engine, no qual só é possível carregar um item por vez.",criacao_repositorio_github,https://andredarcie.github.io/zero-the-hero/,https://api.github.com/repos/andredarcie/zero-the-hero,2026-08-18
+2021,2021-01-22,26,prototipo,tiro,"Godot Prototypes — Coleção de protótipos rápidos feitos na Godot Engine, incluindo um jogo inspirado em Doom.",criacao_repositorio_github,https://andredarcie.github.io/godot-prototypes/,https://api.github.com/repos/andredarcie/godot-prototypes,2026-08-18
+2021,2021-01-08,26,prototipo,curso,Discovering Godot — Curso introdutório sobre os fundamentos da Godot Engine.,criacao_repositorio_github,https://andredarcie.github.io/discovering-godot-course/,https://api.github.com/repos/andredarcie/discovering-godot-course,2026-08-18
+2021,,27,carreira,,Saí da SOITIC após quatro anos e quatro meses.,evento_registrado,registro_pessoal,registro_pessoal,
+2021,,27,carreira,ensino,Tornei-me professor freelancer de .NET.,evento_enriquecido,https://dev.to/andredarcie/minha-jornada-de-uma-decada-pelo-net-4kme,https://dev.to/andredarcie/minha-jornada-de-uma-decada-pelo-net-4kme,2026-08-18
+2021,,27,carreira,,"Entrei na Exato Digital, uma startup de dados.",evento_registrado,registro_pessoal,registro_pessoal,
+2021,,27,carreira,,Caminhei rumo à conclusão da pós-graduação.,evento_registrado,registro_pessoal,registro_pessoal,
+2021,,27,hobbies_e_interesses,,"Completei um ano desenvolvendo Zero the Hero, meu jogo na Godot Engine.",evento_registrado,registro_pessoal,registro_pessoal,
+2021,,27,hobbies_e_interesses,,Comprei um PlayStation 5 e uma TV 4K.,evento_registrado,registro_pessoal,registro_pessoal,
+2021,,27,eventos_pessoais,,Mudei para um apartamento grande e bonito.,evento_registrado,registro_pessoal,registro_pessoal,
+2021,,27,eventos_pessoais,,"Durante meu último ano na SOITIC, enquanto atuava como coordenador, iniciei meu segundo relacionamento.",evento_registrado,registro_pessoal,registro_pessoal,
+2021,,27,carreira,experiencia_profissional,"Na Exato Digital, trabalhei remotamente em soluções de KYC e verificação de antecedentes para clientes como Grupo Globo, GetNinjas, QuintoAndar, B3, Stone e Huawei.",evento_enriquecido,https://andredarcie.github.io/,registro_pessoal_e_portfolio,2026-08-18
+2020,2020-09-14,26,perfil,catalogacao_cultural,"Passei a organizar sistematicamente meu histórico cultural no My Life Data e alcancei 300 filmes registrados.",marco_quantitativo_derivado,https://andredarcie.github.io/my-life-data/,https://github.com/andredarcie/my-life-data/blob/master/data/movies/movies_watched_letterboxd.csv,2026-08-18
+2020,2020-09-02,26,projeto,material_estudo,My Data Science Notebooks — Coleção de notebooks para aprender ciência de dados.,criacao_repositorio_github,https://github.com/andredarcie/my-data-science-notebooks,https://api.github.com/repos/andredarcie/my-data-science-notebooks,2026-08-18
+2020,2020-08-30,26,projeto,dados,"My Life Data — Arquivo pessoal dos livros, filmes e jogos que consumi.",criacao_repositorio_github,https://andredarcie.github.io/my-life-data/,https://api.github.com/repos/andredarcie/my-life-data,2026-08-18
+2020,2020-08-18,26,prototipo,experimento,Rick — Pequeno experimento para web.,criacao_repositorio_github,https://andredarcie.github.io/Rick/,https://api.github.com/repos/andredarcie/Rick,2026-08-18
+2020,2020-07-28,26,prototipo,aventura,"The Legend of Link — Aventura inspirada em Zelda, desenvolvida na Godot Engine.",criacao_repositorio_github,https://andredarcie.github.io/the-legend-of-link/,https://api.github.com/repos/andredarcie/the-legend-of-link,2026-08-18
+2020,2020-07-21,26,projeto,guia,Python in One Page — Guia compacto de Python reunido em um único notebook Jupyter.,criacao_repositorio_github,https://github.com/andredarcie/python-in-one-page,https://api.github.com/repos/andredarcie/python-in-one-page,2026-08-18
+2020,2020-06-25,26,prototipo,tiro,Zero the Cat — Jogo de tiro 2D em arena e ritmo acelerado.,criacao_repositorio_github,https://andredarcie.github.io/zero-the-cat-game/,https://api.github.com/repos/andredarcie/zero-the-cat-game,2026-08-18
+2020,2020-05-15,26,perfil,plataforma_publicacao,Criei meu perfil no DEV Community.,criacao_perfil,https://dev.to/andredarcie,https://dev.to/andredarcie,2026-08-18
+2020,,26,carreira,,Tornei-me coordenador da equipe.,evento_registrado,registro_pessoal,registro_pessoal,
+2020,,26,carreira,,Completei três anos no Grupo SOITIC.,evento_registrado,registro_pessoal,registro_pessoal,
+2020,,26,carreira,,Dei uma palestra sobre .NET no Ateliê de Software.,evento_registrado,registro_pessoal,registro_pessoal,
+2020,,26,estudos,,Iniciei minha pós-graduação em Ciência de Dados Aplicada.,evento_enriquecido,https://dev.to/andredarcie/minha-jornada-de-uma-decada-pelo-net-4kme,https://dev.to/andredarcie/minha-jornada-de-uma-decada-pelo-net-4kme,2026-08-18
+2020,,26,eventos_pessoais,,Continuei a frequentar a academia.,evento_registrado,registro_pessoal,registro_pessoal,
+2020,,26,eventos_pessoais,,Terminei um relacionamento.,evento_registrado,registro_pessoal,registro_pessoal,
+2019,2019-09-09,25,jogo_criado,narrativa,"Zero To One — Jogo existencial feito na Bitsy para a game jam One Room, com uma narrativa curta contada ao longo de cinco dias.",criacao_repositorio_github,https://andredarcie.itch.io/zero-to-one,https://api.github.com/repos/andredarcie/zero-to-one,2026-08-18
+2019,2019-07-24,25,publicacoes,escrita_criativa,"Publiquei “Cavaleiro Andante do Papel de Pano”, o texto mais antigo encontrado no meu blog atual de contos e poemas.",primeira_publicacao_encontrada,https://andredarcie.blogspot.com/2019/07/o-cavaleiro-de-papel.html,https://andredarcie.blogspot.com/feeds/posts/default?alt=json&max-results=500,2026-08-18
+2019,2019-05-20,25,perfil,plataforma_criativa,Criei meu perfil de desenvolvedor no itch.io.,criacao_perfil,https://itch.io/profile/andredarcie,https://itch.io/profile/andredarcie,2026-08-18
+2019,2019-01-22,24,prototipo,acao,Kill the Chef — Pequeno jogo de ação para navegador.,criacao_repositorio_github,https://andredarcie.github.io/kill-the-chef/,https://api.github.com/repos/andredarcie/kill-the-chef,2026-08-18
+2019,,25,carreira,,Tornei-me desenvolvedor pleno .NET no Grupo SOITIC.,evento_registrado,registro_pessoal,registro_pessoal,
+2019,,25,carreira,,"Recebi o prêmio de funcionário destaque do setor de desenvolvimento, por votação dos próprios funcionários.",evento_registrado,registro_pessoal,registro_pessoal,
+2019,,25,carreira,,Conduzi vários coding dojos.,evento_registrado,registro_pessoal,registro_pessoal,
+2019,,25,eventos_pessoais,,Voltei a frequentar a academia.,evento_registrado,registro_pessoal,registro_pessoal,
+2019,,25,eventos_pessoais,,"Participei da minha primeira game jam, com o tema ""One Room"", e criei o jogo Zero To One.",evento_registrado,registro_pessoal,registro_pessoal,
+2019,,25,eventos_pessoais,,Pratiquei yoga e meditei com a Cris.,evento_registrado,registro_pessoal,registro_pessoal,
+2019,,25,eventos_pessoais,,Comecei a seguir um plano de reeducação alimentar.,evento_registrado,registro_pessoal,registro_pessoal,
+2019,,25,eventos_pessoais,,Comecei a aprender mais sobre mim e a desenvolver meu autoconhecimento.,evento_registrado,registro_pessoal,registro_pessoal,
+2019,,25,eventos_pessoais,,Comecei a fazer caminhadas com amigos do trabalho.,evento_registrado,registro_pessoal,registro_pessoal,
+2019,,25,eventos_pessoais,,Fabrício deixou o Grupo SOITIC em fevereiro.,evento_registrado,registro_pessoal,registro_pessoal,
+2019,,25,eventos_pessoais,,"Em agosto, comecei a morar com Diego.",evento_registrado,registro_pessoal,registro_pessoal,
+2019,,25,eventos_pessoais,leitura,"A leitura se tornou um hábito mais presente: li 14 livros e iniciei minha coleção pessoal.",evento_enriquecido,https://github.com/andredarcie/my-life-data,https://github.com/andredarcie/my-life-data/blob/master/data/books/books_read.csv,2026-08-18
+2019,,25,eventos_pessoais,,A saída de Camila e Diego ocorreu em agosto.,evento_registrado,registro_pessoal,registro_pessoal,
+2019,,25,eventos_pessoais,,Ajudei o Felipão a entrar no Ateliê de Software.,evento_registrado,registro_pessoal,registro_pessoal,
+2019,,25,eventos_pessoais,,Conheci Fábio Akita pessoalmente.,evento_registrado,registro_pessoal,registro_pessoal,
+2019,,25,eventos_pessoais,,Participei de um evento do Google e de outro evento de desenvolvimento em São Paulo.,evento_registrado,registro_pessoal,registro_pessoal,
+2018,,24,carreira,,"Completei meu segundo ano como desenvolvedor de software no Grupo SOITIC, trabalhando com ASP.NET Core, Vue.js e eSocial.",evento_registrado,registro_pessoal,registro_pessoal,
+2018,,24,carreira,,Trabalhei como freelancer em um sistema de medicina do trabalho (PCMSO e ASO).,evento_registrado,registro_pessoal,registro_pessoal,
+2018,,24,eventos_pessoais,,Completei o primeiro ano de um relacionamento sério.,evento_registrado,registro_pessoal,registro_pessoal,
+2018,,24,eventos_pessoais,,Conheci São Tomé das Letras.,evento_registrado,registro_pessoal,registro_pessoal,
+2018,,24,eventos_pessoais,,Visitei muitos lugares e fui a muitos shows.,evento_registrado,registro_pessoal,registro_pessoal,
+2017,2017-09-25,23,prototipo,arte,Conceptual Art — Obra de arte conceitual produzida na Unity.,criacao_repositorio_github,https://andredarcie.github.io/conceptual-art-unity/,https://api.github.com/repos/andredarcie/conceptual-art-unity,2026-08-18
+2017,2017-09-10,23,projeto,guia,C# Quick Reference Guide — Guia de referência da linguagem C# baseado em exemplos de código.,criacao_repositorio_github,https://github.com/andredarcie/csharp-quick-reference-guide,https://api.github.com/repos/andredarcie/csharp-quick-reference-guide,2026-08-18
+2017,,23,carreira,,Trabalhei como desenvolvedor web freelancer com ASP.NET MVC.,evento_registrado,registro_pessoal,registro_pessoal,
+2017,,23,carreira,,"Consegui meu primeiro emprego com carteira assinada como programador na Medsystem/Grupo SOITIC, onde fiz amigos que mantenho até hoje.",evento_registrado,registro_pessoal,registro_pessoal,
+2017,,23,carreira,,Trabalhei remotamente como desenvolvedor de jogos com a Unity Engine na SOITIC Games.,evento_registrado,registro_pessoal,registro_pessoal,
+2017,,23,estudos,,"Estudei ASP.NET Boilerplate, .NET, AngularJS, Unity, Vue.js, Ruby on Rails e .NET Core.",evento_registrado,registro_pessoal,registro_pessoal,
+2017,,23,eventos_pessoais,,Participei de reuniões na empresa com duas equipes.,evento_registrado,registro_pessoal,registro_pessoal,
+2017,,23,eventos_pessoais,,Dei uma palestra sobre a linguagem Ruby na Volve.,evento_registrado,registro_pessoal,registro_pessoal,
+2017,,23,eventos_pessoais,,"Aprendi a me virar longe de casa em Poços de Caldas, onde morei com Leo.",evento_registrado,registro_pessoal,registro_pessoal,
+2017,,23,entretenimento,musica,Pink Floyd,evento_registrado,registro_pessoal,registro_pessoal,
+2017,,23,outros,,"Visitei o Palace Casino, o Teatro da Urca, o Recanto Japonês, o Museu de Poços, a Orquestra Sinfônica, a ópera e a Casa da Cultura. Usei o Tinder, conheci muitas pessoas, fiz academia pela primeira vez e saí com muitos amigos.",evento_registrado,registro_pessoal,registro_pessoal,
+2016,2016-12-19,22,prototipo,narrativa,Life is Undefined — Jogo de ficção interativa com narrativa ramificada.,criacao_repositorio_github,https://andredarcie.github.io/life-is-undefined/,https://api.github.com/repos/andredarcie/life-is-undefined,2026-08-18
+2016,2016-12-09,22,educacao,pesquisa_cientifica,"O projeto “Projeto e Implementação de Aplicativos de Incentivo à Participação em Crowdsourcing no Transporte Público” recebeu menção honrosa na área de Ciências Exatas e da Terra do 24º Seminário de Iniciação Científica da PUC Minas.",premiacao_academica,https://www.pucminas.br/pesquisa/SiteAssets/Paginas/seminario-iniciacao-cientifica/resultado-24-seminario-iniciacao-cientifica.pdf,https://www.pucminas.br/pesquisa/Paginas/seminario-iniciacao-cientifica.aspx,2026-08-18
+2016,2016-10-27,22,projeto,curadoria,"Awesome GTFS — Curadoria de bibliotecas, recursos e outros materiais sobre a especificação GTFS de transporte público.",criacao_repositorio_github,https://github.com/andredarcie/awesome-gtfs,https://api.github.com/repos/andredarcie/awesome-gtfs,2026-08-18
+2016,2016-08-06,22,jogo_criado,terror,Get Out — Jogo textual de terror e sobrevivência no qual é preciso administrar a sanidade de uma família durante eventos sobrenaturais.,criacao_repositorio_github,https://andredarcie.github.io/get-out/,https://api.github.com/repos/andredarcie/get-out,2026-08-18
+2016,2016-07-28,22,prototipo,acao,2D Roguelike — Roguelike 2D desenvolvido na Unity e publicado em WebGL.,criacao_repositorio_github,https://andredarcie.github.io/2d-roguelike-game-unity/,https://api.github.com/repos/andredarcie/2d-roguelike-game-unity,2026-08-18
+2016,,22,carreira,,Continuei meu estágio como desenvolvedor web com ASP.NET MVC.,evento_registrado,registro_pessoal,registro_pessoal,
+2016,,22,carreira,,"Desenvolvi aplicativos com Xamarin, todos publicados no Google Play, para consultar dados do governo.",evento_registrado,registro_pessoal,registro_pessoal,
+2016,,22,educacao,,"Desenvolvi um projeto de iniciação científica do PROBIC com API em Node.js, cliente em JavaScript e HTTP.",evento_registrado,registro_pessoal,registro_pessoal,
+2016,,22,educacao,,Aprendi sobre complexidade de algoritmos e engenharia de software.,evento_registrado,registro_pessoal,registro_pessoal,
+2016,,22,educacao,,Participei do projeto da startup HyperP.,evento_registrado,registro_pessoal,registro_pessoal,
+2016,,22,educacao,,Concluí a faculdade.,evento_registrado,registro_pessoal,registro_pessoal,
+2016,,22,estudos,,"Estudei Unity, inglês, Ruby on Rails, ASP.NET, Gulp, Bootstrap, JavaScript, Node.js, Code Climate, testes automatizados, Jenkins, Travis, issues e Ionic.",evento_registrado,registro_pessoal,registro_pessoal,
+2016,,22,eventos_pessoais,mudanca,"No último ano da faculdade, comecei a morar em Poços de Caldas.",evento_registrado,registro_pessoal,registro_pessoal,
+2016,,22,eventos_pessoais,,Criei meu portfólio.,evento_registrado,registro_pessoal,registro_pessoal,
+2016,,22,eventos_pessoais,,Publiquei meu primeiro site.,evento_registrado,registro_pessoal,registro_pessoal,
+2016,,22,educacao,pesquisa_cientifica,Completei três anos de pesquisa científica financiada pelo CNPq.,evento_enriquecido,https://andredarcie.github.io/,registro_pessoal_e_portfolio,2026-08-18
+2015,2015-10-10,21,prototipo,dados,"Best Games of All Time — Ranking dos melhores jogos de todos os tempos, consolidado a partir de diversas fontes de dados.",criacao_repositorio_github,https://andredarcie.github.io/best-games-of-all-time-data-based/,https://api.github.com/repos/andredarcie/best-games-of-all-time-data-based,2026-08-18
+2015,,21,carreira,,Iniciei meu primeiro estágio como desenvolvedor web com ASP.NET MVC.,evento_registrado,registro_pessoal,registro_pessoal,
+2015,,21,carreira,,Desenvolvi aplicativos com Xamarin.,evento_registrado,registro_pessoal,registro_pessoal,
+2015,,21,carreira,,Fiz meu primeiro commit profissional enquanto trabalhava como freelancer.,evento_registrado,registro_pessoal,registro_pessoal,
+2015,,21,carreira,,Removi o ícone de aumentar e diminuir o tamanho do texto (28/07/2015).,evento_registrado,registro_pessoal,registro_pessoal,
+2015,,21,educacao,pesquisa_cientifica,"Meu projeto “Projeto e Implementação de Aplicativos de Incentivo à Participação em Crowdsourcing no Transporte Público” foi aprovado na primeira chamada do PROBIC/PUC Minas; desenvolvido com Alexandre Benevides de Carvalho Cordeiro e orientado por Udo Fritzke Junior, incluiu um aplicativo feito com PhoneGap.",evento_enriquecido,https://www.pucminas.br/pesquisa/Documents/probic_2015_resultado.pdf,registro_pessoal_e_documento_oficial,2026-08-18
+2015,,21,estudos,,"Estudei JavaScript, jQuery e HTML5.",evento_registrado,registro_pessoal,registro_pessoal,
+2015,,21,eventos_pessoais,,"Comprei meu primeiro smartphone, um Moto G2.",evento_registrado,registro_pessoal,registro_pessoal,
+2014,2014-12-24,20,prototipo,site,"My First Website — Meu primeiro site, dedicado ao Google Glass.",criacao_repositorio_github,https://andredarcie.github.io/my-first-web-site/,https://api.github.com/repos/andredarcie/my-first-web-site,2026-08-18
+2014,2014-05-07,20,projeto,aplicativo,"Simple Client Server Android App — Meu primeiro repositório público no GitHub: um aplicativo Android cliente-servidor em Java, com comunicação por sockets.",criacao_repositorio_github,https://github.com/andredarcie/simple-client-server-android-app,https://api.github.com/repos/andredarcie/simple-client-server-android-app,2026-08-18
+2014,,20,geral,,Completei meu primeiro ano como bolsista de iniciação científica.,evento_registrado,registro_pessoal,registro_pessoal,
+2013,,19,geral,,Iniciei o curso de Ciência da Computação.,evento_registrado,registro_pessoal,registro_pessoal,
+2013,,19,geral,,Aprendi a amar a filosofia.,evento_registrado,registro_pessoal,registro_pessoal,
+2013,,19,geral,cinema,"Assisti a filmes da lista do IMDb; naquele ano, foram 47 títulos, marcando o início de uma fase de exploração sistemática do cinema.",evento_enriquecido,https://github.com/andredarcie/my-life-data,https://github.com/andredarcie/my-life-data/blob/master/data/movies/movies_watched_letterboxd.csv,2026-08-18
+2012,,18,geral,,Concluí o ensino médio; foi um ano de transição e incerteza sobre os próximos passos.,evento_registrado,registro_pessoal,registro_pessoal,
+2012,,18,geral,,Tentei fazer um curso de web design com Rick e Drão.,evento_registrado,registro_pessoal,registro_pessoal,
+2012,,18,geral,,"Criei um blog chamado ""Aprendendo com Documentários"" (http://aprendendocomdocumentarios.blogspot.com/).",evento_registrado,registro_pessoal,registro_pessoal,
+2012,,18,geral,,Fiz um curso de computação na Microlins.,evento_registrado,registro_pessoal,registro_pessoal,
+2012,,18,geral,,Estudei para vestibulares e assisti a documentários e filmes.,evento_registrado,registro_pessoal,registro_pessoal,
+2011,,17,geral,,Frequentei o terceiro ano do ensino médio.,evento_registrado,registro_pessoal,registro_pessoal,
+2011,,17,eventos_pessoais,,Meu projeto final na ETEC foi um quiz em Flash.,evento_registrado,registro_pessoal,registro_pessoal,
+2011,,17,eventos_pessoais,,"Tive um novo computador (processador AMD Phenom II X6 de 3,2 GHz, 8 GB de RAM, HD de 1 TB e placa de vídeo GTX 470 de 1 GB).",evento_registrado,registro_pessoal,registro_pessoal,
+2011,,17,eventos_pessoais,,Concluí o curso técnico de informática na ETEC.,evento_registrado,registro_pessoal,registro_pessoal,
+2010,,16,geral,,"Frequentei o segundo ano do ensino médio e o curso técnico de informática na ETEC, além de criar meus primeiros blogs.",evento_registrado,registro_pessoal,registro_pessoal,
+2010,,16,eventos_pessoais,,Aprendi lógica de programação com Visualg.,evento_registrado,registro_pessoal,registro_pessoal,
+2010,,16,eventos_pessoais,,"Criei um blog chamado ""Blog do Aluno Programador"".",evento_registrado,registro_pessoal,registro_pessoal,
+2009,,15,geral,,Frequentei o primeiro ano do ensino médio e tive aulas de educação artística.,evento_registrado,registro_pessoal,registro_pessoal,
+2009,,15,geral,,Ganhei meu PlayStation 2.,evento_registrado,registro_pessoal,registro_pessoal,
+2009,,15,geral,,"Criei “Saga do Viagra e Senhor dos Chapéus” no RPG Maker VX.",evento_registrado,registro_pessoal,registro_pessoal,
+2009,,15,geral,,A primeira engine que usei foi a Engine 001.,evento_registrado,registro_pessoal,registro_pessoal,
+2009,,15,geral,,Comecei a visitar e a fazer amizade com o pessoal da TR Informática.,evento_registrado,registro_pessoal,registro_pessoal,
+2008,,14,geral,,Frequentei a oitava série e jogava truco com meus amigos na Escola Euclides da Cunha.,evento_registrado,registro_pessoal,registro_pessoal,
+2008,,14,geral,,"Tive meu primeiro computador (processador AMD de 900 MHz, 512 MB de RAM, HD de 20 GB e placa de vídeo GeForce 6200 de 512 MB).",evento_registrado,registro_pessoal,registro_pessoal,
+2008,,14,geral,,"Usava o computador sem internet, apenas para jogar títulos como Hitman, Age of Mythology, Warcraft III e Manhunt.",evento_registrado,registro_pessoal,registro_pessoal,
+2008,,14,geral,,Usei ferramentas como a Engine 001 e o RPG Maker VX para criar jogos pela primeira vez.,evento_registrado,registro_pessoal,registro_pessoal,
+2007,,13,geral,,Frequentei a sétima série e jogava xadrez.,evento_registrado,registro_pessoal,registro_pessoal,
+2006,,12,geral,,Frequentei a sexta série.,evento_registrado,registro_pessoal,registro_pessoal,
+2006,,12,geral,,Lembro-me de escrever histórias inspiradas em Resident Evil e na série Lost.,evento_registrado,registro_pessoal,registro_pessoal,
+2006,,12,geral,,"Uma delas se chamava Platoon e tratava de viagem no tempo; a outra, Minhocas Assassinas, era focada em terror.",evento_registrado,registro_pessoal,registro_pessoal,
+2005,,11,geral,,"Frequentei a quinta série e desenhava HQs de um super-herói que criei, chamado Super Máximo.",evento_registrado,registro_pessoal,registro_pessoal,
+2005,,11,geral,,"Gostava de construir casas de tijolos, minicidades e casas grandes para meus gatos.",evento_registrado,registro_pessoal,registro_pessoal,
+2005,,11,geral,,Conheci o Drão.,evento_registrado,registro_pessoal,registro_pessoal,
+2005,,11,geral,,"Ganhei o PlayStation 1, meu console favorito e mais marcante. Entre os jogos estavam Resident Evil 3: Nemesis, Silent Hill, Metal Gear Solid, Final Fantasy 7, Tekken 3, Pepsiman, Harry Potter, Yu-Gi-Oh! Forbidden Memories e Tenchu: Stealth Assassins.",evento_registrado,registro_pessoal,registro_pessoal,
+2004,,10,geral,,"Frequentei a quarta série; escrevia histórias, descobri a cola quente e me interessava por Lego e asa-delta.",evento_registrado,registro_pessoal,registro_pessoal,
+2004,,10,geral,,Encontrei a Soneca em uma caixa de papelão.,evento_registrado,registro_pessoal,registro_pessoal,
+2003,,9,geral,,Frequentei a terceira série.,evento_registrado,registro_pessoal,registro_pessoal,
+2003,,9,geral,,"Ganhei meu primeiro console, o Genesis 3, conhecido como Mega Drive. Alguns dos jogos eram Taz-Mania, Shadow Dancer: The Secret of Shinobi, Top Gear e Double Dragon.",evento_registrado,registro_pessoal,registro_pessoal,
+2003,,9,geral,,"Criava computadores de papelão para imitar o computador da minha tia, um IBM PC.",evento_registrado,registro_pessoal,registro_pessoal,
+2003,,9,geral,,Criei um jogo de cartas com desenhos.,evento_registrado,registro_pessoal,registro_pessoal,
+2002,,8,geral,,Frequentei a segunda série e ganhei um kit de química.,evento_registrado,registro_pessoal,registro_pessoal,
+2001,,7,geral,,Frequentei a primeira série e ganhei um brinquedo do corpo humano.,evento_registrado,registro_pessoal,registro_pessoal,
+2000,,6,geral,,Frequentei o ensino primário.,evento_registrado,registro_pessoal,registro_pessoal,
+1994,,0,geral,,"Nasci em 26 de fevereiro. Meu nome, André Nicolau, vem de Andreas Nikolaus ""Niki"" Lauda.",evento_registrado,registro_pessoal,registro_pessoal,

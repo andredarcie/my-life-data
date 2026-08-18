@@ -1,5 +1,5 @@
-title,beat_date,year_played,platform,score
-Taz Mania,2004,2004,Mega Drive,3
+﻿title,beat_date,year_played,platform,score
+Taz-Mania,2004,2004,Mega Drive,3
 Shadow Dancer,2004,2004,Mega Drive,3
 Double Dragon,2004,2004,Mega Drive,3
 Double Dragon 2,2004,2004,Mega Drive,3
@@ -24,10 +24,10 @@ Tenchu 2: Birth of the Stealth Assassins,2007,2007,PlayStation,3
 Yu-Gi-Oh! Forbidden Memories,2007,2007,PlayStation,3
 Resident Evil 4,2007,2007,PlayStation,4
 Tekken 5,2007,2007,PlayStation,3
-Hitman Blood Money,2007,2007,PC,4
+Hitman: Blood Money,2007,2007,PC,4
 Age of Mythology,2008,2008,PC,3
 Mafia,2008,2008,PC,3
-Land of The Dead Road To Fiddler's Green,2008,2008,PC,3
+Land of the Dead: Road to Fiddler's Green,2008,2008,PC,3
 Call of Duty 1,2009,2009,PC,3
 Call of Duty 2,2009,2009,PC,4
 Portal,2010,2010,PC,4
@@ -36,9 +36,9 @@ F.E.A.R,2010,2010,PC,4
 Mafia 2,2011,2011,PC,4
 Call of Duty 4: Modern Warfare,2011,2011,PC,4
 Call of Duty 5: World at War,2011,2011,PC,3
-Call of Duty Modern Warfare 2,2011,2011,PC,4
-Call of Duty Black Ops,2011,2011,PC,3
-Call of Duty Modern Warfare 3,2011,2011,PC,3
+Call of Duty: Modern Warfare 2,2011,2011,PC,4
+Call of Duty: Black Ops,2011,2011,PC,3
+Call of Duty: Modern Warfare 3,2011,2011,PC,3
 Batman: Arkham City,2011,2011,PC,3
 Battlefield: Bad Company 2,2011,2011,PC,3
 Street Fighter IV,2011,2011,PC,3
@@ -47,159 +47,159 @@ Street Fighter vs Tekken,2011,2011,PC,3
 Braid,2011,2011,PC,4
 Amnesia: The Dark Descent,2011,2011,PC,5
 Max Payne 3,2011,2011,PC,2
-GTA IV,16/10/12,2012,PC,3
-The Walking Dead: A Telltale Games Series,8/12/12,2012,PC,5
-Farcry 3,11/12/12,2012,PC,4
-Warcraft III: Reign of Chaos,25/03/13,2012,PC,4
-Hitman: Absolution,26/03/13,2012,PC,3
-BioShock,28/03/13,2012,PC,4
-Warcraft III: The Frozen Throne,30/03/13,2012,PC,3
-Call of Juarez: Gunslinger,06/05/13,2012,PC,3
-Dishonored,24/06/13,2012,PC,3
-L.A noire,02/07/13,2012,PC,3
-DOOM,02/07/13,2012,PC,3
-Hotline: Miami,10/07/13,2012,PC,4
-Mortal Kombat(2013),20/07/13,2012,PC,3
-The Walking Dead: 400 Days,27/07/13,2012,PC,3
-Grand Theft Auto: Vice City,29/07/13,2012,PC,3
-Grand Theft Auto: III,31/07/13,2012,PC,3
-The Stanley Parable,04/12/13,2012,PC,3
-Gears of War,15/12/13,2012,PC,2
-Gone Home,15/12/13,2012,PC,5
-Tomb Raider(2013),27/12/13,2012,PC,3
+GTA IV,2012-10-16,2012,PC,3
+The Walking Dead: A Telltale Games Series,2012-12-08,2012,PC,5
+Farcry 3,2012-12-11,2012,PC,4
+Warcraft III: Reign of Chaos,2013-03-25,2013,PC,4
+Hitman: Absolution,2013-03-26,2013,PC,3
+BioShock,2013-03-28,2013,PC,4
+Warcraft III: The Frozen Throne,2013-03-30,2013,PC,3
+Call of Juarez: Gunslinger,2013-05-06,2013,PC,3
+Dishonored,2013-06-24,2013,PC,3
+L.A. Noire,2013-07-02,2013,PC,3
+DOOM,2013-07-02,2013,PC,3
+Hotline: Miami,2013-07-10,2013,PC,4
+Mortal Kombat (2013),2013-07-20,2013,PC,3
+The Walking Dead: 400 Days,2013-07-27,2013,PC,3
+Grand Theft Auto: Vice City,2013-07-29,2013,PC,3
+Grand Theft Auto: III,2013-07-31,2013,PC,3
+The Stanley Parable,2013-12-04,2013,PC,3
+Gears of War,2013-12-15,2013,PC,2
+Gone Home,2013-12-15,2013,PC,5
+Tomb Raider (2013),2013-12-27,2013,PC,3
 Portal 2,2013,2013,PC,5
 Minecraft,2013,2013,PC,5
-BioShock: Infinite,19/01/14,2014,PC,3
-Half-Life,23/01/14,2014,PC,4
-Half-Life: Opposing Force,26/01/14,2014,PC,3
-Half-Life: Blue Shift,29/01/14,2014,PC,3
-The Witcher: Enhanced Edition,15/06/14,2014,PC,3
-The Witcher 2: Assassins of Kings Enhanced Edition,16/07/14,2014,PC,3
-The Elder Scrolls V: Skyrim,19/10/14,2014,PC,5
-The Walking Dead: Season Two (Telltale),30/11/14,2014,PC,3
-Metal Gear Solid,02/12/14,2014,PC,4
-The Vanishing of Ethan Carter,04/12/14,2014,PC,4
-To The Moon,08/12/14,2014,PC,4
-Metal Gear Solid 2: Sons of Liberty,14/12/14,2014,PC,4
-Metal Gear Solid 3: Snake Eater,22/12/14,2014,PC,4
-Metal Gear,25/12/14,2014,PC,3
-Metal Gear 2: Solid Snake,05/01/15,2015,PC,3
-Dear Esther,13/01/15,2015,PC,3
-Metal Gear Solid 4: Guns of the Patriots,24/01/15,2015,PlayStation 3,4
-Grand Theft Auto: San Andreas,16/02/15,2015,PC,3
-Grim Fandango,17/02/15,2015,PC,3
-Fallout 3,23/06/15,2015,PC,3
-Super Mario Bros.,14/07/15,2015,PC,3
-LIMBO,01/08/15,2015,PC,4
-Grand Theft Auto V,31/10/15,2015,PC,5
-Life is Strange,11/11/15,2015,PC,4
-The Last of Us,11/12/15,2015,PlayStation 3,4
-Journey,11/12/15,2015,PlayStation 3,5
-Trine,25/12/15,2015,PC,3
-Trine 2: Complete Story,31/12/15,2015,PC,3
-Fallout 4,31/12/15,2015,PC,3
-Half-Life 2,08/01/16,2016,PC,5
-Half-Life 2: Lost Coast,08/01/16,2016,PC,3
-Half-Life 2: Episode One,11/01/16,2016,PC,3
-Half-Life 2: Episode Two,20/01/16,2016,PC,3
-The Witcher 3: Wild Hunt,11/07/16,2016,PC,5
-INSIDE,12/12/16,2016,PC,5
-Metal Gear Solid V: The Phantom Pain,01/02/17,2017,PC,3
-Resident Evil 7: Biohazard,18/03/17,2017,PC,3
-The Witcher 3: Wild Hunt – Hearts of Stone,28/05/2017,2017,PC,3
-The Witcher 3: Wild Hunt – Blood and Wine,16/11/2019,2019,PC,3
-The Legend of Zelda,07/07/2020,2020,PC,4
-Celeste,23/09/2020,2020,PC,4
-Super Mario Odyssey,09/10/2020,2020,Nintendo Switch,5
-Red Dead Redemption 2,12/10/2020,2020,PC,3
-The Witness,16/10/2020,2020,PC,3
-The Unfinished Swan,17/10/2020,2020,PC,3
-Death Stranding,24/10/2020,2020,PC,3
-The Legend of Zelda: Breath of the Wild,25/10/2020,2020,Nintendo Switch,4
-Florence,26/10/2020,2020,PC,3
-What Remains of Edith Finch,26/10/2020,2020,PC,5
-Disco Elysium,12/12/2020,2020,PC,5
-Hades,20/01/2021,2021,PC,3
-Resident Evil 2 (2019),28/01/2021,2021,PC,4
-Resident Evil 3 (2020),07/02/2021,2021,PC,3
-Halo: Combat Evolved (2001),07/03/2021,2021,PC,3
-Horizon Zero Dawn (2017),10/03/2021,2021,PC,3
-Halo 2 (2004),13/03/2021,2021,PC,3
-Halo 3 (2007),14/03/2021,2021,PC,3
-Halo: Reach (2010),21/03/2021,2021,PC,3
-A Short Hike,17/07/2021,2021,PC,5
-Resident Evil Village,18/07/2021,2021,PC,4
-Metro Exodus,19/07/2021,2021,PC,4
-God of War (2018),08/08/2021,2021,PlayStation 5,4
-Astro's Playroom,09/08/2021,2021,PlayStation 5,4
-Uncharted 4: A Thief's End,11/08/2021,2021,PlayStation 5,5
-The Last of Us Remastered,15/08/2021,2021,PlayStation 5,4
-The Last of Us Part II,11/09/2021,2021,PlayStation 5,5
-Marvel's Spider-Man (2018),19/09/2021,2021,PlayStation 5,4
-A Plague Tale: Innocence,20/09/2021,2021,PlayStation 5,3
-Mass Effect 1: Legendary Edition,01/11/2021,2021,PlayStation 5,3
-Ratchet & Clank: Rift Apart,20/11/2021,2021,PlayStation 5,3
-Marvel's Spider-Man: Miles Morales,21/11/2021,2021,PlayStation 5,4
-Ghost of Tsushima,09/01/2022,2022,PlayStation 5,4
-Unpacking,09/01/2022,2022,PC,4
-Mass Effect 2: Legendary Edition,14/02/2022,2022,PlayStation 5,3
-Vader Immortal: Episode I,11/05/2022,2022,Meta Quest 2,3
-Moss,15/06/2022,2022,Meta Quest 2,3
-Star Wars Jedi: Fallen Order,24/06/2022,2022,PlayStation 5,4
-God of War III Remastered,10/07/2022,2022,PlayStation 5,3
-Horizon Forbidden West,24/07/2022,2022,PlayStation 5,3
-Firewatch,13/08/2022,2022,Nintendo Switch,4
-Final Fantasy VII Remake,04/09/2022,2022,PlayStation 5,4
-Cyberpunk 2077,07/09/2022,2022,PlayStation 5,3
-Rise of the Tomb Raider,10/09/2022,2022,PlayStation 5,3
-Stray,11/09/2022,2022,PlayStation 5,3
-Titanfall 2,18/09/2022,2022,PlayStation 5,3
-Control,28/09/2022,2022,PlayStation 5,3
-Hitman 3,25/10/2022,2022,PlayStation 5,3
-Nier: Automata,26/10/2022,2022,Nintendo Switch,3
-Bayonetta 2,29/10/2022,2022,Nintendo Switch,3
-Kirby and the Forgotten Land,05/11/2022,2022,Nintendo Switch,3
-God of War Ragnarök,25/11/2022,2022,PlayStation 5,4
-Call of Duty: Vanguard,06/01/2023,2023,PlayStation 5,3
-Elden Ring,11/01/2023,2023,PlayStation 5,4
-Pistol Whip,17/02/2023,2023,Meta Quest 2,4
-Half-Life: Alyx,21/02/2023,2023,Meta Quest 2,5
-Tekken 7,22/02/2023,2023,PlayStation 5,3
-Tekken 2,25/02/2023,2023,PlayStation 5,3
-Before Your Eyes,15/03/2023,2023,PC,5
-DOOM (2016),15/03/2023,2023,PlayStation 5,3
-Hogwarts Legacy,19/03/2023,2023,PlayStation 5,3
-Resident Evil 4 (2023),04/04/2023,2023,PlayStation 5,3
-Call of Duty: Modern Warfare (2019),06/04/2023,2023,PlayStation 5,3
-Call of Duty: Black Ops Cold War,08/04/2023,2023,PlayStation 5,3
-Wolfenstein: The New Order,13/04/2023,2023,PlayStation 5,3
-Call of Duty: Modern Warfare 2 (2022),15/04/2023,2023,PlayStation 5,3
-Uncharted: Drake's Fortune,19/04/2023,2023,PlayStation 5,3
-Uncharted 2: Among Thieves,22/04/2023,2023,PlayStation 5,3
-Super Mario World,02/06/2023,2023,Nintendo Switch,3
-Wolfenstein II: The New Colossus,02/07/2023,2023,PlayStation 5,4
-Mario Kart 8 Deluxe,10/08/2023,2023,Nintendo Switch,3
-The Legend of Zelda: Tears of the Kingdom,14/08/2023,2023,Nintendo Switch,5
-Red Dead Redemption,31/08/2023,2023,PlayStation 5,4
-Super Smash Bros. Ultimate,13/09/2023,2023,Nintendo Switch,4
-Uncharted: The Lost Legacy,27/09/2023,2023,PlayStation 5,4
-Silent Hill: The Short Message,01/02/2024,2024,PlayStation 5,4
-Cyberpunk 2077: Phantom Liberty,04/02/2024,2024,PlayStation 5,4
-Alan Wake 2,06/04/2024,2024,PC,5
-Spec Ops: The Line,29/09/2024,2024,PC,4
-Silent Hill 2 (2024),20/10/2024,2024,PC,4
-Final Fantasy XVI,10/05/2025,2025,PlayStation 5,3
-Sayonara Wild Hearts,25/05/2025,2025,PlayStation 5,4
-Astro Bot,15/06/2025,2025,PlayStation 5,4
-Final Fantasy VII Rebirth,19/06/2025,2025,PlayStation 5,4
-Death Stranding 2: On the Beach,13/07/2025,2025,PlayStation 5,5
-Marvel's Spider-Man 2,24/08/2025,2025,PlayStation 5,3
-Sword of the Sea,24/08/2025,2025,PlayStation 5,4
-Forza Horizon 5,11/09/2025,2025,PlayStation 5,4
-Indiana Jones and the Great Circle,22/09/2025,2025,PlayStation 5,4
-Ghost of Yōtei,19/10/2025,2025,PlayStation 5,5
-Clair Obscur: Expedition 33,25/11/2025,2025,PC,4
-StarCraft II: Wings of Liberty,04/12/2025,2025,PC,4
-Dark Souls,14/02/2026,2026,PlayStation 5,5
-Resident Evil Requiem,05/04/2026,2026,PlayStation 5,4
+BioShock: Infinite,2014-01-19,2014,PC,3
+Half-Life,2014-01-23,2014,PC,4
+Half-Life: Opposing Force,2014-01-26,2014,PC,3
+Half-Life: Blue Shift,2014-01-29,2014,PC,3
+The Witcher: Enhanced Edition,2014-06-15,2014,PC,3
+The Witcher 2: Assassins of Kings Enhanced Edition,2014-07-16,2014,PC,3
+The Elder Scrolls V: Skyrim,2014-10-19,2014,PC,5
+The Walking Dead: Season Two (Telltale),2014-11-30,2014,PC,3
+Metal Gear Solid,2014-12-02,2014,PC,4
+The Vanishing of Ethan Carter,2014-12-04,2014,PC,4
+To The Moon,2014-12-08,2014,PC,4
+Metal Gear Solid 2: Sons of Liberty,2014-12-14,2014,PC,4
+Metal Gear Solid 3: Snake Eater,2014-12-22,2014,PC,4
+Metal Gear,2014-12-25,2014,PC,3
+Metal Gear 2: Solid Snake,2015-01-05,2015,PC,3
+Dear Esther,2015-01-13,2015,PC,3
+Metal Gear Solid 4: Guns of the Patriots,2015-01-24,2015,PlayStation 3,4
+Grand Theft Auto: San Andreas,2015-02-16,2015,PC,3
+Grim Fandango,2015-02-17,2015,PC,3
+Fallout 3,2015-06-23,2015,PC,3
+Super Mario Bros.,2015-07-14,2015,PC,3
+LIMBO,2015-08-01,2015,PC,4
+Grand Theft Auto V,2015-10-31,2015,PC,5
+Life is Strange,2015-11-11,2015,PC,4
+The Last of Us,2015-12-11,2015,PlayStation 3,4
+Journey,2015-12-11,2015,PlayStation 3,5
+Trine,2015-12-25,2015,PC,3
+Trine 2: Complete Story,2015-12-31,2015,PC,3
+Fallout 4,2015-12-31,2015,PC,3
+Half-Life 2,2016-01-08,2016,PC,5
+Half-Life 2: Lost Coast,2016-01-08,2016,PC,3
+Half-Life 2: Episode One,2016-01-11,2016,PC,3
+Half-Life 2: Episode Two,2016-01-20,2016,PC,3
+The Witcher 3: Wild Hunt,2016-07-11,2016,PC,5
+INSIDE,2016-12-12,2016,PC,5
+Metal Gear Solid V: The Phantom Pain,2017-02-01,2017,PC,3
+Resident Evil 7: Biohazard,2017-03-18,2017,PC,3
+The Witcher 3: Wild Hunt – Hearts of Stone,2017-05-28,2017,PC,3
+The Witcher 3: Wild Hunt – Blood and Wine,2019-11-16,2019,PC,3
+The Legend of Zelda,2020-07-07,2020,PC,4
+Celeste,2020-09-23,2020,PC,4
+Super Mario Odyssey,2020-10-09,2020,Nintendo Switch,5
+Red Dead Redemption 2,2020-10-12,2020,PC,3
+The Witness,2020-10-16,2020,PC,3
+The Unfinished Swan,2020-10-17,2020,PC,3
+Death Stranding,2020-10-24,2020,PC,3
+The Legend of Zelda: Breath of the Wild,2020-10-25,2020,Nintendo Switch,4
+Florence,2020-10-26,2020,PC,3
+What Remains of Edith Finch,2020-10-26,2020,PC,5
+Disco Elysium,2020-12-12,2020,PC,5
+Hades,2021-01-20,2021,PC,3
+Resident Evil 2 (2019),2021-01-28,2021,PC,4
+Resident Evil 3 (2020),2021-02-07,2021,PC,3
+Halo: Combat Evolved (2001),2021-03-07,2021,PC,3
+Horizon Zero Dawn (2017),2021-03-10,2021,PC,3
+Halo 2 (2004),2021-03-13,2021,PC,3
+Halo 3 (2007),2021-03-14,2021,PC,3
+Halo: Reach (2010),2021-03-21,2021,PC,3
+A Short Hike,2021-07-17,2021,PC,5
+Resident Evil Village,2021-07-18,2021,PC,4
+Metro Exodus,2021-07-19,2021,PC,4
+God of War (2018),2021-08-08,2021,PlayStation 5,4
+Astro's Playroom,2021-08-09,2021,PlayStation 5,4
+Uncharted 4: A Thief's End,2021-08-11,2021,PlayStation 5,5
+The Last of Us Remastered,2021-08-15,2021,PlayStation 5,4
+The Last of Us Part II,2021-09-11,2021,PlayStation 5,5
+Marvel's Spider-Man (2018),2021-09-19,2021,PlayStation 5,4
+A Plague Tale: Innocence,2021-09-20,2021,PlayStation 5,3
+Mass Effect 1: Legendary Edition,2021-11-01,2021,PlayStation 5,3
+Ratchet & Clank: Rift Apart,2021-11-20,2021,PlayStation 5,3
+Marvel's Spider-Man: Miles Morales,2021-11-21,2021,PlayStation 5,4
+Ghost of Tsushima,2022-01-09,2022,PlayStation 5,4
+Unpacking,2022-01-09,2022,PC,4
+Mass Effect 2: Legendary Edition,2022-02-14,2022,PlayStation 5,3
+Vader Immortal: Episode I,2022-05-11,2022,Meta Quest 2,3
+Moss,2022-06-15,2022,Meta Quest 2,3
+Star Wars Jedi: Fallen Order,2022-06-24,2022,PlayStation 5,4
+God of War III Remastered,2022-07-10,2022,PlayStation 5,3
+Horizon Forbidden West,2022-07-24,2022,PlayStation 5,3
+Firewatch,2022-08-13,2022,Nintendo Switch,4
+Final Fantasy VII Remake,2022-09-04,2022,PlayStation 5,4
+Cyberpunk 2077,2022-09-07,2022,PlayStation 5,3
+Rise of the Tomb Raider,2022-09-10,2022,PlayStation 5,3
+Stray,2022-09-11,2022,PlayStation 5,3
+Titanfall 2,2022-09-18,2022,PlayStation 5,3
+Control,2022-09-28,2022,PlayStation 5,3
+Hitman 3,2022-10-25,2022,PlayStation 5,3
+Nier: Automata,2022-10-26,2022,Nintendo Switch,3
+Bayonetta 2,2022-10-29,2022,Nintendo Switch,3
+Kirby and the Forgotten Land,2022-11-05,2022,Nintendo Switch,3
+God of War Ragnarök,2022-11-25,2022,PlayStation 5,4
+Call of Duty: Vanguard,2023-01-06,2023,PlayStation 5,3
+Elden Ring,2023-01-11,2023,PlayStation 5,4
+Pistol Whip,2023-02-17,2023,Meta Quest 2,4
+Half-Life: Alyx,2023-02-21,2023,Meta Quest 2,5
+Tekken 7,2023-02-22,2023,PlayStation 5,3
+Tekken 2,2023-02-25,2023,PlayStation 5,3
+Before Your Eyes,2023-03-15,2023,PC,5
+DOOM (2016),2023-03-15,2023,PlayStation 5,3
+Hogwarts Legacy,2023-03-19,2023,PlayStation 5,3
+Resident Evil 4 (2023),2023-04-04,2023,PlayStation 5,3
+Call of Duty: Modern Warfare (2019),2023-04-06,2023,PlayStation 5,3
+Call of Duty: Black Ops Cold War,2023-04-08,2023,PlayStation 5,3
+Wolfenstein: The New Order,2023-04-13,2023,PlayStation 5,3
+Call of Duty: Modern Warfare 2 (2022),2023-04-15,2023,PlayStation 5,3
+Uncharted: Drake's Fortune,2023-04-19,2023,PlayStation 5,3
+Uncharted 2: Among Thieves,2023-04-22,2023,PlayStation 5,3
+Super Mario World,2023-06-02,2023,Nintendo Switch,3
+Wolfenstein II: The New Colossus,2023-07-02,2023,PlayStation 5,4
+Mario Kart 8 Deluxe,2023-08-10,2023,Nintendo Switch,3
+The Legend of Zelda: Tears of the Kingdom,2023-08-14,2023,Nintendo Switch,5
+Red Dead Redemption,2023-08-31,2023,PlayStation 5,4
+Super Smash Bros. Ultimate,2023-09-13,2023,Nintendo Switch,4
+Uncharted: The Lost Legacy,2023-09-27,2023,PlayStation 5,4
+Silent Hill: The Short Message,2024-02-01,2024,PlayStation 5,4
+Cyberpunk 2077: Phantom Liberty,2024-02-04,2024,PlayStation 5,4
+Alan Wake 2,2024-04-06,2024,PC,5
+Spec Ops: The Line,2024-09-29,2024,PC,4
+Silent Hill 2 (2024),2024-10-20,2024,PC,4
+Final Fantasy XVI,2025-05-10,2025,PlayStation 5,3
+Sayonara Wild Hearts,2025-05-25,2025,PlayStation 5,4
+Astro Bot,2025-06-15,2025,PlayStation 5,4
+Final Fantasy VII Rebirth,2025-06-19,2025,PlayStation 5,4
+Death Stranding 2: On the Beach,2025-07-13,2025,PlayStation 5,5
+Marvel's Spider-Man 2,2025-08-24,2025,PlayStation 5,3
+Sword of the Sea,2025-08-24,2025,PlayStation 5,4
+Forza Horizon 5,2025-09-11,2025,PlayStation 5,4
+Indiana Jones and the Great Circle,2025-09-22,2025,PlayStation 5,4
+Ghost of Yōtei,2025-10-19,2025,PlayStation 5,5
+Clair Obscur: Expedition 33,2025-11-25,2025,PC,4
+StarCraft II: Wings of Liberty,2025-12-04,2025,PC,4
+Dark Souls,2026-02-14,2026,PlayStation 5,5
+Resident Evil Requiem,2026-04-05,2026,PlayStation 5,4
 Grand Theft Auto IV,,,,
